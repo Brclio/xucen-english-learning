@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:41:35.364Z",
+  "updatedAt": "2026-11-05T13:30:14.507798+00:00",
   "mode": "cloudflare-pages-static",
   "releaseBase": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/",
   "staticFileCount": 160,
@@ -184,6 +184,11 @@
   "sourceDataUnchangedExceptDistVideoPaths": true,
   "markdownLocalLinksChecked": 314,
   "missingLocalLinks": [],
-  "remoteReleasePlayback": "pending: Release publication and remote browser verification are separate final steps",
-  "cloudflareDeployed": false
+  "remoteReleasePlayback": "See cloudflare-browser-validation.json: three videos fully passed the bounded playback/seek checks; the large video recovered after buffering and played to the end without retry.",
+  "cloudflareDeployed": true,
+  "deploymentMode": "github-integration",
+  "productionUrl": "https://xucen-english-course.pages.dev",
+  "gitDeploymentReport": "metadata/cloudflare-git-deployment.json",
+  "httpVerificationReport": "metadata/cloudflare-http-validation.json",
+  "booksBrowserReport": "metadata/cloudflare-books-browser-validation.json"
 }
