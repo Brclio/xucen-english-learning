@@ -1,0 +1,98 @@
+[
+  {
+    "id": "v_673ab182e4b023c058a6547d",
+    "response": {
+      "code": 0,
+      "data": {
+        "cloud_data": {
+          "hw": {
+            "encrypt_url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+            "host": "https://htv-vod.h5.xed.plus",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm"
+          },
+          "zj": {
+            "encrypt_url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm"
+          }
+        },
+        "platform": "zj"
+      },
+      "msg": "success"
+    }
+  },
+  {
+    "id": "v_674d33cee4b0694c950b2c81",
+    "response": {
+      "code": 0,
+      "data": {
+        "cloud_data": {
+          "hw": {
+            "encrypt_url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/437934e9bacb7a1dfbbc57907671f960"
+          },
+          "zj": {
+            "encrypt_url": "https://vth-vod.h5.xed.plus/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+            "host": "https://vth-vod.h5.xed.plus",
+            "param": "[REDACTED]",
+            "path": "asset/437934e9bacb7a1dfbbc57907671f960"
+          }
+        },
+        "platform": "hw"
+      },
+      "msg": "success"
+    }
+  },
+  {
+    "id": "v_6768cc61e4b023c058bb970e",
+    "response": {
+      "code": 0,
+      "data": {
+        "cloud_data": {
+          "hw": {
+            "encrypt_url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+            "host": "https://htv-vod.h5.xed.plus",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm"
+          },
+          "zj": {
+            "encrypt_url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm"
+          }
+        },
+        "platform": "zj"
+      },
+      "msg": "success"
+    }
+  },
+  {
+    "id": "v_67a17a4fe4b0694ca05500a6",
+    "response": {
+      "code": 0,
+      "data": {
+        "cloud_data": {
+          "hw": {
+            "encrypt_url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+            "host": "https://htv-vod.h5.xed.plus",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm"
+          },
+          "zj": {
+            "encrypt_url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm"
+          }
+        },
+        "platform": "zj"
+      },
+      "msg": "success"
+    }
+  }
+]

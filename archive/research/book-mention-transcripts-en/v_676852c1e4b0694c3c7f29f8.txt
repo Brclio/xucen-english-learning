@@ -1,0 +1,47 @@
+[0.0–3.4]  I am invited to a party by Mo Willems.
+[3.6–5.9]  I am invited to a party.
+[6.2–10.2]  Gerald! Look, look, I'm invited to a party.
+[10.8–11.5]  Cool.
+[11.6–16.7]  It is cool. Will you go with me? I have never been to a party.
+[17.2–20.4]  I will go with you. I know parties.
+[21.0–22.2]  Party! Party!
+[22.2–22.7]  Party!
+[23.6–29.1]  Wait, what if it is a fancy party? We must be ready.
+[29.6–30.3]  Really?
+[30.9–32.2]  I know parties.
+[32.6–34.3]  He knows parties.
+[37.3–38.8]  Is this fancy?
+[39.4–41.3]  Party fancy.
+[42.2–43.7]  What is that?
+[43.9–45.0]  That's fancy time.
+[45.1–45.5]  Okay.
+[45.8–46.3]  Party!
+[46.3–46.8]  Party!
+[47.1–47.5]  Party!
+[47.5–48.1]  Party!
+[48.7–49.1]  Wait.
+[49.7–52.0]  What if it is a pool party?
+[52.7–54.0]  A fancy pool party?
+[54.0–56.3]  We must be ready!
+[57.4–58.0]  I know parties.
+[58.0–60.0]  He knows parties.
+[60.0–62.0]  He knows parties.
+[62.0–65.0]  How is this?
+[65.0–68.0]  We will make a splash.
+[68.0–71.0]  Party! Party! Party!
+[71.0–74.0]  Wait! What if it is a costume party?
+[74.0–77.0]  A fancy pool costume party?
+[77.0–80.0]  We must be ready!
+[80.0–84.0]  He had better no parties.
+[84.0–87.0]  Now can we go to the party?
+[87.0–89.9]  Yes, now we are ready.
+[90.4–93.4]  Well, that is a surprise.
+[94.5–97.0]  You do know parties.
+[97.8–104.0]  Party, party, party, party, party, party, party, party, party, party, party, party, party.
+[104.8–106.6]  I'm invited to a party.
+[107.4–108.4]  Party fun.
+[108.4–111.2]  What are the three different forms of parties?
+[112.1–115.7]  Fancy, pool, and costume.
+[115.7–118.9]  Party fancy.
+[119.3–120.9]  You know party.
+[122.3–124.1]  Party fancy.

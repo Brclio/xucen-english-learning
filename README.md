@@ -2,6 +2,28 @@
 
 打开 [index.html](index.html) 即可进入学习网页，无需联网、安装依赖或启动服务器。
 
+## 从 GitHub 取得完整课程
+
+公开仓库：[Brclio/xucen-english-learning](https://github.com/Brclio/xucen-english-learning)。本仓库使用普通 Git，不依赖 Git LFS。
+
+```sh
+git clone https://github.com/Brclio/xucen-english-learning.git
+cd xucen-english-learning
+node scripts/restore_media.mjs
+```
+
+37 个视频、41 个音频、全部课程图片与绘本封面直接保存在源码目录。另 4 个视频超过 GitHub 的单文件 100 MiB 限制，其**全部原始字节**保存在 `media/video-parts/` 的 9 个无损分卷中；上述还原命令会按 `media/large-files.json` 验证并拼回原路径。没有转码或降低清晰度。原文件已存在时只做校验，内容不符时停止，绝不覆盖。
+
+本机现有 41 个完整视频仍在 `media/videos/`，不需要重新下载。全部 41 个完整 MP4 同时提供于 [课程视频 Release](https://github.com/Brclio/xucen-english-learning/releases/tag/course-v1)，下载即可播放。Release 使用稳定文件名 `lesson-00.mp4` 至 `lesson-40.mp4`，显示标签保留原课名；[文件名对应表](metadata/release-file-map.json)记录原路径与 SHA-256，内容没有改变。Release 视频是本项目已经保存的 720p 课程文件，不代表尚未找到的上传原片。
+
+完成还原后，直接打开 `index.html`。Node.js 只用于分卷还原和部署工具，日常离线学习无需启动服务器。
+
+## Cloudflare 免费部署
+
+见 [CLOUDFLARE.md](CLOUDFLARE.md)。使用 Cloudflare Pages 纯静态站，无需 R2、Workers 或付费服务。构建命令为 `npm run build`，输出目录为 `dist`。线上版视频读取本仓库公开 Release 中的完整 MP4；音频、图片、封面及文字资料由 Pages 静态托管。构建只生成部署副本，现有离线网页、课程数据和本地媒体保持不变。
+
+研究过程的机器转写、抽帧和源码证据保存在 [archive/](archive/README.md)。原始访问凭据只留在本机；提交的研究副本已脱敏，所有课程音视频保持原样。
+
 [绘本书架](books.html)收录课程中已核实的绘本及系列，封面保存在本地；可搜索书名、查看提及证据，并跳转到课程对应时间。[绘本书目.md](绘本书目.md)提供同一书目的 Markdown 版本。
 
 ## 实际保存情况

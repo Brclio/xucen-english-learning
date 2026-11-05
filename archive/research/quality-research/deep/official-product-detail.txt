@@ -1,0 +1,633 @@
+商品详情2.0
+​
+拥有此API的权限集
+商品管理-查询
+请求方式及url
+​
+请求方式：
+POST
+请求头：
+Content-Type:application/json
+接口地址：
+https://api.xiaoe-tech.com/xe.goods.detail.get/4.0.0
+频率限制：
+10秒3000次
+接口调试
+GET
+POST
+PUT
+DELETE
+https://api-doc.xiaoe-tech.com/_agent/forward?url=https://api.xiaoe-tech.com/
+发送请求
+重置
+请求参数
+显示请求头
+响应结果
+暂无响应数据
+请求参数
+​
+参数名
+必选
+类型
+说明
+access_token
+是
+string
+专属token
+resources[].ids
+是
+array
+资源ID集合，可使用
+查询商品列表2.0
+获取resource_id的值
+resources[].type
+是
+int
+资源类型，可使用
+查询商品列表2.0
+获取resource_type的值
+is_return_deleted
+否
+int
+是否删除 0正常 1已删除 不传默认返回所有数据
+is_return_forbid
+否
+int
+商品是否被封禁：0 = 否，1 = 是 不传默认返回所有数据
+is_cache
+否
+bool
+是否查询缓存：false = 否，true = 是 默认是
+body
+否
+string
+传“stock”查询库存信息，传“sku”查商品规格相关信息,传“attr”查属性相关信息，不传则不查附属信息
+备注
+​
+resource_type
+资源类型有：1-图文，2-音频，3-视频，4-直播，5-会员，6-专栏，7-圈子，8-大专栏，9-活动管理，16-付费打卡，20-电子书，21-实物商品，23-超级会员，25-训练营，29-线下课，31-小班课，34-练习，35-班课，37-大班课，41-有价优惠券，42-课时包，45-AI互动课，46-付费问答，47-付费问答-答主，50-课程（训练营pro），68-服务类商品，71-外链商品
+请求示例
+​
+{
+"access_token": "xe_xxxx",
+"resources":[
+{
+"type":2,
+"ids":[
+"a_619fba7ae4b03f3fb99c7809"
+]
+}
+],
+"body":"stock,sku,attr"
+}
+返回参数
+​
+参数名
+必选
+类型
+说明
+code
+int
+状态码
+0为请求成功，其它为请求失败
+msg
+string
+请求状态描述信息
+无
+data
+object
+返回数据
+无
+data
+返回数据
+参数名
+必选
+类型
+说明
+id
+int
+自增主键
+无
+app_id
+string
+店铺ID
+无
+sku_cost_price
+int
+sku成本价，单位：分
+无
+sku_volume
+string
+sku体积
+无
+sku_spec_code
+string
+sku规格编码
+无
+sku_weight
+string
+sku重量
+无
+resource_id
+string
+资源id
+无
+resource_type
+int
+资源类型
+1-图文、2-音频、3-视频、4-直播、5-会员、6-专栏、8-大专栏、25-训练营、29-线下课、45-AI互动课
+spu_id
+string
+统一商品id
+无
+spu_type
+string
+统一商品类型
+无
+spu_type_name
+string
+统一商品类型名称
+无
+goods_sn
+string
+商品编号（商家录入）
+无
+goods_category_id
+string
+商品分类id
+无
+wx_goods_category_id
+string
+微信商品分类id
+无
+goods_name
+string
+商品名称
+无
+goods_img
+array
+商品封面图（默认封面图）
+无
+custom_cover
+string
+主图视频自定义封面
+无
+detail_cos_url
+string
+富文本的cos链接
+无
+goods_brief_text
+string
+商品简介
+无
+goods_detail_text
+string
+商品详情/买点
+无
+sell_type
+int
+付费类型
+付费类型：1 = 独立售卖，2 = 关联售卖
+price_low
+int
+商品最低价（取自sku中最低价值）
+单位：分
+price_high
+int
+商品高价（取自最低价所在sku对应划线价）
+单位：分
+price_line
+int
+划线价(取值price_low所在sku划线价)
+单位：分
+goods_tag
+string
+商品标签
+无
+goods_tag_is_show
+int
+商品标签是否展示
+0:不展示;1:展示
+sale_status
+int
+上架状态
+0下架 1上架 2待上架
+is_timing_sale
+int
+是否定时上架
+1是 0否
+is_timing_off
+int
+是否定时下架
+1是 0否
+timing_sale
+string
+定时上架的时间
+若没有则默认为0000-00-00 00:00:00
+timing_offtime
+string
+实际下架的时间
+若没有则默认为0000-00-00 00:00:00
+timing_off
+string
+定时下架的时间
+若没有则默认为0000-00-00 00:00:00
+sale_at
+string
+上架的时间
+无
+has_distribute
+int
+是否参与推广分销
+0 = 否，1 = 是
+is_goods_package
+int
+是否带货
+0 否 1 是
+is_display
+int
+是否显示
+0否(隐藏状态) 1是(显示状态)
+is_stop_sell
+int
+是否停售
+0否 1是
+is_forbid
+int
+商品是否被封禁
+0 = 否，1 = 是
+is_ignore
+int
+商品是否被忽略
+0 = 否，1 = 是
+is_deleted
+int
+是否删除
+0正常 1已删除
+created_at
+string
+创建时间
+无
+updated_at
+string
+更新时间
+无
+video_img_url
+string
+实物商品主图视频封面url
+无
+limit_purchase
+int
+限购数量
+无
+stock_deduct_mode
+int
+扣库存方式
+0付款减库存 1拍下减库存
+appraise_num
+int
+评价数
+无
+show_stock
+int
+是否展示库存
+0-不展示 1-展示
+is_best
+int
+是否精品
+0否 1是
+is_hot
+int
+是否热销产品
+0否 1是
+is_new
+int
+是否新品
+0否 1是
+is_recom
+int
+是否推荐
+0否 1是
+freight
+int
+运费（单位：分）
+无
+img_url_compressed
+string
+压缩后的列表配图url
+无
+freight_template_id
+int
+运费模板ID
+无
+is_uniform_freight
+int
+是否是统一运费
+1:统一运费 2:运费模板
+is_public
+int
+是否公开售卖
+0-不公开 1-公开
+is_password
+int
+是否加密
+0-不加密 1—加密
+is_free
+int
+是否免费
+0-收费 1-免费
+can_sold_start
+string
+可售开始时间
+无
+can_sold_end
+string
+可售结束时间
+无
+is_single
+int
+是否为单品
+0-否 1-是
+custom_cover
+string
+主图视频自定义封面
+无
+period
+int
+有效期
+-1 永久，大于等于0是真实有效期
+distribution_pattern
+int
+配送方式
+无
+sell_mode
+int
+售卖类型
+1-自营 2-内容市场
+period_type
+int
+有效期类型
+0-长期有效；1-具体时间前有效；2-有效期时间范围（秒）
+period_value
+string
+有效期值
+无
+stock
+array
+库存信息
+无
+sku
+array
+sku信息
+无
+attr
+array
+属性信息
+无
+extend
+object
+扩展
+无
+extend.sell_num
+int
+售卖数量
+无
+pv
+int
+学员学习该资源的总次数
+无
+uv
+int
+学习该资源的学员数
+无
+attach_count
+int
+带货的数量
+无
+data.stock
+库存信息
+参数名
+必选
+类型
+说明
+sku_id
+string
+商品 SKU_ID
+无
+stock_type
+int
+库存类型
+0-数量购买，2-买断/免费
+setting_stock
+int
+设置库存
+无
+sell_num
+int
+售卖数量
+无
+left_num
+int
+剩余数量
+无
+is_deleted
+int
+记录是否已被删除
+0 = 否，1 = 是
+remark
+string
+属性备注
+无
+data.sku
+sku信息
+参数名
+必选
+类型
+说明
+sku_id
+string
+商品 SKU_ID
+无
+sku_business_id
+string
+资源侧的 SKU_ID
+无
+attr_data
+array
+属性信息
+无
+sku_img
+int
+sku默认图片
+无
+sku_name
+int
+sku名字
+无
+sku_desc
+int
+规格描述
+无
+sku_price
+int
+价格
+无
+sku_line_price
+string
+划线价
+无
+limit_purchase
+int
+限购数量
+无
+limit_purchase_type
+int
+限购类型
+0-无限制 1-每个用户购买次数 2-有效期内每个用户购买次数
+sku_min_purchase
+int
+起购数量
+(最小购买数量,0为不限制)默认0
+period_type
+int
+有效期类型
+0-长期有效；1-具体时间前有效；2-有效期时间范围（秒）
+period_value
+string
+有效期值
+无
+value_count
+int
+规格
+1-单规格 2-多规格
+order_sku_limit
+int
+下单是否受库存限制
+0 = 否，1 = 是
+state
+int
+上下架状态
+1上架 0下架
+is_default
+int
+是否默认
+0-否1-是
+is_deleted
+int
+是否已被删除
+0 = 否，1 = 是
+is_free
+int
+是否免费
+0 = 否，1 = 是
+返回示例
+​
+{
+"code": 0,
+"msg": "success",
+"data": [
+{
+"app_id": "appxxxx",
+"appraise_num": 0,
+"attach_count": 0,
+"attr": [],
+"can_sold_end": "0000-00-00 00:00:00",
+"can_sold_start": "0000-00-00 00:00:00",
+"created_at": "2021-11-26 00:31:54",
+"custom_cover": "",
+"detail_cos_url":"",
+"distribution_pattern": 1,
+"extend": {
+"sell_num": 2,
+"stock": 999999997
+},
+"freight": 0,
+"freight_template_id": 0,
+"goods_brief_text": "",
+"goods_category_id": "",
+"goods_detail_text": "",
+"goods_img": [
+"https://wechatapppro-125252xxxx.file.myqcloud.com/appAKLWLitnxxxx/image/b_u_5b2225aa46488_oGKN7IvA/kwes0kzk0hhw.png"
+],
+"goods_name": "呜呜",
+"goods_tag": "",
+"goods_tag_is_show": 1,
+"has_distribute": 1,
+"id": 3458475,
+"img_url_compressed": "https://wechatapppro-125252xxxx.file.myqcloud.com/appAKLWLitnxxxx/image/b_u_5b2225aa46488_oGKN7IvA/kwes0kzk0hhw.png",
+"is_best": 0,
+"is_deleted": 0,
+"is_display": 1,
+"is_forbid": 0,
+"is_free": 0,
+"is_goods_package": 0,
+"is_hot": 0,
+"is_ignore": 0,
+"is_new": 0,
+"is_password": 0,
+"is_public": 1,
+"is_recom": 0,
+"is_single": 1,
+"is_stop_sell": 0,
+"is_timing_sale": 1,
+"is_uniform_freight": 1,
+"limit_purchase": 0,
+"period": -1,
+"period_type": 0,
+"period_value": "0",
+"price_high": 2,
+"price_line": 0,
+"price_low": 2,
+"pv": 2,
+"resource_id": "a_619fba7ae4b03f3fb99c7809",
+"resource_type": 2,
+"sale_at": "2021-11-30 00:36:01",
+"sale_status": 1,
+"sell_mode": 1,
+"sell_type": 1,
+"show_stock": 0,
+"sku": [
+{
+"attr_data": [],
+"is_default": 1,
+"is_deleted": 0,
+"is_free": 0,
+"limit_purchase": 0,
+"limit_purchase_type": 0,
+"order_stock_limit": 0,
+"period_type": 0,
+"period_value": "0",
+"sku_business_id": "",
+"sku_desc": "",
+"sku_id": "SKU_ADO_6378579149295pIEPP38",
+"sku_img": "https://wechatapppro-125252xxxx.file.myqcloud.com/appAKLWLitnxxxx/image/b_u_5b2225aa46488_oGKN7IvA/kwes0kzk0hhw.png",
+"sku_line_price": 0,
+"sku_min_purchase": 0,
+"sku_name": "呜呜",
+"sku_price": 2,
+"state": 1,
+"value_count": 0
+}
+],
+"spu_id": "a_619fba7ae4b03f3fb99c7809",
+"spu_type": "ADO",
+"stock": [
+{
+"is_deleted": 0,
+"left_num": 999999997,
+"remark": "",
+"sell_num": 2,
+"setting_stock": 999999997,
+"sku_id": "SKU_ADO_6378579149295pIEPP38"
+}
+],
+"stock_deduct_mode": 0,
+"timing_sale": "2021-11-30 00:36:00",
+"updated_at": "2021-11-30 00:36:01",
+"uv": 1,
+"video_img_url": "",
+"visit_num": 2,
+"wx_goods_category_id": ""
+}
+]
+}

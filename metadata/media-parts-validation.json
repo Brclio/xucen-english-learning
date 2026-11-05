@@ -1,0 +1,32 @@
+{
+  "method": "Actual reconstruction into an isolated temporary directory, SHA256 comparison, refusal to overwrite mismatching existing media",
+  "originalFilesModified": false,
+  "files": [
+    {
+      "path": "media/videos/08_读.mp4",
+      "bytes": 223574029,
+      "sha256": "821ee4246a41eb1c4081092407c1f41f3ff0ee064bddc1447bb68e80afe212a4",
+      "restoredEqualsOriginal": true
+    },
+    {
+      "path": "media/videos/11_许闻的书房.mp4",
+      "bytes": 153544067,
+      "sha256": "98655f062c567fd48f94ecebd205f4bcfbaf86e5ec3ba458f32c31162563ac7d",
+      "restoredEqualsOriginal": true
+    },
+    {
+      "path": "media/videos/12_许瞧的闺房.mp4",
+      "bytes": 143041359,
+      "sha256": "d4c73c2c914fb8f566e088e11d6968ef5f28f5733e3fd0d74a3df35aaeb50543",
+      "restoredEqualsOriginal": true
+    },
+    {
+      "path": "media/videos/14_大童的英语追赶.mp4",
+      "bytes": 108224427,
+      "sha256": "cbf40d3f10d34aea35c30648e0f86e1c97528b161f1b3d844ab1145fea3dc750",
+      "restoredEqualsOriginal": true
+    }
+  ],
+  "mismatchingExistingFileProtected": true,
+  "passed": true
+}

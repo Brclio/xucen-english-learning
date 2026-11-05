@@ -1,0 +1,179 @@
+获取素材列表
+​
+拥有此API的权限集
+素材管理-查询
+请求方式及url
+​
+请求方式：
+POST
+请求头：
+Content-Type:application/json
+接口地址：
+https://api.xiaoe-tech.com/xe.material.list/1.0.0
+频率限制:
+10秒3000次
+接口调试
+GET
+POST
+PUT
+DELETE
+https://api-doc.xiaoe-tech.com/_agent/forward?url=https://api.xiaoe-tech.com/
+发送请求
+重置
+请求参数
+显示请求头
+响应结果
+暂无响应数据
+请求参数
+​
+参数名
+必选
+类型
+说明
+access_token
+是
+string
+专属token
+type
+是
+int
+素材类型 1-图片 2-音频 3-视频 4-电子书 5-文档
+sort_keyword
+否
+int
+排序字段，默认为0； 0-主键id，1-material_size-文件大小，3-refer_count-被引用数，4-view_count-访问数，5-title-标题
+sort_order
+否
+int
+排序顺序，默认为1； 1-ASC顺序 2-DESC倒序
+title
+否
+string
+查询素材名称
+cur_page
+否
+int
+当前页码 默认为1
+page_size
+否
+int
+分页大小 默认10 最大不能超过100
+upload_start_at
+否
+string
+上传日期起始点
+upload_end_at
+否
+string
+上传日期截止点
+请求示例
+​
+{
+"access_token":"xe_xxxxx",
+"type":1,
+"cur_page":1,
+"page_size":10
+}
+返回参数
+​
+参数名
+类型
+说明
+code
+int
+返回码
+msg
+string
+返回信息
+data
+object
+返回值
+data
+返回值
+参数名
+类型
+说明
+items
+array
+素材数据
+cur_page
+int
+当前页码
+page_size
+int
+分页大小
+total
+int
+总数据量
+items
+素材数据
+参数名
+类型
+说明
+app_id
+string
+店铺id
+title
+string
+素材名称
+type
+int
+素材类型 1-图片 2-音频 3-视频 4-电子书 5-文档
+category_id
+int
+分组id
+material_id
+string
+素材id
+material_size
+double
+素材大小(KB)
+material_property
+object
+素材属性，类型为电子书或文档时，无相关属性
+refer_count
+int
+素材引用数
+material_property
+素材属性
+参数名
+类型
+说明
+width
+int
+宽px
+height
+int
+高px
+length
+double
+文件类型为音频时，音频时长(s)，文件类型为视频时，视频时长(s)
+patch_img_url
+string
+封面贴图
+pixel_data
+string
+分辨率 如"464*640"
+返回示例
+​
+{
+"code": 0,
+"msg": "成功",
+"data": {
+"cur_page": 1,
+"items": [
+{
+"app_id": "appxxxx",
+"category_id": 7,
+"material_id": "1edd48a3-df2f-4791-bb58-be68f5b66bae",
+"material_property": null,
+"material_size": "126.49",
+"refer_count": 1,
+"title": "突突突_详情.jpeg",
+"type": 1
+}
+],
+"page_size": 10,
+"total": 13299
+}
+}

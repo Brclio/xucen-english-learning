@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+*.baiduyun.uploading.cfg
 node_modules/
 dist/
 .wrangler/

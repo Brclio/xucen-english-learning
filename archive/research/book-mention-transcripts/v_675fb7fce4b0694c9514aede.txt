@@ -1,0 +1,58 @@
+[0.0–2.8]  Today I will fly.
+[2.8–4.5]  But Mo Willems.
+[4.5–6.2]  Today I will fly.
+[6.2–7.9]  Who will fly the piggy?
+[8.9–11.8]  Today I will fly!
+[11.8–14.7]  No, you will not fly today.
+[14.7–17.3]  You will not fly tomorrow.
+[17.3–20.0]  You will not fly next week.
+[20.0–23.9]  You will never fly.
+[23.9–25.2]  I will try.
+[25.2–26.2]  Goodbye.
+[26.2–28.9]  You will not fly.
+[28.9–30.4] 我希望你能不能飛
+[30.4–36.1] 你需要帮助
+[36.1–38.8] 謝謝,我需要帮助
+[38.8–40.6] 我會給帮助
+[50.6–53.0] 我做了,我飛了
+[53.0–54.8] 謝謝你幫助
+[54.8–61.8] 你不跳
+[61.8–63.8] 我不跳
+[63.8–64.8] 你跳
+[64.8–66.8] 我跳
+[66.8–68.8] 我跳了一跳
+[68.8–70.8] 是一大跳
+[70.8–72.8] 是一大跳
+[72.8–74.8] 你不想跳
+[74.8–76.8] 我会再次
+[76.8–78.8] 我会吃晚餐
+[78.8–82.8] 你需要帮忙
+[82.8–84.8] 我需要帮忙
+[84.8–86.8] 你需要帮忙
+[86.8–88.8] 我会帮忙
+[88.8–90.8] 谢谢
+[90.8–91.8] Hello
+[91.8–92.8] Hello
+[92.8–93.8] Hello
+[93.8–96.8] You are flying
+[96.8–98.8] You are flying today
+[98.8–100.8] My friend can fly
+[100.8–102.8] She can fly
+[102.8–104.8] I am not flying
+[104.8–105.8] You are not flying
+[105.8–107.8] I am getting help
+[107.8–109.8] Thank you for your help
+[110.8–113.8] Tomorrow I will fly
+[113.8–115.8] Good luck
+[117.8–119.8] Today I will fly
+[119.8–123.2] 誰會幫助?
+[123.2–124.4] 雖然是雖然的
+[124.4–126.2] 雖然是雖然的雖然
+[126.2–128.3] 和狗
+[128.3–129.6] 狗狗
+[129.6–131.6] What did the dog do to help?
+[133.2–134.6] He chased her
+[135.3–137.3] which made her jump super high
+[137.3–138.3] and barked
+[138.8–140.0] Bum bum bum bum
+[140.0–140.5] Yes

@@ -8,10 +8,10 @@ from __future__ import annotations
 import base64
 import hashlib
 import html
+import importlib.metadata
 import json
 import os
 import re
-import shutil
 from pathlib import Path
 from urllib.parse import parse_qsl, quote, urlsplit, urlunsplit
 
@@ -66,17 +66,30 @@ def source_files():
                 dirs.remove(name)
         for name in names:
             path = here / name
-            if name == '.DS_Store' or path.is_symlink() or operational_file(path):
+            if name == '.DS_Store' or operational_file(path) or (path.is_symlink() and not safe_workspace_link(path)):
                 excluded.add(path.relative_to(ROOT).as_posix())
             else:
                 files.append(path)
     return sorted(files), sorted(excluded)
 
 
+def safe_workspace_link(path: Path) -> bool:
+    """Research cover links are copied as bytes, without machine-specific paths."""
+    target = path.resolve()
+    try:
+        relative = target.relative_to(ROOT)
+    except ValueError:
+        return False
+    return not {'asr-venv', '.venv', '.git', '__pycache__'} & set(relative.parts)
+
+
 def operational_file(path: Path) -> bool:
     """Only ignore Git/upload operational state, not downloaded research repos."""
     first = path.relative_to(PRIVATE).parts[0].lower()
-    return first.startswith(('git-', 'github-', 'lfs-', 'push-', 'upload-status', 'upload-progress'))
+    return first.startswith((
+        'git-', 'github-', 'lfs-', 'initial-lfs-', 'push-', 'upload-status',
+        'upload-progress', 'r2-', 'cloudflare-', 's3-', 'object-storage-', 'release-', 'restore-validation-',
+    ))
 
 
 def decode_variants(value):
@@ -194,9 +207,19 @@ def scrub_json(value, known, changes, key=''):
 
 def make_copy(source, known):
     relative = source.relative_to(PRIVATE).as_posix()
-    data = source.read_bytes()
+    broken_link = source.is_symlink() and not source.exists()
+    data = os.readlink(source).encode() if broken_link else source.read_bytes()
     changes = set()
-    if relative in SENSITIVE_JSON:
+    if broken_link:
+        target_relative = source.resolve().relative_to(ROOT).as_posix()
+        result = (json.dumps({
+            'sourceLink': source.relative_to(ROOT).as_posix(),
+            'targetRelativeToWorkspace': target_relative,
+            'targetExists': False,
+            'note': 'Original research link target is absent; link provenance preserved instead of inventing image bytes.',
+        }, ensure_ascii=False, indent=2) + '\n').encode()
+        changes.add('Broken in-workspace research link preserved as link provenance JSON')
+    elif relative in SENSITIVE_JSON:
         output = scrub_json(json.loads(data), known, changes)
         result = (json.dumps(output, ensure_ascii=False, indent=2) + '\n').encode()
     elif relative == 'first-manifest.m3u8':
@@ -218,7 +241,7 @@ def make_copy(source, known):
         changes.add('login/security-page scripts and dynamic cookie bootstrap removed')
     else:
         result = data
-    target = DEST / relative
+    target = DEST / (relative + '.link.json' if broken_link else relative)
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_bytes(result)
     return {
@@ -226,9 +249,29 @@ def make_copy(source, known):
         'target': target.relative_to(ROOT).as_posix(),
         'sourceBytes': len(data), 'sourceSHA256': digest(data),
         'bytes': len(result), 'sha256': digest(result),
-        'redacted': bool(changes),
+        'sourceRepresentation': 'symlink-target-text' if broken_link else 'file-content',
+        'copiedSymlinkContent': source.is_symlink() and not broken_link,
+        'missingSymlinkTargetRecorded': broken_link,
+        'redacted': relative in SENSITIVE_JSON | PUBLISHER_HTML | {'first-manifest.m3u8', 'initial-login-page.html'},
         'reason': '; '.join(sorted(changes)) if changes else 'Unchanged noncredential research/learning evidence',
     }
+
+
+def environment_requirements():
+    environment = PRIVATE / 'asr-venv'
+    sites = list((environment / 'lib').glob('python*/site-packages'))
+    packages = sorted({
+        f"{distribution.metadata['Name']}=={distribution.version}"
+        for distribution in importlib.metadata.distributions(path=[str(path) for path in sites])
+        if distribution.metadata.get('Name')
+    }, key=str.lower)
+    config = (environment / 'pyvenv.cfg').read_text()
+    version_match = re.search(r'(?m)^version(?:_info)?\s*=\s*([\d.]+)', config)
+    target = ARCHIVE / 'asr-requirements.txt'
+    target.write_text('# Rebuildable ASR environment package versions; no local credentials or paths.\n' + '\n'.join(packages) + '\n')
+    return {'pythonVersion': version_match[1] if version_match else 'unknown',
+            'packageCount': len(packages), 'requirementsFile': target.relative_to(ROOT).as_posix(),
+            'sha256': digest(target.read_bytes())}
 
 
 def audit(files, known, baseline):
@@ -277,7 +320,15 @@ def main():
     files, excluded = source_files()
     baseline = baseline_secrets()
     known = all_known_secrets(files, baseline)
+    old_manifest = ARCHIVE / 'research-manifest.json'
+    previous = json.loads(old_manifest.read_text()).get('files', []) if old_manifest.exists() else []
     records = [make_copy(path, known) for path in files]
+    current_targets = {row['target'] for row in records}
+    for old in previous:
+        target = ROOT / old['target']
+        if old['target'] not in current_targets and target.is_relative_to(DEST) and target.is_file():
+            target.unlink()  # Only previously generated archive copies; never .private originals.
+    environment = environment_requirements()
     README = '''# 课程研究归档
 
 本目录保留课程整理过程产生的机器转写、抽帧与联系图、书目研究快照、公开播放器源码、研究脚本、日志和接口证据。文件在 `research/` 下保持 `.private/` 内的原相对路径，逐文件清单见 `research-manifest.json`。
@@ -286,7 +337,9 @@ def main():
 
 机器转写和书目识别过程可能包含误识别或待核候选，应结合课程视频与最终书目证据阅读。
 
-`asr-venv/` 等 Python 依赖环境、字节码缓存和 Git/上传操作临时状态不属于课程或研究结果，不入库，原件仍保留在本地。约 1.13 GB 的转写运行环境可按项目脚本所用依赖重新安装。公开第三方源码按原研究快照保存，不作为可执行下载器调用。
+`asr-venv/` 等 Python 依赖环境、字节码缓存和 Git/上传部署操作临时状态不属于课程或研究结果，不入库，原件仍保留在本地。约 1.13 GB 的转写运行环境使用 Python 3.12.9；依赖版本保存在 `asr-requirements.txt`，新建 Python 3.12 虚拟环境后执行 `python -m pip install -r archive/asr-requirements.txt` 可重建。模型权重由转写脚本按所指定模型取得。公开第三方源码按原研究快照保存，不作为可执行下载器调用。
+
+有效的本地封面符号链接已复制为实际图片；原来指向不存在目标的链接保留为同名 `.link.json` 记录，明确缺失状态，不虚构图片。清单中的 `sourceRepresentation` 区分文件内容哈希与失效链接文本哈希。
 
 重建归档：在保留 `.private/` 原始研究数据的本机执行 `python scripts/archive_research.py`。脚本只读原件、生成本目录，并检查已知凭据及常见凭据模式；不会联网或执行 Git 操作。
 '''
@@ -296,6 +349,7 @@ def main():
         'sourceRoot': '.private', 'archiveRoot': 'archive/research',
         'originalsModified': False, 'courseMediaModified': False,
         'files': records,
+        'environmentRebuild': environment,
         'excludedPaths': excluded,
         'excludedReason': 'Rebuildable runtime/cache or Git/upload operational state; local originals retained',
     }
@@ -310,7 +364,8 @@ def main():
     print(json.dumps({
         'archivedFiles': len(records),
         'redactedFiles': sum(item['redacted'] for item in records),
-        'unchangedFiles': sum(not item['redacted'] for item in records),
+        'unchangedFiles': sum(not item['redacted'] and not item['missingSymlinkTargetRecorded'] for item in records),
+        'brokenLinkRecords': sum(item['missingSymlinkTargetRecorded'] for item in records),
         'archivedBytes': sum(item['bytes'] for item in records),
         'excludedPathCount': len(excluded),
         'audit': audit_result, 'ready': True,

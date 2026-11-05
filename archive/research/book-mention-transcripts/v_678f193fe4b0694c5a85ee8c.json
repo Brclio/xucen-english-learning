@@ -1,0 +1,1496 @@
+{
+  "text": " Happy Pig Day by Mo Willems. Happy Pig Day. Gerald, Gerald, I am so happy. Today is the best day of the year. Today is free ice cream day. No, today is Happy Pig Day. Happy Pig Day. Yes, Happy Pig Day, the day of the pig.It is the best day to have a pig partyIt is the best day to sing pig zonchIt is the best day to dance pig dancesIt is the best day to eat pig foodIt's the best day to play pig gamesIt is the best day to say oinky oink oinkThat means happy pig day and pigOh I did not know about happy pig dayLookOink oink oinkOh my friends are hereOink oink oink oink oink oinky oink oink oinky oink oinkyThat is a lot of pigsOink oink oink oink oink oink oinkIsn't this great Gerald?Gerald?Are you okay?I am sorry piggyI have a trunkI have big earsI am grayI do not have a snoutI do not have hoovesI am not pinkI want to say happy pig day in pigBut I'm not a pigI am an elephantAnd I do not belongOh, shieldHappy pig day is not just for pigsHappy pig day is for anyoneWho老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子老子NoOinkOinkyOinkOink",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.16,
+      "text": " Happy Pig Day by Mo Willems.",
+      "tokens": [
+        50365,
+        8277,
+        27322,
+        5226,
+        538,
+        3335,
+        3099,
+        9097,
+        13,
+        50523
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.36,
+      "end": 5.3,
+      "text": " Happy Pig Day.",
+      "tokens": [
+        50533,
+        8277,
+        27322,
+        5226,
+        13,
+        50630
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.74,
+      "end": 10.76,
+      "text": " Gerald, Gerald, I am so happy.",
+      "tokens": [
+        50652,
+        38332,
+        11,
+        38332,
+        11,
+        286,
+        669,
+        370,
+        2055,
+        13,
+        50903
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.16,
+      "end": 14.42,
+      "text": " Today is the best day of the year.",
+      "tokens": [
+        50923,
+        2692,
+        307,
+        264,
+        1151,
+        786,
+        295,
+        264,
+        1064,
+        13,
+        51086
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.64,
+      "end": 17.38,
+      "text": " Today is free ice cream day.",
+      "tokens": [
+        51097,
+        2692,
+        307,
+        1737,
+        4435,
+        4689,
+        786,
+        13,
+        51234
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.34,
+      "end": 22.06,
+      "text": " No, today is Happy Pig Day.",
+      "tokens": [
+        51282,
+        883,
+        11,
+        965,
+        307,
+        8277,
+        27322,
+        5226,
+        13,
+        51468
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.8,
+      "end": 23.82,
+      "text": " Happy Pig Day.",
+      "tokens": [
+        51505,
+        8277,
+        27322,
+        5226,
+        13,
+        51556
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.240000000000002,
+      "end": 28.34,
+      "text": " Yes, Happy Pig Day, the day of the pig.",
+      "tokens": [
+        51627,
+        1079,
+        11,
+        8277,
+        27322,
+        5226,
+        11,
+        264,
+        786,
+        295,
+        264,
+        8120,
+        13,
+        51782
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3567036013059978,
+      "compression_ratio": 1.7265625,
+      "no_speech_prob": 5.247487999682221e-10
+    },
+    {
+      "id": 8,
+      "seek": 2834,
+      "start": 28.34,
+      "end": 30.84,
+      "text": "It is the best day to have a pig party",
+      "tokens": [
+        50365,
+        3522,
+        307,
+        264,
+        1151,
+        786,
+        281,
+        362,
+        257,
+        8120,
+        3595,
+        50490
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 9,
+      "seek": 2834,
+      "start": 30.84,
+      "end": 33.64,
+      "text": "It is the best day to sing pig zonch",
+      "tokens": [
+        50490,
+        3522,
+        307,
+        264,
+        1151,
+        786,
+        281,
+        1522,
+        8120,
+        710,
+        266,
+        339,
+        50630
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 10,
+      "seek": 2834,
+      "start": 33.64,
+      "end": 37.14,
+      "text": "It is the best day to dance pig dances",
+      "tokens": [
+        50630,
+        3522,
+        307,
+        264,
+        1151,
+        786,
+        281,
+        4489,
+        8120,
+        28322,
+        50805
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 11,
+      "seek": 2834,
+      "start": 37.14,
+      "end": 39.54,
+      "text": "It is the best day to eat pig food",
+      "tokens": [
+        50805,
+        3522,
+        307,
+        264,
+        1151,
+        786,
+        281,
+        1862,
+        8120,
+        1755,
+        50925
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 12,
+      "seek": 2834,
+      "start": 39.54,
+      "end": 42.54,
+      "text": "It's the best day to play pig games",
+      "tokens": [
+        50925,
+        3522,
+        311,
+        264,
+        1151,
+        786,
+        281,
+        862,
+        8120,
+        2813,
+        51075
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 13,
+      "seek": 2834,
+      "start": 42.54,
+      "end": 45.84,
+      "text": "It is the best day to say oinky oink oink",
+      "tokens": [
+        51075,
+        3522,
+        307,
+        264,
+        1151,
+        786,
+        281,
+        584,
+        277,
+        22998,
+        277,
+        475,
+        277,
+        475,
+        51240
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 14,
+      "seek": 2834,
+      "start": 45.84,
+      "end": 48.54,
+      "text": "That means happy pig day and pig",
+      "tokens": [
+        51240,
+        6390,
+        1355,
+        2055,
+        8120,
+        786,
+        293,
+        8120,
+        51375
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 15,
+      "seek": 2834,
+      "start": 48.54,
+      "end": 52.54,
+      "text": "Oh I did not know about happy pig day",
+      "tokens": [
+        51375,
+        3756,
+        286,
+        630,
+        406,
+        458,
+        466,
+        2055,
+        8120,
+        786,
+        51575
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 16,
+      "seek": 2834,
+      "start": 52.54,
+      "end": 53.04,
+      "text": "Look",
+      "tokens": [
+        51575,
+        12863,
+        51600
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 17,
+      "seek": 2834,
+      "start": 53.04,
+      "end": 54.84,
+      "text": "Oink oink oink",
+      "tokens": [
+        51600,
+        46,
+        475,
+        277,
+        475,
+        277,
+        475,
+        51690
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 18,
+      "seek": 2834,
+      "start": 54.84,
+      "end": 57.34,
+      "text": "Oh my friends are here",
+      "tokens": [
+        51690,
+        3756,
+        452,
+        1855,
+        366,
+        510,
+        51815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26880500590906736,
+      "compression_ratio": 2.0949367088607596,
+      "no_speech_prob": 1.9054306743537808e-12
+    },
+    {
+      "id": 19,
+      "seek": 5734,
+      "start": 57.34,
+      "end": 61.92,
+      "text": "Oink oink oink oink oink oinky oink oink oinky oink oinky",
+      "tokens": [
+        50365,
+        46,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        22998,
+        277,
+        475,
+        277,
+        475,
+        277,
+        22998,
+        277,
+        475,
+        277,
+        22998,
+        50594
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 20,
+      "seek": 5734,
+      "start": 61.92,
+      "end": 64.68,
+      "text": "That is a lot of pigs",
+      "tokens": [
+        50594,
+        6390,
+        307,
+        257,
+        688,
+        295,
+        24380,
+        50732
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 21,
+      "seek": 5734,
+      "start": 64.68,
+      "end": 68.32000000000001,
+      "text": "Oink oink oink oink oink oink oink",
+      "tokens": [
+        50732,
+        46,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        475,
+        277,
+        475,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 22,
+      "seek": 5734,
+      "start": 68.32000000000001,
+      "end": 70.32000000000001,
+      "text": "Isn't this great Gerald?",
+      "tokens": [
+        50914,
+        48310,
+        380,
+        341,
+        869,
+        38332,
+        30,
+        51014
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 23,
+      "seek": 5734,
+      "start": 70.32000000000001,
+      "end": 71.78,
+      "text": "Gerald?",
+      "tokens": [
+        51014,
+        38,
+        24250,
+        30,
+        51087
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 24,
+      "seek": 5734,
+      "start": 75.72,
+      "end": 77.0,
+      "text": "Are you okay?",
+      "tokens": [
+        51284,
+        13332,
+        291,
+        1392,
+        30,
+        51348
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 25,
+      "seek": 5734,
+      "start": 77.0,
+      "end": 79.7,
+      "text": "I am sorry piggy",
+      "tokens": [
+        51348,
+        40,
+        669,
+        2597,
+        39349,
+        51483
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 26,
+      "seek": 5734,
+      "start": 79.7,
+      "end": 81.5,
+      "text": "I have a trunk",
+      "tokens": [
+        51483,
+        40,
+        362,
+        257,
+        19849,
+        51573
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 27,
+      "seek": 5734,
+      "start": 81.5,
+      "end": 83.96000000000001,
+      "text": "I have big ears",
+      "tokens": [
+        51573,
+        40,
+        362,
+        955,
+        8798,
+        51696
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 28,
+      "seek": 5734,
+      "start": 83.96000000000001,
+      "end": 86.10000000000001,
+      "text": "I am gray",
+      "tokens": [
+        51696,
+        40,
+        669,
+        10855,
+        51803
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4141406183657439,
+      "compression_ratio": 1.794871794871795,
+      "no_speech_prob": 7.728970458434348e-13
+    },
+    {
+      "id": 29,
+      "seek": 8610,
+      "start": 86.1,
+      "end": 88.86,
+      "text": "I do not have a snout",
+      "tokens": [
+        50365,
+        40,
+        360,
+        406,
+        362,
+        257,
+        2406,
+        346,
+        50503
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 30,
+      "seek": 8610,
+      "start": 88.86,
+      "end": 91.24,
+      "text": "I do not have hooves",
+      "tokens": [
+        50503,
+        40,
+        360,
+        406,
+        362,
+        30663,
+        977,
+        50622
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 31,
+      "seek": 8610,
+      "start": 91.24,
+      "end": 94.24,
+      "text": "I am not pink",
+      "tokens": [
+        50622,
+        40,
+        669,
+        406,
+        7022,
+        50772
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 32,
+      "seek": 8610,
+      "start": 94.24,
+      "end": 99.33999999999999,
+      "text": "I want to say happy pig day in pig",
+      "tokens": [
+        50772,
+        40,
+        528,
+        281,
+        584,
+        2055,
+        8120,
+        786,
+        294,
+        8120,
+        51027
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 33,
+      "seek": 8610,
+      "start": 99.33999999999999,
+      "end": 101.53999999999999,
+      "text": "But I'm not a pig",
+      "tokens": [
+        51027,
+        7835,
+        286,
+        478,
+        406,
+        257,
+        8120,
+        51137
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 34,
+      "seek": 8610,
+      "start": 101.53999999999999,
+      "end": 103.34,
+      "text": "I am an elephant",
+      "tokens": [
+        51137,
+        40,
+        669,
+        364,
+        19791,
+        51227
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 35,
+      "seek": 8610,
+      "start": 103.34,
+      "end": 105.86,
+      "text": "And I do not belong",
+      "tokens": [
+        51227,
+        5289,
+        286,
+        360,
+        406,
+        5784,
+        51353
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 36,
+      "seek": 8610,
+      "start": 105.86,
+      "end": 108.34,
+      "text": "Oh, shield",
+      "tokens": [
+        51353,
+        3756,
+        11,
+        10257,
+        51477
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 37,
+      "seek": 8610,
+      "start": 108.34,
+      "end": 111.1,
+      "text": "Happy pig day is not just for pigs",
+      "tokens": [
+        51477,
+        31496,
+        8120,
+        786,
+        307,
+        406,
+        445,
+        337,
+        24380,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 38,
+      "seek": 8610,
+      "start": 111.1,
+      "end": 114.1,
+      "text": "Happy pig day is for anyone",
+      "tokens": [
+        51615,
+        31496,
+        8120,
+        786,
+        307,
+        337,
+        2878,
+        51765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 39,
+      "seek": 8610,
+      "start": 114.1,
+      "end": 115.3,
+      "text": "Who",
+      "tokens": [
+        51765,
+        10927,
+        51825
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45645242714020146,
+      "compression_ratio": 1.6090225563909775,
+      "no_speech_prob": 6.121613198989406e-12
+    },
+    {
+      "id": 40,
+      "seek": 11530,
+      "start": 115.3,
+      "end": 116.3,
+      "text": "老子",
+      "tokens": [
+        50365,
+        10439,
+        7626,
+        50415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 41,
+      "seek": 11530,
+      "start": 116.3,
+      "end": 117.3,
+      "text": "老子",
+      "tokens": [
+        50415,
+        10439,
+        7626,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 42,
+      "seek": 11530,
+      "start": 117.3,
+      "end": 118.3,
+      "text": "老子",
+      "tokens": [
+        50465,
+        10439,
+        7626,
+        50515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 43,
+      "seek": 11530,
+      "start": 118.3,
+      "end": 119.3,
+      "text": "老子",
+      "tokens": [
+        50515,
+        10439,
+        7626,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 44,
+      "seek": 11530,
+      "start": 119.3,
+      "end": 120.3,
+      "text": "老子",
+      "tokens": [
+        50565,
+        10439,
+        7626,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 45,
+      "seek": 11530,
+      "start": 120.3,
+      "end": 121.3,
+      "text": "老子",
+      "tokens": [
+        50615,
+        10439,
+        7626,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 46,
+      "seek": 11530,
+      "start": 121.3,
+      "end": 122.3,
+      "text": "老子",
+      "tokens": [
+        50665,
+        10439,
+        7626,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 47,
+      "seek": 11530,
+      "start": 122.3,
+      "end": 123.3,
+      "text": "老子",
+      "tokens": [
+        50715,
+        10439,
+        7626,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 48,
+      "seek": 11530,
+      "start": 123.3,
+      "end": 124.3,
+      "text": "老子",
+      "tokens": [
+        50765,
+        10439,
+        7626,
+        50815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 49,
+      "seek": 11530,
+      "start": 124.3,
+      "end": 125.3,
+      "text": "老子",
+      "tokens": [
+        50815,
+        10439,
+        7626,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 50,
+      "seek": 11530,
+      "start": 125.3,
+      "end": 126.3,
+      "text": "老子",
+      "tokens": [
+        50865,
+        10439,
+        7626,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 51,
+      "seek": 11530,
+      "start": 126.3,
+      "end": 127.3,
+      "text": "老子",
+      "tokens": [
+        50915,
+        10439,
+        7626,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 52,
+      "seek": 11530,
+      "start": 127.3,
+      "end": 128.3,
+      "text": "老子",
+      "tokens": [
+        50965,
+        10439,
+        7626,
+        51015
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 53,
+      "seek": 11530,
+      "start": 128.3,
+      "end": 129.3,
+      "text": "老子",
+      "tokens": [
+        51015,
+        10439,
+        7626,
+        51065
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 54,
+      "seek": 11530,
+      "start": 129.3,
+      "end": 130.3,
+      "text": "老子",
+      "tokens": [
+        51065,
+        10439,
+        7626,
+        51115
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 55,
+      "seek": 11530,
+      "start": 130.3,
+      "end": 131.3,
+      "text": "老子",
+      "tokens": [
+        51115,
+        10439,
+        7626,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 56,
+      "seek": 11530,
+      "start": 131.3,
+      "end": 132.3,
+      "text": "老子",
+      "tokens": [
+        51165,
+        10439,
+        7626,
+        51215
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 57,
+      "seek": 11530,
+      "start": 132.3,
+      "end": 133.3,
+      "text": "老子",
+      "tokens": [
+        51215,
+        10439,
+        7626,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 58,
+      "seek": 11530,
+      "start": 133.3,
+      "end": 134.3,
+      "text": "老子",
+      "tokens": [
+        51265,
+        10439,
+        7626,
+        51315
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 59,
+      "seek": 11530,
+      "start": 134.3,
+      "end": 135.3,
+      "text": "老子",
+      "tokens": [
+        51315,
+        10439,
+        7626,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 60,
+      "seek": 11530,
+      "start": 135.3,
+      "end": 136.3,
+      "text": "老子",
+      "tokens": [
+        51365,
+        10439,
+        7626,
+        51415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 61,
+      "seek": 11530,
+      "start": 136.3,
+      "end": 137.3,
+      "text": "老子",
+      "tokens": [
+        51415,
+        10439,
+        7626,
+        51465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 62,
+      "seek": 11530,
+      "start": 137.3,
+      "end": 138.3,
+      "text": "老子",
+      "tokens": [
+        51465,
+        10439,
+        7626,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 63,
+      "seek": 11530,
+      "start": 138.3,
+      "end": 139.3,
+      "text": "老子",
+      "tokens": [
+        51515,
+        10439,
+        7626,
+        51565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 64,
+      "seek": 11530,
+      "start": 139.3,
+      "end": 140.3,
+      "text": "老子",
+      "tokens": [
+        51565,
+        10439,
+        7626,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 65,
+      "seek": 11530,
+      "start": 140.3,
+      "end": 141.3,
+      "text": "老子",
+      "tokens": [
+        51615,
+        10439,
+        7626,
+        51665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 66,
+      "seek": 11530,
+      "start": 141.3,
+      "end": 142.3,
+      "text": "老子",
+      "tokens": [
+        51665,
+        10439,
+        7626,
+        51715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 67,
+      "seek": 11530,
+      "start": 142.3,
+      "end": 143.3,
+      "text": "老子",
+      "tokens": [
+        51715,
+        10439,
+        7626,
+        51765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 68,
+      "seek": 11530,
+      "start": 143.3,
+      "end": 144.3,
+      "text": "老子",
+      "tokens": [
+        51765,
+        10439,
+        7626,
+        51815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 69,
+      "seek": 11530,
+      "start": 144.3,
+      "end": 144.3,
+      "text": "",
+      "tokens": [],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12,
+      "words": []
+    },
+    {
+      "id": 70,
+      "seek": 11530,
+      "start": 144.3,
+      "end": 145.3,
+      "text": "老子",
+      "tokens": [
+        51815,
+        10439,
+        7626,
+        51865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14406936645507812,
+      "compression_ratio": 10.333333333333334,
+      "no_speech_prob": 1.0400324264997485e-12
+    },
+    {
+      "id": 71,
+      "seek": 14530,
+      "start": 145.3,
+      "end": 146.3,
+      "text": "No",
+      "tokens": [
+        50365,
+        4540,
+        50415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6100486755371094,
+      "compression_ratio": 1.0555555555555556,
+      "no_speech_prob": 1.635514813858041e-11
+    },
+    {
+      "id": 72,
+      "seek": 14530,
+      "start": 146.3,
+      "end": 147.3,
+      "text": "Oink",
+      "tokens": [
+        50415,
+        46,
+        475,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6100486755371094,
+      "compression_ratio": 1.0555555555555556,
+      "no_speech_prob": 1.635514813858041e-11
+    },
+    {
+      "id": 73,
+      "seek": 14530,
+      "start": 147.3,
+      "end": 148.3,
+      "text": "Oinky",
+      "tokens": [
+        50465,
+        46,
+        22998,
+        50515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6100486755371094,
+      "compression_ratio": 1.0555555555555556,
+      "no_speech_prob": 1.635514813858041e-11
+    },
+    {
+      "id": 74,
+      "seek": 14530,
+      "start": 148.3,
+      "end": 149.3,
+      "text": "Oink",
+      "tokens": [
+        50515,
+        46,
+        475,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6100486755371094,
+      "compression_ratio": 1.0555555555555556,
+      "no_speech_prob": 1.635514813858041e-11
+    },
+    {
+      "id": 75,
+      "seek": 14530,
+      "start": 149.3,
+      "end": 150.3,
+      "text": "Oink",
+      "tokens": [
+        50565,
+        46,
+        475,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6100486755371094,
+      "compression_ratio": 1.0555555555555556,
+      "no_speech_prob": 1.635514813858041e-11
+    }
+  ],
+  "language": "zh",
+  "lessonId": "v_678f193fe4b0694c5a85ee8c",
+  "lessonTitle": "31_Happy_Pig_Day",
+  "sourceAudio": "media/audio/31_Happy_Pig_Day.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

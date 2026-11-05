@@ -1,0 +1,94 @@
+[0.0–2.7]  Elephants cannot dance.
+[2.7–6.0]  Elephant cannot dance.
+[6.0–8.3]  Elephant cannot dance.
+[8.3–10.0]  By Mo Willems.
+[10.0–12.5]  Elephants cannot dance.
+[12.5–13.6]  Gerald!
+[13.6–19.6]  Let's dance! I can teach you. I'm teaching all my friends.
+[19.6–24.8]  I would love to learn how to dance, but elephants cannot dance.
+[24.8–26.2]  You're kidding me?
+[26.2–27.1]  No.
+[27.1–30.2]  Look it up. Page 11.
+[30.2–34.9]  What elephants can do by an elephant.
+[35.5–35.7]  Okay.
+[36.7–40.4]  Gerald, it does not say that you cannot try.
+[41.6–43.4]  You are right, Piggy.
+[43.6–45.6]  I can try to dance.
+[46.0–47.7]  I will try to dance.
+[48.2–49.6]  Let's dance!
+[50.9–52.3]  Okay, let's go.
+[52.5–55.2]  Jump with me when I count two, three.
+[55.2–59.4]  One, two, three, jump!
+[63.1–64.0]  Jump!
+[64.8–67.2]  You were a little late on the jump.
+[67.4–69.5]  I was a little late on the jump.
+[69.7–71.3]  We will try again.
+[71.3–73.0]  We will try again.
+[73.0–75.6]  Move your arms this way.
+[77.3–79.2]  We will try again.
+[79.3–80.8]  We will try again.
+[80.8–83.8]  Lift your leg this way.
+[85.2–87.4]  We will try again.
+[87.7–90.2]  We will try again.
+[90.3–90.6]  Up.
+[90.8–91.2]  Up.
+[91.7–92.7]  Down.
+[92.8–93.3]  Down.
+[93.6–94.1]  Spin.
+[94.6–95.1]  Spin.
+[95.4–96.0]  Stop.
+[96.5–97.1]  Stop.
+[97.4–97.9]  Forward.
+[98.5–99.1]  Forward?
+[99.5–100.6]  Backward.
+[100.8–101.5]  Backward?
+[102.5–103.9]  Wiggle wiggle.
+[104.5–106.0]  Wiggle wiggle.
+[106.4–107.4]  Rub-a-walk.
+[107.8–109.5]  Rub-a-walk?
+[109.7–110.5]  Enough!
+[110.5–111.1]  Enough!
+[111.1–116.3]  I have tried and tried and tried and tried and tried.
+[117.0–118.4]  But I'm an elephant.
+[119.4–122.1]  An elephant just cannot dance.
+[123.9–125.3]  Oh, Gerald.
+[127.0–130.3]  Hello, we are ready to learn some moves.
+[130.8–133.0]  I'm sorry, I cannot teach you now.
+[133.1–134.8]  My friend is sad.
+[135.8–138.3]  Silly, we don't want you to teach us.
+[138.3–139.9]  We want to learn the elephant.
+[141.1–146.6]  Take me, please. Me two. Me three.
+[147.9–151.4]  More feeling. Keep trying. You are getting it.
+[156.4–158.9]  Alphen cannot dance.
+[159.3–159.8]  Questions.
+[160.2–162.8]  No questions. What are the...
+[162.8–165.4]  What those actions?
+[166.4–167.9]  Up, down.
+[167.9–169.7]  Hey, hey, I wanted to say them.
+[169.7–175.0]  Up, down, stop, spin
+[175.0–176.0]  Spin and stop
+[176.0–181.3]  Spin, stop, forward, backward, wiggle waggle and robot walk
+[181.3–183.7]  Nice
+[183.7–186.7]  Forward
+[186.7–187.8]  Forward
+[187.8–189.1]  Backward
+[189.1–192.4]  Wiggle waggle
+[192.4–194.1]  Wiggle waggle
+[194.1–201.1]  刚才这段你的表现很好
+[201.1–202.1]  你一直在控制
+[202.1–203.2]  但是最后还是蹦
+[203.2–206.6]  回去回去回去
+[206.6–217.0]  Backward
+[217.0–217.9]  No no
+[217.9–218.8]  Forward
+[218.8–219.9]  Forward
+[219.9–220.9]  Backward
+[220.9–222.0]  Backward
+[222.0–223.0]  Wiggle waggle
+[223.0–225.0]  Wiggle waggle.
+[227.0–228.0]  Robot walk.
+[228.0–230.0]  Robot walk?
+[230.0–232.0]  Enough!
+[234.0–239.0]  I've tried and tried and tried and tried and tried.
+[239.0–242.0]  But I am an elephant.
+[242.0–246.0]  And elephants just cannot dance.

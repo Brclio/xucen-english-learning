@@ -1,0 +1,53 @@
+[0.0–2.9]  Should I share my ice cream?
+[2.9–5.0]  Should I share my ice cream?
+[6.6–8.1]  Ice cream!
+[8.1–11.3]  Get a cold ice cream for a hot day!
+[11.3–14.4]  Oh boy! Ice cream!
+[14.4–16.2]  Want ice cream please?
+[16.2–17.3]  Here you go.
+[17.3–23.0]  Oh boy! Oh boy! I love ice cream!
+[23.0–27.1]  Wait! Piggy loves ice cream too.
+[27.1–30.1] Piggy is my best friend
+[30.1–33.1]  Should I share my ice cream with her?
+[33.1–39.1]  Should I share my awesome, yummy, sweet, super great, tasty, nice cool ice cream?
+[46.1–49.1]  Maybe Piggy does not like this flavor
+[49.1–53.1]  Sharing a flavor Piggy does not like would be wrong
+[53.1–56.1]  I will eat the ice cream
+[56.1–59.8] Wait, Piggy will like this flavor
+[59.8–62.1] It is very yummy
+[62.1–65.3] I will share my ice cream
+[65.3–68.4] It will not be easy
+[68.4–72.1] Hey, Piggy is not here
+[72.1–76.1] She does not know I have ice cream
+[76.1–78.4] I will eat the ice cream
+[78.4–81.5] Where is Piggy?
+[82.3–84.8] What if she is sat somewhere?
+[84.8–87.4] I must find her
+[87.4–89.1] When I do I will say
+[89.1–92.1] Would you like some of my ice cream
+[92.1–94.1] Then she will say
+[94.1–95.1] Thank you
+[95.1–97.5] That will cheer me up
+[97.5–99.8] Then I will give my ice cream
+[99.8–100.7] To share
+[100.7–101.5] Yum
+[101.5–104.8] Then my best friend will be happy
+[104.8–107.1] I will do it
+[107.1–108.6] I will share my
+[108.6–110.6] Ice cream
+[110.6–111.6] No
+[111.6–113.6] 啊
+[115.6–118.6] 現在 Piggy cannot have any of my ice cream
+[118.6–121.6] 現在我可以不吃的
+[124.6–126.6] 我瀆了
+[129.6–131.6] 你看起來很悲傷
+[131.6–133.6] 你喜歡我的一些的嗎
+[133.6–134.6] 謝謝
+[134.6–136.6] 那會讓我來吃
+[136.6–138.6] YUM!
+[138.6–143.6] Wait,那不是我的計劃
+[143.6–145.6] Oh, well
+[145.6–147.6] 這也 works, too
+[152.6–154.6] Should I share my ice cream?
+[154.6–156.6] This is my favorite
+[156.6–158.6] That's my favorite, too

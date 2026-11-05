@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "miaoyc666/xiaoetong-video-downloader",
+    "ref": "c1182f06e7bc71c45a27d62899a7a791fa40f1b2",
+    "path": "src/xiaoet_downloader/api/client.py",
+    "url": "https://github.com/miaoyc666/xiaoetong-video-downloader/blob/c1182f06e7bc71c45a27d62899a7a791fa40f1b2/src/xiaoet_downloader/api/client.py",
+    "sha256": "8f2e49bee2ebf5caabceb680404ef391da6e0a6846bc6148b5676b34fcbd633e",
+    "bytes": 5484
+  },
+  {
+    "repository": "miaoyc666/xiaoetong-video-downloader",
+    "ref": "c1182f06e7bc71c45a27d62899a7a791fa40f1b2",
+    "path": "src/xiaoet_downloader/core/downloader.py",
+    "url": "https://github.com/miaoyc666/xiaoetong-video-downloader/blob/c1182f06e7bc71c45a27d62899a7a791fa40f1b2/src/xiaoet_downloader/core/downloader.py",
+    "sha256": "430a11ab87278c1cefcbe7ad308275e0dea47cfbc8c4d77665507243a41e65cb",
+    "bytes": 7446
+  },
+  {
+    "repository": "miaoyc666/xiaoetong-video-downloader",
+    "ref": "c1182f06e7bc71c45a27d62899a7a791fa40f1b2",
+    "path": "src/xiaoet_downloader/models/video.py",
+    "url": "https://github.com/miaoyc666/xiaoetong-video-downloader/blob/c1182f06e7bc71c45a27d62899a7a791fa40f1b2/src/xiaoet_downloader/models/video.py",
+    "sha256": "2939c005c0b3c5fb8a3fdc20483d772190b13f3fee12c2e6fb5a712727048618",
+    "bytes": 3148
+  },
+  {
+    "repository": "Abirdcfly/xiaoe_download",
+    "ref": "master",
+    "path": "get_xiaoe.py",
+    "url": "https://github.com/Abirdcfly/xiaoe_download/blob/master/get_xiaoe.py",
+    "sha256": "6a38a7e25a9142ce768532b783baf51bcb4c04a6057d995c523baf1f5aee2631",
+    "bytes": 6833
+  },
+  {
+    "repository": "nemoTyrant/goose",
+    "ref": "master",
+    "path": "main.go",
+    "url": "https://github.com/nemoTyrant/goose/blob/master/main.go",
+    "sha256": "257531d8c3ff7b3d86633e1f25bd6ae1d81989d6a1bd183a06150212b4987f7d",
+    "bytes": 4793
+  }
+]

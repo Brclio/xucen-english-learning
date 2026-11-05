@@ -1,0 +1,701 @@
+{
+  "lessons": {
+    "v_673ab182e4b023c058a6547d": {
+      "title": "00_先导",
+      "duration": 1042,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_67475a5de4b023c058ac7309": {
+      "title": "01_母语",
+      "duration": 575,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46gyfmd096r/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46gyfmd096r/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_67475b5ae4b0694c95087f14": {
+      "title": "02_无痛和有痛",
+      "duration": 727,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m40a8hsr0id9/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m40a8hsr0id9/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_674d2cb1e4b023c058aecfdd": {
+      "title": "03_兴趣",
+      "duration": 1043,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46h3z1401w9/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46h3z1401w9/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_674d2e2ee4b0694c3c7251f3": {
+      "title": "04_对父母的挑战",
+      "duration": 684,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46hjiqi0zwj/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46hjiqi0zwj/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_674d33cee4b0694c950b2c81": {
+      "title": "05_听说读写的顺序",
+      "duration": 674,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/437934e9bacb7a1dfbbc57907671f960"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8"
+        }
+      ]
+    },
+    "v_674d3511e4b0694c3c72563d": {
+      "title": "06_听",
+      "duration": 753,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46imqmr0ku5/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46imqmr0ku5/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_674dd73ae4b0694c3c72dfdd": {
+      "title": "07_说（唱）",
+      "duration": 950,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4779wrr0g9v/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4779wrr0g9v/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_674f0836e4b0694c950c710b": {
+      "title": "08_读",
+      "duration": 1329,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://encrypt-k-vod.xet.tech",
+            "param": "[REDACTED]",
+            "path": "3d7893d3vodtransusw1252524126/a56d9cbd1397757898625618345/drm"
+          },
+          "is_support": false,
+          "url": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/a56d9cbd1397757898625618345/drm/v.f421220.m3u8"
+        }
+      ]
+    },
+    "v_674fcfcde4b0694c3c73c697": {
+      "title": "09_写（画）",
+      "duration": 702,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/4ce15b3da2e9843f749793c82f38a597"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/4ce15b3da2e9843f749793c82f38a597/cc1773fd1855366f1e3835baf6add5b3.m3u8"
+        }
+      ]
+    },
+    "v_675122b5e4b0694c3c747a50": {
+      "title": "10_环境的营造",
+      "duration": 830,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4aqzv340cjb/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4aqzv340cjb/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_675281f3e4b0694c3c753213": {
+      "title": "11_许闻的书房",
+      "duration": 860,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://encrypt-k-vod.xet.tech",
+            "param": "[REDACTED]",
+            "path": "3d7893d3vodtransusw1252524126/4a5f007e1397757898641661593/drm"
+          },
+          "is_support": false,
+          "url": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/4a5f007e1397757898641661593/drm/v.f421220.m3u8"
+        }
+      ]
+    },
+    "v_67568bf8e4b023c058b2f644": {
+      "title": "12_许瞧的闺房",
+      "duration": 1029,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/e0ed3dc419ff4a194d1179fa305736a1"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/e0ed3dc419ff4a194d1179fa305736a1/76318b01953bf7bccb780e04e5226245.m3u8"
+        }
+      ]
+    },
+    "v_6757658ce4b0694c3c7757f0": {
+      "title": "13_绘本的使用",
+      "duration": 818,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hk7atn02yd/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hk7atn02yd/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6757b5a9e4b0694c9510abb8": {
+      "title": "14_大童的英语追赶",
+      "duration": 945,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hv30n30943/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hv30n30943/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6758f107e4b0694c3c782feb": {
+      "title": "15_成年人（父母）的最后一搏",
+      "duration": 445,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4j704pm037j/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4j704pm037j/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_675db494e4b023c058b6ca9e": {
+      "title": "16_My_Friend_Is_Sad",
+      "duration": 177,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/5a4d26a1453283d4e3018ba45d77116e"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/5a4d26a1453283d4e3018ba45d77116e/83fe9e062d313a8d302df21f8800a9ed.m3u8"
+        }
+      ]
+    },
+    "v_675fb7fce4b0694c9514aede": {
+      "title": "17_Today_I_Will_Fly",
+      "duration": 142,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4qkr0qf0vuo/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4qkr0qf0vuo/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_67625167e4b0694c3c7cc19e": {
+      "title": "18_There_Is_A_Bird_On_Your_Head",
+      "duration": 140,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4tdytlo0qjl/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4tdytlo0qjl/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_676852c1e4b0694c3c7f29f8": {
+      "title": "19_I_Am_Invited_to_a_Party",
+      "duration": 124,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/610f66bd2559638750df2c949444a51d"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/610f66bd2559638750df2c949444a51d/138ad0496ec05807daf3adad7389f27b.m3u8"
+        }
+      ]
+    },
+    "v_6768cc61e4b023c058bb970e": {
+      "title": "20_I_Love_MY_New_Toy",
+      "duration": 136,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6769b463e4b023c058bc3911": {
+      "title": "21_I_Will_Surprise_My_Friend",
+      "duration": 147,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m51eohhf0c9j/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m51eohhf0c9j/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_676b8bfbe4b0694c951ade5c": {
+      "title": "22_Are_You_Ready_to_Plasy_Outside",
+      "duration": 133,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m53e6k590gza/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m53e6k590gza/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6774b989e4b0694c951f3120": {
+      "title": "23_Watch_Me_Throw_the_Ball",
+      "duration": 306,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5dccluz0pe0/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5dccluz0pe0/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6776a946e4b0694c3c855096": {
+      "title": "24_Elephant_Cannot_Dance",
+      "duration": 246,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/851706a67f95426c4c216a74cee8e872"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/851706a67f95426c4c216a74cee8e872/c01f3ef4fdf7ec3a26f2fa3b54434aec.m3u8"
+        }
+      ]
+    },
+    "v_67773751e4b023c058c21266": {
+      "title": "25_Pigs_Make_Me_Sneeze",
+      "duration": 150,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5g1qlbf0lxq/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5g1qlbf0lxq/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6779a952e4b0694c3c8670e0": {
+      "title": "26_I_Am_Going",
+      "duration": 124,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5ip59bc09yi/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5ip59bc09yi/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_6780971de4b092c1697eff29": {
+      "title": "27_Can_I_Play_Too",
+      "duration": 137,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5q7938p0efb/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5q7938p0efb/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_678b215ae4b0694c5a83e8e0": {
+      "title": "28_We_Are_in_a_Book",
+      "duration": 170,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://encrypt-k-vod.xet.tech",
+            "param": "[REDACTED]",
+            "path": "dcf3d541vodtransuse1252524126/efa809281397757902920890311/drm"
+          },
+          "is_support": false,
+          "url": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/efa809281397757902920890311/drm/v.f421220.m3u8"
+        }
+      ]
+    },
+    "v_678c02d9e4b0694ca04cd796": {
+      "title": "29_I_Broke_My_Trunk",
+      "duration": 144,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://encrypt-k-vod.xet.tech",
+            "param": "[REDACTED]",
+            "path": "3d7893d3vodtransusw1252524126/1c4f96b71397757901578774263/drm"
+          },
+          "is_support": false,
+          "url": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/1c4f96b71397757901578774263/drm/v.f421220.m3u8"
+        }
+      ]
+    },
+    "v_678f13cbe4b0694ca04ee5af": {
+      "title": "30_Should_I_Share_My_Ice_Cream",
+      "duration": 159,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65wt9n90hga/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65wt9n90hga/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_678f193fe4b0694c5a85ee8c": {
+      "title": "31_Happy_Pig_Day",
+      "duration": 151,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65xnv360yrp/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65xnv360yrp/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_679af486e4b0694c5a89a0d1": {
+      "title": "32_Listen_to_My_Trumpet",
+      "duration": 160,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6is84ng0su4/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6is84ng0su4/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_679afd8ce4b0694ca053b9be": {
+      "title": "33_Let's_Go_for_a_Drive",
+      "duration": 202,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://c-vod-hw-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "asset/d63fa96cb26ad31d14da7c8792ac3d60"
+          },
+          "is_support": false,
+          "url": "https://c-vod-hw-k.xiaoeknow.com/asset/d63fa96cb26ad31d14da7c8792ac3d60/4cb0b3edaa91d598ade8b8b8e94a34ac.m3u8"
+        }
+      ]
+    },
+    "v_679fa192e4b0694c5a8a40bd": {
+      "title": "34_A_Big_Guy_Took_My_Ball",
+      "duration": 188,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nujm4e0ok8/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nujm4e0ok8/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_679fa82be4b0694ca0549633": {
+      "title": "35_I'm_a_Frog",
+      "duration": 166,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nvls520tnj/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nvls520tnj/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_679fc5dbe4b0694ca05497f9": {
+      "title": "36_My_New_Friend_Is_So_Fun",
+      "duration": 161,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://encrypt-k-vod.xet.tech",
+            "param": "[REDACTED]",
+            "path": "dcf3d541vodtransuse1252524126/2265c17b1397757904140400027/drm"
+          },
+          "is_support": false,
+          "url": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/2265c17b1397757904140400027/drm/v.f421220.m3u8"
+        }
+      ]
+    },
+    "v_67a12eb2e4b0694ca054f496": {
+      "title": "37_Waiting_Is_Not_Easy",
+      "duration": 156,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pjbf7m0c2h/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pjbf7m0c2h/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_67a13a19e4b0694ca054f50c": {
+      "title": "38_I_Will_Take_a_Nap",
+      "duration": 273,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pkxtxi0488/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pkxtxi0488/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_67a148a1e4b0694c5a8a875b": {
+      "title": "39_I_Really_Like_Slop",
+      "duration": 143,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pn8x5408gj/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pn8x5408gj/drm/main.m3u8"
+        }
+      ]
+    },
+    "v_67a17a4fe4b0694ca05500a6": {
+      "title": "40_The_Thank_You_Book",
+      "duration": 201,
+      "variants": [
+        {
+          "definition_name": "高清",
+          "definition_p": "720P",
+          "ext": {
+            "host": "https://v-vod-k.xiaoeknow.com",
+            "param": "[REDACTED]",
+            "path": "a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm"
+          },
+          "is_support": false,
+          "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8"
+        }
+      ]
+    }
+  }
+}

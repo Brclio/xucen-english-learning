@@ -1,0 +1,75 @@
+[0.0–1.8]  Let's go for a drive!
+[2.4–4.5]  Pinky, I have a great idea!
+[4.9–6.6]  Let's go for a drive!
+[7.1–8.7]  That sounds fun!
+[9.4–13.2]  Drive, drive, drivey drive, drive!
+[13.5–14.1]  Wait!
+[14.5–17.3]  If we're going on a drive, we need a plan!
+[17.3–18.1]  A plan?
+[18.8–20.6]  First, we need a map.
+[20.9–21.9]  I have a map!
+[22.2–23.6]  Get that map!
+[24.0–26.4]  You cannot go for a drive without a map.
+[26.5–27.8]  I have a map!
+[27.8–32.6] Drive, drive, drivey drive, drive
+[32.6–36.6] Map, map, mapy map, map
+[36.6–40.2] Wait! It might be sunny while we drive
+[40.2–42.1] We need sunglasses
+[42.1–44.1] I have sunglasses
+[44.1–46.8] Get those sunglasses
+[46.8–50.8] Bring sunglasses on a drive is smart planning
+[50.8–52.4] I have the sunglasses
+[52.4–57.4] Drive, drive, drivey drive, drive
+[57.4–61.3]  Sunglasses, sunglasses, sunny sunglasses
+[61.3–66.3]  Wait! It might rain while we drive
+[66.3–68.4]  We need umbrellas
+[68.4–70.1]  I have umbrellas
+[70.1–72.6]  Get those umbrellas!
+[73.2–76.6]  To make a plan and stick to it is what I say
+[76.6–79.1]  I have umbrellas
+[79.1–83.5]  Drive, drive, drivey, drive, drive
+[83.5–88.5] umbrellas, umbrellas, umbrelley, umbrellas
+[88.5–90.5] Wait!
+[90.5–93.5] We have so much stuff to pack!
+[93.5–96.5] We need bags!
+[96.5–97.5] I have bags!
+[97.5–100.5] Kindle's bags!
+[100.5–103.5] You cannot go wrong with a good plan
+[103.5–106.5] I have the bags
+[106.5–110.5] Drive, drive, drivey, drive, drive
+[110.5–114.5] Bags, bags, baggy bags, bags
+[114.5–115.5] Wait!
+[116.0–119.7] There will be a lot of driving on our drive
+[119.7–122.4] We need a car
+[122.4–127.6] I said we need a car
+[127.6–130.8] Do you have a car, Piggy?
+[130.9–133.1] No, I'm a pig
+[133.1–136.2] A pig with a car would be silly
+[136.2–138.9] Do you have a car?
+[138.9–141.9] I do not have a car
+[141.9–143.2] Oh no
+[143.2–146.5] We have everything we need for our drive
+[146.5–149.4] Except a car
+[149.4–152.7] Our plans are ruined
+[152.7–157.3] What are we gonna do now
+[157.3–159.9] We can't play
+[159.9–163.3] Pirate
+[163.3–169.0] Who needs plans when you have a pig for a pill?
+[169.0–169.5] Aha!
+[171.8–174.1] That word is called pirate, right?
+[175.2–176.7] Yeah, pirate
+[176.7–177.7] Yeah
+[177.7–178.2] Hai Dong
+[178.2–181.5] Let's go for a drive
+[181.5–186.0] So what stuff they prepared except a car?
+[186.7–190.2] A map, sunglasses, umbrellas, and bags
+[190.2–191.4] Only four?
+[191.9–192.2] Yeah
+[192.2–193.2] Okay
+[193.2–195.3] and they need a car
+[195.3–195.9] yeah
+[195.9–197.1] and this is silly
+[197.1–198.8] but piggy said
+[198.8–200.2] a pig with a car
+[200.2–201.1] would be silly
+[201.1–201.7] okay

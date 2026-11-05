@@ -1,0 +1,84 @@
+01_母语: 96/288 segments
+01_母语: 216/288 segments
+00_先导: 1/521 segments
+DONE 01_母语: 1280x720, 49.7 MiB
+00_先导: 113/521 segments
+00_先导: 227/521 segments
+00_先导: 341/521 segments
+00_先导: 456/521 segments
+02_无痛和有痛: 1/364 segments
+DONE 00_先导: 1280x720, 91.8 MiB
+02_无痛和有痛: 109/364 segments
+02_无痛和有痛: 212/364 segments
+02_无痛和有痛: 323/364 segments
+03_兴趣: 1/522 segments
+DONE 02_无痛和有痛: 1280x720, 64.2 MiB
+DONE 01_母语: 1280x720, 49.7 MiB
+DONE 00_先导: 1280x720, 91.8 MiB
+DONE 02_无痛和有痛: 1280x720, 64.2 MiB
+03_兴趣: 411/522 segments
+04_对父母的挑战: 1/343 segments
+DONE 03_兴趣: 1280x720, 92.0 MiB
+04_对父母的挑战: 329/343 segments
+DONE 04_对父母的挑战: 1280x720, 60.7 MiB
+05_听说读写的顺序: 52/336 segments
+05_听说读写的顺序: 276/336 segments
+06_听: 1/377 segments
+DONE 05_听说读写的顺序: 1280x720, 92.2 MiB
+06_听: 305/377 segments
+07_说（唱）: 49/475 segments
+DONE 06_听: 1280x720, 66.4 MiB
+07_说（唱）: 301/475 segments
+08_读: 1/665 segments
+DONE 07_说（唱）: 1280x720, 99.7 MiB
+08_读: 300/665 segments
+08_读: 597/665 segments
+09_写（画）: 1/350 segments
+DONE 08_读: 1280x720, 213.2 MiB
+09_写（画）: 215/350 segments
+10_环境的营造: 1/415 segments
+DONE 09_写（画）: 1280x720, 81.6 MiB
+10_环境的营造: 232/415 segments
+11_许闻的书房: 6/431 segments
+DONE 10_环境的营造: 1280x720, 72.3 MiB
+11_许闻的书房: 325/431 segments
+DONE 11_许闻的书房: 1280x720, 146.4 MiB
+12_许瞧的闺房: 24/513 segments
+12_许瞧的闺房: 210/513 segments
+12_许瞧的闺房: 443/513 segments
+13_绘本的使用: 1/410 segments
+DONE 12_许瞧的闺房: 1280x720, 136.4 MiB
+13_绘本的使用: 298/410 segments
+14_大童的英语追赶: 36/473 segments
+DONE 13_绘本的使用: 1280x720, 77.7 MiB
+14_大童的英语追赶: 316/473 segments
+15_成年人（父母）的最后一搏: 1/223 segments
+DONE 14_大童的英语追赶: 1280x720, 103.2 MiB
+DONE 15_成年人（父母）的最后一搏: 1280x720, 34.5 MiB
+DONE 16_My_Friend_Is_Sad: 1280x720, 18.9 MiB
+DONE 17_Today_I_Will_Fly: 1280x720, 13.3 MiB
+DONE 18_There_Is_A_Bird_On_Your_Head: 1280x720, 13.2 MiB
+DONE 19_I_Am_Invited_to_a_Party: 1280x720, 13.5 MiB
+DONE 20_I_Love_MY_New_Toy: 1280x720, 12.5 MiB
+DONE 21_I_Will_Surprise_My_Friend: 1280x720, 16.2 MiB
+DONE 22_Are_You_Ready_to_Plasy_Outside: 1280x720, 15.2 MiB
+DONE 23_Watch_Me_Throw_the_Ball: 1280x720, 25.8 MiB
+24_Elephant_Cannot_Dance: 102/123 segments
+DONE 24_Elephant_Cannot_Dance: 1280x720, 25.4 MiB
+DONE 25_Pigs_Make_Me_Sneeze: 1280x720, 14.5 MiB
+DONE 26_I_Am_Going: 1280x720, 12.0 MiB
+DONE 27_Can_I_Play_Too: 1280x720, 12.3 MiB
+DONE 28_We_Are_in_a_Book: 1280x720, 22.3 MiB
+DONE 29_I_Broke_My_Trunk: 1280x720, 20.6 MiB
+DONE 30_Should_I_Share_My_Ice_Cream: 1280x720, 15.8 MiB
+DONE 31_Happy_Pig_Day: 1280x720, 15.8 MiB
+DONE 32_Listen_to_My_Trumpet: 1280x720, 17.2 MiB
+DONE 33_Let's_Go_for_a_Drive: 1280x720, 23.0 MiB
+DONE 34_A_Big_Guy_Took_My_Ball: 1280x720, 17.3 MiB
+DONE 35_I'm_a_Frog: 1280x720, 16.2 MiB
+DONE 36_My_New_Friend_Is_So_Fun: 1280x720, 24.3 MiB
+DONE 37_Waiting_Is_Not_Easy: 1280x720, 15.6 MiB
+DONE 38_I_Will_Take_a_Nap: 1280x720, 24.7 MiB
+DONE 39_I_Really_Like_Slop: 1280x720, 16.2 MiB
+DONE 40_The_Thank_You_Book: 1280x720, 20.6 MiB
+{"completed": 41, "errors": 0, "bytes": 2017577741}

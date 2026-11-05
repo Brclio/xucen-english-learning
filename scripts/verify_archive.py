@@ -92,7 +92,7 @@ def main():
 完整文件指纹见 [SHA256SUMS.txt](SHA256SUMS.txt)，机器可读验收结果见[归档核验](metadata/archive-validation.json)。
 '''
     (ROOT / '验收报告.md').write_text(text)
-    deliverables = [p for folder in ('media', 'lessons') for p in (ROOT / folder).rglob('*') if p.is_file()]
+    deliverables = [p for folder in ('media', 'lessons') for p in (ROOT / folder).rglob('*') if p.is_file() and not any(part.startswith('.') for part in p.relative_to(ROOT).parts)]
     deliverables += [p for p in ROOT.iterdir() if p.is_file() and p.suffix in ('.html', '.css', '.js', '.json', '.md')]
     (ROOT / 'SHA256SUMS.txt').write_text('\n'.join(f'{digest(p)}  {p.relative_to(ROOT)}' for p in sorted(deliverables)) + '\n')
     print(json.dumps({k: v for k, v in report.items() if k != 'audioValidation'}, ensure_ascii=False))

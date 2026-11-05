@@ -1,0 +1,1193 @@
+{
+  "text": " Can I play too? By Mo Willems. By Mo Willems. Piggy, let's play catch! Yes! I love playing catch with my friends. I will throw... I will catch! Excuse me, can I play too? Hmm? Hmm? You don't want to play with me? No, we do want to play with you, but... We're playing catch. With our arms. So? You do not have arms. I do not have arms? I know I do not have arms. I am a snake. You are a funny snake. But can a snake play catch? I do not know. But I can try. Cool. I will throw the ball. Try to catch it. Here comes the balls. Bunk. Sorry. It is okay. Let's try again. Okay, I will try again. Bunk. Now I will try. Bunk. This is not working. We need a new idea. Yes. Maybe we need more balls. More balls! More balls! Oh, oh boy. Do we need even more bulls? Maybe. Wait! We have tried. But I'm a snake. A snake who cannot play catch. No! You are our friend! We will all play catch! How? She has an idea. We! I love playing catch with my friends. Who becomes the ball in the end? Snake. Snake. This snake has no... Arms. Right. Can I play too?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.76,
+      "text": " Can I play too?",
+      "tokens": [
+        50365,
+        1664,
+        286,
+        862,
+        886,
+        30,
+        50453
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.76,
+      "end": 4.26,
+      "text": " By Mo Willems.",
+      "tokens": [
+        50453,
+        3146,
+        3335,
+        3099,
+        9097,
+        13,
+        50578
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.26,
+      "end": 5.76,
+      "text": " By Mo Willems.",
+      "tokens": [
+        50578,
+        3146,
+        3335,
+        3099,
+        9097,
+        13,
+        50653
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.96,
+      "end": 9.1,
+      "text": " Piggy, let's play catch!",
+      "tokens": [
+        50713,
+        27322,
+        1480,
+        11,
+        718,
+        311,
+        862,
+        3745,
+        0,
+        50820
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.1,
+      "end": 13.1,
+      "text": " Yes! I love playing catch with my friends.",
+      "tokens": [
+        50820,
+        1079,
+        0,
+        286,
+        959,
+        2433,
+        3745,
+        365,
+        452,
+        1855,
+        13,
+        51020
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.1,
+      "end": 14.44,
+      "text": " I will throw...",
+      "tokens": [
+        51020,
+        286,
+        486,
+        3507,
+        485,
+        51087
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 14.44,
+      "end": 15.76,
+      "text": " I will catch!",
+      "tokens": [
+        51087,
+        286,
+        486,
+        3745,
+        0,
+        51153
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.76,
+      "end": 18.94,
+      "text": " Excuse me, can I play too?",
+      "tokens": [
+        51153,
+        11359,
+        385,
+        11,
+        393,
+        286,
+        862,
+        886,
+        30,
+        51312
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 18.94,
+      "end": 20.94,
+      "text": " Hmm? Hmm?",
+      "tokens": [
+        51312,
+        8239,
+        30,
+        8239,
+        30,
+        51412
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 20.94,
+      "end": 23.1,
+      "text": " You don't want to play with me?",
+      "tokens": [
+        51412,
+        509,
+        500,
+        380,
+        528,
+        281,
+        862,
+        365,
+        385,
+        30,
+        51520
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 23.1,
+      "end": 28.76,
+      "text": " No, we do want to play with you, but...",
+      "tokens": [
+        51520,
+        883,
+        11,
+        321,
+        360,
+        528,
+        281,
+        862,
+        365,
+        291,
+        11,
+        457,
+        485,
+        51803
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4654961410833865,
+      "compression_ratio": 1.5949367088607596,
+      "no_speech_prob": 6.292943163094256e-12
+    },
+    {
+      "id": 11,
+      "seek": 2876,
+      "start": 28.76,
+      "end": 30.78,
+      "text": " We're playing catch.",
+      "tokens": [
+        50365,
+        492,
+        434,
+        2433,
+        3745,
+        13,
+        50466
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 12,
+      "seek": 2876,
+      "start": 31.020000000000003,
+      "end": 33.08,
+      "text": " With our arms.",
+      "tokens": [
+        50478,
+        2022,
+        527,
+        5812,
+        13,
+        50581
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 13,
+      "seek": 2876,
+      "start": 33.6,
+      "end": 34.28,
+      "text": " So?",
+      "tokens": [
+        50607,
+        407,
+        30,
+        50641
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 14,
+      "seek": 2876,
+      "start": 35.18,
+      "end": 36.82,
+      "text": " You do not have arms.",
+      "tokens": [
+        50686,
+        509,
+        360,
+        406,
+        362,
+        5812,
+        13,
+        50768
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 15,
+      "seek": 2876,
+      "start": 36.980000000000004,
+      "end": 38.64,
+      "text": " I do not have arms?",
+      "tokens": [
+        50776,
+        286,
+        360,
+        406,
+        362,
+        5812,
+        30,
+        50859
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 16,
+      "seek": 2876,
+      "start": 43.44,
+      "end": 46.260000000000005,
+      "text": " I know I do not have arms.",
+      "tokens": [
+        51099,
+        286,
+        458,
+        286,
+        360,
+        406,
+        362,
+        5812,
+        13,
+        51240
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 17,
+      "seek": 2876,
+      "start": 46.540000000000006,
+      "end": 47.96,
+      "text": " I am a snake.",
+      "tokens": [
+        51254,
+        286,
+        669,
+        257,
+        12650,
+        13,
+        51325
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 18,
+      "seek": 2876,
+      "start": 48.540000000000006,
+      "end": 50.7,
+      "text": " You are a funny snake.",
+      "tokens": [
+        51354,
+        509,
+        366,
+        257,
+        4074,
+        12650,
+        13,
+        51462
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 19,
+      "seek": 2876,
+      "start": 51.22,
+      "end": 53.260000000000005,
+      "text": " But can a snake play catch?",
+      "tokens": [
+        51488,
+        583,
+        393,
+        257,
+        12650,
+        862,
+        3745,
+        30,
+        51590
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 20,
+      "seek": 2876,
+      "start": 53.56,
+      "end": 54.6,
+      "text": " I do not know.",
+      "tokens": [
+        51605,
+        286,
+        360,
+        406,
+        458,
+        13,
+        51657
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 21,
+      "seek": 2876,
+      "start": 54.6,
+      "end": 56.56,
+      "text": " But I can try.",
+      "tokens": [
+        51657,
+        583,
+        286,
+        393,
+        853,
+        13,
+        51755
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 22,
+      "seek": 2876,
+      "start": 57.760000000000005,
+      "end": 58.480000000000004,
+      "text": " Cool.",
+      "tokens": [
+        51815,
+        8561,
+        13,
+        51851
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.35848295965860055,
+      "compression_ratio": 1.62015503875969,
+      "no_speech_prob": 2.0034950261316187e-12
+    },
+    {
+      "id": 23,
+      "seek": 5876,
+      "start": 58.76,
+      "end": 61.16,
+      "text": " I will throw the ball.",
+      "tokens": [
+        50365,
+        286,
+        486,
+        3507,
+        264,
+        2594,
+        13,
+        50485
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 24,
+      "seek": 5876,
+      "start": 61.48,
+      "end": 62.58,
+      "text": " Try to catch it.",
+      "tokens": [
+        50501,
+        6526,
+        281,
+        3745,
+        309,
+        13,
+        50556
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 25,
+      "seek": 5876,
+      "start": 63.58,
+      "end": 65.16,
+      "text": " Here comes the balls.",
+      "tokens": [
+        50606,
+        1692,
+        1487,
+        264,
+        9803,
+        13,
+        50685
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 26,
+      "seek": 5876,
+      "start": 65.9,
+      "end": 66.28,
+      "text": " Bunk.",
+      "tokens": [
+        50722,
+        363,
+        3197,
+        13,
+        50741
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 27,
+      "seek": 5876,
+      "start": 66.84,
+      "end": 67.56,
+      "text": " Sorry.",
+      "tokens": [
+        50769,
+        4919,
+        13,
+        50805
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 28,
+      "seek": 5876,
+      "start": 68.44,
+      "end": 70.94,
+      "text": " It is okay. Let's try again.",
+      "tokens": [
+        50849,
+        467,
+        307,
+        1392,
+        13,
+        961,
+        311,
+        853,
+        797,
+        13,
+        50974
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 29,
+      "seek": 5876,
+      "start": 71.24,
+      "end": 73.03999999999999,
+      "text": " Okay, I will try again.",
+      "tokens": [
+        50989,
+        1033,
+        11,
+        286,
+        486,
+        853,
+        797,
+        13,
+        51079
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 30,
+      "seek": 5876,
+      "start": 73.1,
+      "end": 73.42,
+      "text": " Bunk.",
+      "tokens": [
+        51082,
+        363,
+        3197,
+        13,
+        51098
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 31,
+      "seek": 5876,
+      "start": 74.64,
+      "end": 76.6,
+      "text": " Now I will try. Bunk.",
+      "tokens": [
+        51159,
+        823,
+        286,
+        486,
+        853,
+        13,
+        363,
+        3197,
+        13,
+        51257
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 32,
+      "seek": 5876,
+      "start": 76.94,
+      "end": 78.56,
+      "text": " This is not working.",
+      "tokens": [
+        51274,
+        639,
+        307,
+        406,
+        1364,
+        13,
+        51355
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 33,
+      "seek": 5876,
+      "start": 78.94,
+      "end": 80.38,
+      "text": " We need a new idea.",
+      "tokens": [
+        51374,
+        492,
+        643,
+        257,
+        777,
+        1558,
+        13,
+        51446
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 34,
+      "seek": 5876,
+      "start": 80.86,
+      "end": 81.66,
+      "text": " Yes.",
+      "tokens": [
+        51470,
+        1079,
+        13,
+        51510
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 35,
+      "seek": 5876,
+      "start": 82.08,
+      "end": 85.02,
+      "text": " Maybe we need more balls.",
+      "tokens": [
+        51531,
+        2704,
+        321,
+        643,
+        544,
+        9803,
+        13,
+        51678
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 36,
+      "seek": 5876,
+      "start": 85.36,
+      "end": 86.88,
+      "text": " More balls!",
+      "tokens": [
+        51695,
+        5048,
+        9803,
+        0,
+        51771
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 37,
+      "seek": 5876,
+      "start": 86.88,
+      "end": 88.72,
+      "text": " More balls!",
+      "tokens": [
+        51771,
+        5048,
+        9803,
+        0,
+        51863
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4522898747370793,
+      "compression_ratio": 1.5987261146496816,
+      "no_speech_prob": 8.732793134458294e-12
+    },
+    {
+      "id": 38,
+      "seek": 8876,
+      "start": 88.76,
+      "end": 91.82000000000001,
+      "text": " Oh, oh boy.",
+      "tokens": [
+        50365,
+        876,
+        11,
+        1954,
+        3237,
+        13,
+        50518
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 39,
+      "seek": 8876,
+      "start": 94.4,
+      "end": 96.76,
+      "text": " Do we need even more bulls?",
+      "tokens": [
+        50647,
+        1144,
+        321,
+        643,
+        754,
+        544,
+        4693,
+        82,
+        30,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 40,
+      "seek": 8876,
+      "start": 97.58000000000001,
+      "end": 98.08000000000001,
+      "text": " Maybe.",
+      "tokens": [
+        50806,
+        2704,
+        13,
+        50831
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 41,
+      "seek": 8876,
+      "start": 98.28,
+      "end": 98.76,
+      "text": " Wait!",
+      "tokens": [
+        50841,
+        3802,
+        0,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 42,
+      "seek": 8876,
+      "start": 99.78,
+      "end": 101.14,
+      "text": " We have tried.",
+      "tokens": [
+        50916,
+        492,
+        362,
+        3031,
+        13,
+        50984
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 43,
+      "seek": 8876,
+      "start": 101.54,
+      "end": 103.06,
+      "text": " But I'm a snake.",
+      "tokens": [
+        51004,
+        583,
+        286,
+        478,
+        257,
+        12650,
+        13,
+        51080
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 44,
+      "seek": 8876,
+      "start": 103.58000000000001,
+      "end": 106.24000000000001,
+      "text": " A snake who cannot play catch.",
+      "tokens": [
+        51106,
+        316,
+        12650,
+        567,
+        2644,
+        862,
+        3745,
+        13,
+        51239
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 45,
+      "seek": 8876,
+      "start": 106.66000000000001,
+      "end": 107.24000000000001,
+      "text": " No!",
+      "tokens": [
+        51260,
+        883,
+        0,
+        51289
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 46,
+      "seek": 8876,
+      "start": 107.82000000000001,
+      "end": 109.9,
+      "text": " You are our friend!",
+      "tokens": [
+        51318,
+        509,
+        366,
+        527,
+        1277,
+        0,
+        51422
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 47,
+      "seek": 8876,
+      "start": 110.26,
+      "end": 112.18,
+      "text": " We will all play catch!",
+      "tokens": [
+        51440,
+        492,
+        486,
+        439,
+        862,
+        3745,
+        0,
+        51536
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 48,
+      "seek": 8876,
+      "start": 113.2,
+      "end": 113.92,
+      "text": " How?",
+      "tokens": [
+        51587,
+        1012,
+        30,
+        51623
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 49,
+      "seek": 8876,
+      "start": 114.78,
+      "end": 116.48,
+      "text": " She has an idea.",
+      "tokens": [
+        51666,
+        1240,
+        575,
+        364,
+        1558,
+        13,
+        51751
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 50,
+      "seek": 8876,
+      "start": 117.54,
+      "end": 117.94,
+      "text": " We!",
+      "tokens": [
+        51804,
+        492,
+        0,
+        51824
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5289939244588217,
+      "compression_ratio": 1.2684563758389262,
+      "no_speech_prob": 1.1831247787030819e-12
+    },
+    {
+      "id": 51,
+      "seek": 11794,
+      "start": 117.94,
+      "end": 122.06,
+      "text": " I love playing catch with my friends.",
+      "tokens": [
+        50365,
+        286,
+        959,
+        2433,
+        3745,
+        365,
+        452,
+        1855,
+        13,
+        50571
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 52,
+      "seek": 11794,
+      "start": 124.94,
+      "end": 128.3,
+      "text": " Who becomes the ball in the end?",
+      "tokens": [
+        50715,
+        2102,
+        3643,
+        264,
+        2594,
+        294,
+        264,
+        917,
+        30,
+        50883
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 53,
+      "seek": 11794,
+      "start": 128.7,
+      "end": 129.4,
+      "text": " Snake.",
+      "tokens": [
+        50903,
+        33885,
+        13,
+        50938
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 54,
+      "seek": 11794,
+      "start": 129.76,
+      "end": 130.44,
+      "text": " Snake.",
+      "tokens": [
+        50956,
+        33885,
+        13,
+        50990
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 55,
+      "seek": 11794,
+      "start": 130.62,
+      "end": 132.68,
+      "text": " This snake has no...",
+      "tokens": [
+        50999,
+        639,
+        12650,
+        575,
+        572,
+        485,
+        51102
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 56,
+      "seek": 11794,
+      "start": 132.68,
+      "end": 133.22,
+      "text": " Arms.",
+      "tokens": [
+        51102,
+        42561,
+        13,
+        51129
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 57,
+      "seek": 11794,
+      "start": 133.54,
+      "end": 133.78,
+      "text": " Right.",
+      "tokens": [
+        51145,
+        1779,
+        13,
+        51157
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    },
+    {
+      "id": 58,
+      "seek": 11794,
+      "start": 134.98,
+      "end": 136.06,
+      "text": " Can I play too?",
+      "tokens": [
+        51217,
+        1664,
+        286,
+        862,
+        886,
+        30,
+        51271
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5751073500689339,
+      "compression_ratio": 1.1964285714285714,
+      "no_speech_prob": 1.619058012658492e-11
+    }
+  ],
+  "language": "en",
+  "lessonId": "v_6780971de4b092c1697eff29",
+  "lessonTitle": "27_Can_I_Play_Too",
+  "sourceAudio": "media/audio/27_Can_I_Play_Too.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

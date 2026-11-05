@@ -1,0 +1,1 @@
+System.register([],function(t,r){"use strict";return{execute:function(){t("n",function(t){try{var r=wx.miniProgram.navigateTo({url:t});r&&r instanceof Promise&&r.catch&&r.catch(function(){wx.miniProgram.redirectTo({url:t})})}catch(e){wx.miniProgram.redirectTo({url:t})}}),t("f",function(t){return/^th_/.test(t)?"theme_id":/^w_/.test(t)?"homework_id":"id"})}}});

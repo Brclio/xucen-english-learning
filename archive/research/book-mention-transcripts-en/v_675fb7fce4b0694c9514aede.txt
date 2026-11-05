@@ -1,0 +1,45 @@
+[0.0–3.0]  Today I will fly.
+[3.0–4.5]  By Mo Willems.
+[4.5–8.0]  Today I will fly. Who will fly the piggy?
+[9.0–12.0]  Today I will fly!
+[12.0–15.0]  No, you will not fly today.
+[15.0–17.5]  You will not fly tomorrow.
+[17.5–20.0]  You will not fly next week.
+[20.0–24.0]  You will never fly.
+[24.0–26.5]  I will try. Goodbye.
+[26.5–30.7]  You will not fly, she will not fly.
+[30.7–60.7]  Fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly, fly
+[60.7–62.3]  You did not fly.
+[62.3–64.1]  I did not fly.
+[64.1–65.8]  You jumped.
+[65.8–67.8]  I jumped?
+[67.8–70.1]  It was a big jump.
+[70.1–73.9]  Yes, it was a big jump, but you did not fly.
+[73.9–75.8]  I will try again.
+[75.8–77.4]  I will eat lunch.
+[77.4–78.2]  Goodbye.
+[81.9–83.4]  You need help.
+[83.4–85.7]  I do need help.
+[85.7–86.9]  Will you help me?
+[86.9–87.8]  I will.
+[87.8–89.7]  I will help you.
+[89.7–90.5]  Thank you.
+[91.1–91.6]  Hello.
+[92.4–93.1]  Hello.
+[94.2–96.5]  You are flying.
+[97.3–98.5]  You are flying today.
+[99.6–101.5]  My friend can fly.
+[101.7–102.9]  She can fly.
+[103.2–104.6]  I am not flying.
+[104.9–105.7]  You are not flying?
+[106.1–107.5]  I'm getting help.
+[107.8–110.2]  Thank you for your help.
+[110.9–113.8]  Tomorrow I will fly.
+[114.5–115.6]  Good luck.
+[115.6–122.6]  Today I will fly. Who provide helps?
+[122.6–125.6]  The pelican. Pelican and?
+[125.6–127.6]  And the dog.
+[127.6–131.6]  The dog. What did the dog do to help?
+[131.6–136.6]  He chased her, which made her jump super high.
+[136.6–138.6]  And barked.
+[138.6–140.6]  Yes.

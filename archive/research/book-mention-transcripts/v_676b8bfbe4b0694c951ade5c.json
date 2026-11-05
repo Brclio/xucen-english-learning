@@ -1,0 +1,1035 @@
+{
+  "text": " Are you ready to play outside? By Mo Willems! Are you ready to play? Piggy! Gerald! Are you ready to play outside? Yes, yes, yes! We're going to do everything today! We're going to run! We're going to skip! We're going to jump! Nothing can stop us! Please! Oh no! It is starting to rain! It is raining!它是很不容易的它是真的不容易我從來沒有看到太多的雨我對不喜歡雨我不是很不開心謝謝你, Gerald但是它是還要雨好,可以玩外面的一天雨,雨,雨雪,雪,雪,雪,雪,雪they are having funmaybe we can have fun toowe can trysplashthis is greatlet's playrun run runskip skip skipjump jump jumpi love raini hope it rains all dayratsnow i like rainand now the rain has stoppedI am not a happy pigdo not worry piggyI have a planRainElephants make the best friendsthis is about friendshipand everybody helps everybodyand just like you and Chelseaokaycan you help her with不不",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.52,
+      "text": " Are you ready to play outside?",
+      "tokens": [
+        50365,
+        2014,
+        291,
+        1919,
+        281,
+        862,
+        2380,
+        30,
+        50541
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.6,
+      "end": 5.42,
+      "text": " By Mo Willems!",
+      "tokens": [
+        50545,
+        3146,
+        3335,
+        3099,
+        9097,
+        0,
+        50636
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.58,
+      "end": 7.16,
+      "text": " Are you ready to play?",
+      "tokens": [
+        50644,
+        2014,
+        291,
+        1919,
+        281,
+        862,
+        30,
+        50723
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.26,
+      "end": 7.98,
+      "text": " Piggy!",
+      "tokens": [
+        50728,
+        27322,
+        1480,
+        0,
+        50764
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.48,
+      "end": 9.040000000000001,
+      "text": " Gerald!",
+      "tokens": [
+        50789,
+        38332,
+        0,
+        50817
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.56,
+      "end": 11.1,
+      "text": " Are you ready to play outside?",
+      "tokens": [
+        50843,
+        2014,
+        291,
+        1919,
+        281,
+        862,
+        2380,
+        30,
+        50920
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 11.56,
+      "end": 12.52,
+      "text": " Yes, yes, yes!",
+      "tokens": [
+        50943,
+        1079,
+        11,
+        2086,
+        11,
+        2086,
+        0,
+        50991
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 13.52,
+      "end": 15.5,
+      "text": " We're going to do everything today!",
+      "tokens": [
+        51041,
+        492,
+        434,
+        516,
+        281,
+        360,
+        1203,
+        965,
+        0,
+        51140
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 15.76,
+      "end": 16.96,
+      "text": " We're going to run!",
+      "tokens": [
+        51153,
+        492,
+        434,
+        516,
+        281,
+        1190,
+        0,
+        51213
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 17.06,
+      "end": 17.68,
+      "text": " We're going to skip!",
+      "tokens": [
+        51218,
+        492,
+        434,
+        516,
+        281,
+        10023,
+        0,
+        51249
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 18.02,
+      "end": 19.36,
+      "text": " We're going to jump!",
+      "tokens": [
+        51266,
+        492,
+        434,
+        516,
+        281,
+        3012,
+        0,
+        51333
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 19.92,
+      "end": 21.56,
+      "text": " Nothing can stop us!",
+      "tokens": [
+        51361,
+        6693,
+        393,
+        1590,
+        505,
+        0,
+        51443
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 21.7,
+      "end": 21.92,
+      "text": " Please!",
+      "tokens": [
+        51450,
+        2555,
+        0,
+        51461
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 22.96,
+      "end": 24.060000000000002,
+      "text": " Oh no!",
+      "tokens": [
+        51513,
+        876,
+        572,
+        0,
+        51568
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 24.78,
+      "end": 26.580000000000002,
+      "text": " It is starting to rain!",
+      "tokens": [
+        51604,
+        467,
+        307,
+        2891,
+        281,
+        4830,
+        0,
+        51694
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 27.2,
+      "end": 28.240000000000002,
+      "text": " It is raining!",
+      "tokens": [
+        51725,
+        467,
+        307,
+        18441,
+        0,
+        51777
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.395754781262628,
+      "compression_ratio": 1.875776397515528,
+      "no_speech_prob": 4.2625747376234813e-10
+    },
+    {
+      "id": 16,
+      "seek": 2824,
+      "start": 28.24,
+      "end": 31.24,
+      "text": "它是很不容易的",
+      "tokens": [
+        50365,
+        11284,
+        1541,
+        4563,
+        1960,
+        49212,
+        1546,
+        50515
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 17,
+      "seek": 2824,
+      "start": 31.24,
+      "end": 34.239999999999995,
+      "text": "它是真的不容易",
+      "tokens": [
+        50515,
+        11284,
+        1541,
+        8034,
+        1960,
+        49212,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 18,
+      "seek": 2824,
+      "start": 34.239999999999995,
+      "end": 38.239999999999995,
+      "text": "我從來沒有看到太多的雨",
+      "tokens": [
+        50665,
+        1654,
+        21068,
+        3763,
+        6963,
+        18032,
+        9455,
+        6392,
+        1546,
+        35339,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 19,
+      "seek": 2824,
+      "start": 38.239999999999995,
+      "end": 42.239999999999995,
+      "text": "我對不喜歡雨",
+      "tokens": [
+        50865,
+        1654,
+        2855,
+        1960,
+        21385,
+        35339,
+        51065
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 20,
+      "seek": 2824,
+      "start": 42.239999999999995,
+      "end": 45.239999999999995,
+      "text": "我不是很不開心",
+      "tokens": [
+        51065,
+        1654,
+        7296,
+        4563,
+        1960,
+        37809,
+        51215
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 21,
+      "seek": 2824,
+      "start": 49.239999999999995,
+      "end": 51.239999999999995,
+      "text": "謝謝你, Gerald",
+      "tokens": [
+        51415,
+        11003,
+        2166,
+        11,
+        38332,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 22,
+      "seek": 2824,
+      "start": 51.239999999999995,
+      "end": 54.239999999999995,
+      "text": "但是它是還要雨",
+      "tokens": [
+        51515,
+        11189,
+        11284,
+        1541,
+        7824,
+        4275,
+        35339,
+        51665
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0116653442382812,
+      "compression_ratio": 1.1515151515151516,
+      "no_speech_prob": 2.64446190639811e-12
+    },
+    {
+      "id": 23,
+      "seek": 5424,
+      "start": 54.24,
+      "end": 60.04,
+      "text": "好,可以玩外面的一天",
+      "tokens": [
+        50365,
+        2131,
+        11,
+        6723,
+        19912,
+        12022,
+        8833,
+        1546,
+        2257,
+        6135,
+        50655
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28215462578667533,
+      "compression_ratio": 7.964285714285714,
+      "no_speech_prob": 3.2484791766262955e-12
+    },
+    {
+      "id": 24,
+      "seek": 5424,
+      "start": 60.04,
+      "end": 64.64,
+      "text": "雨,雨,雨",
+      "tokens": [
+        50655,
+        35339,
+        11,
+        35339,
+        11,
+        35339,
+        50885
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28215462578667533,
+      "compression_ratio": 7.964285714285714,
+      "no_speech_prob": 3.2484791766262955e-12
+    },
+    {
+      "id": 25,
+      "seek": 5424,
+      "start": 64.64,
+      "end": 69.48,
+      "text": "雪,雪,雪,雪,雪,雪",
+      "tokens": [
+        50885,
+        47939,
+        11,
+        47939,
+        11,
+        47939,
+        11,
+        47939,
+        11,
+        47939,
+        11,
+        47939,
+        51127
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28215462578667533,
+      "compression_ratio": 7.964285714285714,
+      "no_speech_prob": 3.2484791766262955e-12
+    },
+    {
+      "id": 26,
+      "seek": 6948,
+      "start": 69.48,
+      "end": 71.48,
+      "text": "they are having fun",
+      "tokens": [
+        50365,
+        13162,
+        366,
+        1419,
+        1019,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 27,
+      "seek": 6948,
+      "start": 71.48,
+      "end": 73.86,
+      "text": "maybe we can have fun too",
+      "tokens": [
+        50465,
+        39380,
+        321,
+        393,
+        362,
+        1019,
+        886,
+        50584
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 28,
+      "seek": 6948,
+      "start": 73.86,
+      "end": 75.76,
+      "text": "we can try",
+      "tokens": [
+        50584,
+        826,
+        393,
+        853,
+        50679
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 29,
+      "seek": 6948,
+      "start": 75.76,
+      "end": 77.98,
+      "text": "splash",
+      "tokens": [
+        50679,
+        46535,
+        1299,
+        50790
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 30,
+      "seek": 6948,
+      "start": 77.98,
+      "end": 80.5,
+      "text": "this is great",
+      "tokens": [
+        50790,
+        11176,
+        307,
+        869,
+        50916
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 31,
+      "seek": 6948,
+      "start": 80.5,
+      "end": 81.38000000000001,
+      "text": "let's play",
+      "tokens": [
+        50916,
+        2631,
+        311,
+        862,
+        50960
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 32,
+      "seek": 6948,
+      "start": 81.38000000000001,
+      "end": 84.16,
+      "text": "run run run",
+      "tokens": [
+        50960,
+        12997,
+        1190,
+        1190,
+        51099
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 33,
+      "seek": 6948,
+      "start": 84.16,
+      "end": 86.28,
+      "text": "skip skip skip",
+      "tokens": [
+        51099,
+        5161,
+        647,
+        10023,
+        10023,
+        51205
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 34,
+      "seek": 6948,
+      "start": 86.28,
+      "end": 88.10000000000001,
+      "text": "jump jump jump",
+      "tokens": [
+        51205,
+        73,
+        1420,
+        3012,
+        3012,
+        51296
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 35,
+      "seek": 6948,
+      "start": 88.10000000000001,
+      "end": 90.04,
+      "text": "i love rain",
+      "tokens": [
+        51296,
+        72,
+        959,
+        4830,
+        51393
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 36,
+      "seek": 6948,
+      "start": 90.04,
+      "end": 92.58000000000001,
+      "text": "i hope it rains all day",
+      "tokens": [
+        51393,
+        72,
+        1454,
+        309,
+        27805,
+        439,
+        786,
+        51520
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 37,
+      "seek": 6948,
+      "start": 92.58000000000001,
+      "end": 95.86,
+      "text": "rats",
+      "tokens": [
+        51520,
+        81,
+        1720,
+        51684
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 38,
+      "seek": 6948,
+      "start": 95.86,
+      "end": 98.94,
+      "text": "now i like rain",
+      "tokens": [
+        51684,
+        3785,
+        741,
+        411,
+        4830,
+        51838
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3296296183268229,
+      "compression_ratio": 1.5217391304347827,
+      "no_speech_prob": 1.2445803068694694e-11
+    },
+    {
+      "id": 39,
+      "seek": 9894,
+      "start": 98.94,
+      "end": 101.44,
+      "text": "and now the rain has stopped",
+      "tokens": [
+        50365,
+        474,
+        586,
+        264,
+        4830,
+        575,
+        5936,
+        50490
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 40,
+      "seek": 9894,
+      "start": 101.44,
+      "end": 104.8,
+      "text": "I am not a happy pig",
+      "tokens": [
+        50490,
+        40,
+        669,
+        406,
+        257,
+        2055,
+        8120,
+        50658
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 41,
+      "seek": 9894,
+      "start": 104.8,
+      "end": 106.42,
+      "text": "do not worry piggy",
+      "tokens": [
+        50658,
+        2595,
+        406,
+        3292,
+        39349,
+        50739
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 42,
+      "seek": 9894,
+      "start": 106.42,
+      "end": 108.74,
+      "text": "I have a plan",
+      "tokens": [
+        50739,
+        40,
+        362,
+        257,
+        1393,
+        50855
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 43,
+      "seek": 9894,
+      "start": 108.74,
+      "end": 110.1,
+      "text": "Rain",
+      "tokens": [
+        50855,
+        49,
+        491,
+        50923
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 44,
+      "seek": 9894,
+      "start": 110.1,
+      "end": 114.92,
+      "text": "Elephants make the best friends",
+      "tokens": [
+        50923,
+        36,
+        306,
+        30173,
+        652,
+        264,
+        1151,
+        1855,
+        51164
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 45,
+      "seek": 9894,
+      "start": 114.92,
+      "end": 118.42,
+      "text": "this is about friendship",
+      "tokens": [
+        51164,
+        11176,
+        307,
+        466,
+        13216,
+        51339
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 46,
+      "seek": 9894,
+      "start": 118.42,
+      "end": 122.84,
+      "text": "and everybody helps everybody",
+      "tokens": [
+        51339,
+        474,
+        2201,
+        3665,
+        2201,
+        51560
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 47,
+      "seek": 9894,
+      "start": 122.84,
+      "end": 125.42,
+      "text": "and just like you and Chelsea",
+      "tokens": [
+        51560,
+        474,
+        445,
+        411,
+        291,
+        293,
+        26527,
+        51689
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 48,
+      "seek": 9894,
+      "start": 125.42,
+      "end": 125.92,
+      "text": "okay",
+      "tokens": [
+        51689,
+        26061,
+        51714
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 49,
+      "seek": 9894,
+      "start": 125.92,
+      "end": 128.34,
+      "text": "can you help her with",
+      "tokens": [
+        51714,
+        7035,
+        291,
+        854,
+        720,
+        365,
+        51835
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.37144559050259524,
+      "compression_ratio": 1.4733333333333334,
+      "no_speech_prob": 1.654583761667716e-11
+    },
+    {
+      "id": 50,
+      "seek": 12834,
+      "start": 128.34,
+      "end": 130.34,
+      "text": "不",
+      "tokens": [
+        50365,
+        1960,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.5913111822945731,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 9.538308511081173e-12
+    },
+    {
+      "id": 51,
+      "seek": 12834,
+      "start": 130.34,
+      "end": 132.34,
+      "text": "不",
+      "tokens": [
+        50465,
+        1960,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.5913111822945731,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 9.538308511081173e-12
+    }
+  ],
+  "language": "zh",
+  "lessonId": "v_676b8bfbe4b0694c951ade5c",
+  "lessonTitle": "22_Are_You_Ready_to_Plasy_Outside",
+  "sourceAudio": "media/audio/22_Are_You_Ready_to_Plasy_Outside.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

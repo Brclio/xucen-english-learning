@@ -1,0 +1,12 @@
+{
+  "name": "xucen-english-learning",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.0.0" },
+  "scripts": {
+    "build": "node scripts/build_cloudflare.mjs",
+    "test": "node --test test/*.test.mjs",
+    "media:restore": "node scripts/restore_media.mjs"
+  }
+}

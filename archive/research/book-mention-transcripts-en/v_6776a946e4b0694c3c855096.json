@@ -1,0 +1,1910 @@
+{
+  "text": " Elephants cannot dance. Elephant cannot dance. Elephant cannot dance. By Mo Willems. Elephants cannot dance. Gerald! Let's dance! I can teach you. I'm teaching all my friends. I would love to learn how to dance, but elephants cannot dance. You're kidding me? No. Look it up. Page 11. What elephants can do by an elephant. Okay. Gerald, it does not say that you cannot try. You are right, Piggy. I can try to dance. I will try to dance. Let's dance! Okay, let's go. Jump with me when I count two, three. One, two, three, jump! Jump! You were a little late on the jump. I was a little late on the jump. We will try again. We will try again. Move your arms this way. We will try again. We will try again. Lift your leg this way. We will try again. We will try again. Up. Up. Down. Down. Spin. Spin. Stop. Stop. Forward. Forward? Backward. Backward? Wiggle wiggle. Wiggle wiggle. Rub-a-walk. Rub-a-walk? Enough! Enough! I have tried and tried and tried and tried and tried. But I'm an elephant. An elephant just cannot dance. Oh, Gerald. Hello, we are ready to learn some moves. I'm sorry, I cannot teach you now. My friend is sad. Silly, we don't want you to teach us. We want to learn the elephant. Take me, please. Me two. Me three. More feeling. Keep trying. You are getting it. Alphen cannot dance. Questions. No questions. What are the... What those actions? Up, down. Hey, hey, I wanted to say them. Up, down, stop, spin Spin and stop Spin, stop, forward, backward, wiggle waggle and robot walk Nice Forward Forward Backward Wiggle waggle Wiggle waggle 刚才这段你的表现很好 你一直在控制 但是最后还是蹦 回去回去回去 Backward No no Forward Forward Backward Backward Wiggle waggle Wiggle waggle. Robot walk. Robot walk? Enough! I've tried and tried and tried and tried and tried. But I am an elephant. And elephants just cannot dance.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.72,
+      "text": " Elephants cannot dance.",
+      "tokens": [
+        50365,
+        8024,
+        30173,
+        2644,
+        4489,
+        13,
+        50501
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.72,
+      "end": 6.0,
+      "text": " Elephant cannot dance.",
+      "tokens": [
+        50501,
+        8024,
+        15071,
+        2644,
+        4489,
+        13,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.32,
+      "text": " Elephant cannot dance.",
+      "tokens": [
+        50665,
+        8024,
+        15071,
+        2644,
+        4489,
+        13,
+        50781
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.32,
+      "end": 10.0,
+      "text": " By Mo Willems.",
+      "tokens": [
+        50781,
+        3146,
+        3335,
+        3099,
+        9097,
+        13,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.0,
+      "end": 12.48,
+      "text": " Elephants cannot dance.",
+      "tokens": [
+        50865,
+        8024,
+        30173,
+        2644,
+        4489,
+        13,
+        50989
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.48,
+      "end": 13.6,
+      "text": " Gerald!",
+      "tokens": [
+        50989,
+        38332,
+        0,
+        51045
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 13.6,
+      "end": 19.6,
+      "text": " Let's dance! I can teach you. I'm teaching all my friends.",
+      "tokens": [
+        51045,
+        961,
+        311,
+        4489,
+        0,
+        286,
+        393,
+        2924,
+        291,
+        13,
+        286,
+        478,
+        4571,
+        439,
+        452,
+        1855,
+        13,
+        51345
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.6,
+      "end": 24.8,
+      "text": " I would love to learn how to dance, but elephants cannot dance.",
+      "tokens": [
+        51345,
+        286,
+        576,
+        959,
+        281,
+        1466,
+        577,
+        281,
+        4489,
+        11,
+        457,
+        33015,
+        2644,
+        4489,
+        13,
+        51605
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.8,
+      "end": 26.240000000000002,
+      "text": " You're kidding me?",
+      "tokens": [
+        51605,
+        509,
+        434,
+        9287,
+        385,
+        30,
+        51677
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 26.240000000000002,
+      "end": 27.12,
+      "text": " No.",
+      "tokens": [
+        51677,
+        883,
+        13,
+        51721
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43080369816269987,
+      "compression_ratio": 1.7466666666666666,
+      "no_speech_prob": 7.18962476359275e-12
+    },
+    {
+      "id": 10,
+      "seek": 2712,
+      "start": 27.12,
+      "end": 30.200000000000003,
+      "text": " Look it up. Page 11.",
+      "tokens": [
+        50365,
+        2053,
+        309,
+        493,
+        13,
+        21217,
+        2975,
+        13,
+        50519
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 11,
+      "seek": 2712,
+      "start": 30.200000000000003,
+      "end": 34.94,
+      "text": " What elephants can do by an elephant.",
+      "tokens": [
+        50519,
+        708,
+        33015,
+        393,
+        360,
+        538,
+        364,
+        19791,
+        13,
+        50756
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 12,
+      "seek": 2712,
+      "start": 35.5,
+      "end": 35.74,
+      "text": " Okay.",
+      "tokens": [
+        50784,
+        1033,
+        13,
+        50796
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 13,
+      "seek": 2712,
+      "start": 36.72,
+      "end": 40.42,
+      "text": " Gerald, it does not say that you cannot try.",
+      "tokens": [
+        50845,
+        38332,
+        11,
+        309,
+        775,
+        406,
+        584,
+        300,
+        291,
+        2644,
+        853,
+        13,
+        51030
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 14,
+      "seek": 2712,
+      "start": 41.56,
+      "end": 43.42,
+      "text": " You are right, Piggy.",
+      "tokens": [
+        51087,
+        509,
+        366,
+        558,
+        11,
+        27322,
+        1480,
+        13,
+        51180
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 15,
+      "seek": 2712,
+      "start": 43.620000000000005,
+      "end": 45.58,
+      "text": " I can try to dance.",
+      "tokens": [
+        51190,
+        286,
+        393,
+        853,
+        281,
+        4489,
+        13,
+        51288
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 16,
+      "seek": 2712,
+      "start": 46.0,
+      "end": 47.7,
+      "text": " I will try to dance.",
+      "tokens": [
+        51309,
+        286,
+        486,
+        853,
+        281,
+        4489,
+        13,
+        51394
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 17,
+      "seek": 2712,
+      "start": 48.16,
+      "end": 49.620000000000005,
+      "text": " Let's dance!",
+      "tokens": [
+        51417,
+        961,
+        311,
+        4489,
+        0,
+        51490
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 18,
+      "seek": 2712,
+      "start": 50.88,
+      "end": 52.34,
+      "text": " Okay, let's go.",
+      "tokens": [
+        51553,
+        1033,
+        11,
+        718,
+        311,
+        352,
+        13,
+        51626
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 19,
+      "seek": 2712,
+      "start": 52.540000000000006,
+      "end": 55.24,
+      "text": " Jump with me when I count two, three.",
+      "tokens": [
+        51636,
+        18697,
+        365,
+        385,
+        562,
+        286,
+        1207,
+        732,
+        11,
+        1045,
+        13,
+        51771
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3263009103496423,
+      "compression_ratio": 1.4573170731707317,
+      "no_speech_prob": 9.815443596794537e-12
+    },
+    {
+      "id": 20,
+      "seek": 5524,
+      "start": 55.24,
+      "end": 59.400000000000006,
+      "text": " One, two, three, jump!",
+      "tokens": [
+        50365,
+        1485,
+        11,
+        732,
+        11,
+        1045,
+        11,
+        3012,
+        0,
+        50573
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 21,
+      "seek": 5524,
+      "start": 63.120000000000005,
+      "end": 63.96,
+      "text": " Jump!",
+      "tokens": [
+        50759,
+        18697,
+        0,
+        50801
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 22,
+      "seek": 5524,
+      "start": 64.78,
+      "end": 67.16,
+      "text": " You were a little late on the jump.",
+      "tokens": [
+        50842,
+        509,
+        645,
+        257,
+        707,
+        3469,
+        322,
+        264,
+        3012,
+        13,
+        50961
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 23,
+      "seek": 5524,
+      "start": 67.4,
+      "end": 69.5,
+      "text": " I was a little late on the jump.",
+      "tokens": [
+        50973,
+        286,
+        390,
+        257,
+        707,
+        3469,
+        322,
+        264,
+        3012,
+        13,
+        51078
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 24,
+      "seek": 5524,
+      "start": 69.74000000000001,
+      "end": 71.26,
+      "text": " We will try again.",
+      "tokens": [
+        51090,
+        492,
+        486,
+        853,
+        797,
+        13,
+        51166
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 25,
+      "seek": 5524,
+      "start": 71.32000000000001,
+      "end": 72.98,
+      "text": " We will try again.",
+      "tokens": [
+        51169,
+        492,
+        486,
+        853,
+        797,
+        13,
+        51252
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 26,
+      "seek": 5524,
+      "start": 73.04,
+      "end": 75.58,
+      "text": " Move your arms this way.",
+      "tokens": [
+        51255,
+        10475,
+        428,
+        5812,
+        341,
+        636,
+        13,
+        51382
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 27,
+      "seek": 5524,
+      "start": 77.26,
+      "end": 79.16,
+      "text": " We will try again.",
+      "tokens": [
+        51466,
+        492,
+        486,
+        853,
+        797,
+        13,
+        51561
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 28,
+      "seek": 5524,
+      "start": 79.28,
+      "end": 80.82000000000001,
+      "text": " We will try again.",
+      "tokens": [
+        51567,
+        492,
+        486,
+        853,
+        797,
+        13,
+        51644
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 29,
+      "seek": 5524,
+      "start": 80.82000000000001,
+      "end": 83.82000000000001,
+      "text": " Lift your leg this way.",
+      "tokens": [
+        51644,
+        26148,
+        428,
+        1676,
+        341,
+        636,
+        13,
+        51794
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.38625500525957274,
+      "compression_ratio": 1.9304347826086956,
+      "no_speech_prob": 5.453615423839375e-12
+    },
+    {
+      "id": 30,
+      "seek": 8524,
+      "start": 85.24,
+      "end": 87.38,
+      "text": " We will try again.",
+      "tokens": [
+        50365,
+        492,
+        486,
+        853,
+        797,
+        13,
+        50472
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 31,
+      "seek": 8524,
+      "start": 87.66,
+      "end": 90.17999999999999,
+      "text": " We will try again.",
+      "tokens": [
+        50486,
+        492,
+        486,
+        853,
+        797,
+        13,
+        50612
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 32,
+      "seek": 8524,
+      "start": 90.32,
+      "end": 90.6,
+      "text": " Up.",
+      "tokens": [
+        50619,
+        5858,
+        13,
+        50633
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 33,
+      "seek": 8524,
+      "start": 90.82,
+      "end": 91.19999999999999,
+      "text": " Up.",
+      "tokens": [
+        50644,
+        5858,
+        13,
+        50663
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 34,
+      "seek": 8524,
+      "start": 91.72,
+      "end": 92.67999999999999,
+      "text": " Down.",
+      "tokens": [
+        50689,
+        9506,
+        13,
+        50737
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 35,
+      "seek": 8524,
+      "start": 92.82,
+      "end": 93.28,
+      "text": " Down.",
+      "tokens": [
+        50744,
+        9506,
+        13,
+        50767
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 36,
+      "seek": 8524,
+      "start": 93.61999999999999,
+      "end": 94.06,
+      "text": " Spin.",
+      "tokens": [
+        50784,
+        29185,
+        13,
+        50806
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 37,
+      "seek": 8524,
+      "start": 94.56,
+      "end": 95.06,
+      "text": " Spin.",
+      "tokens": [
+        50831,
+        29185,
+        13,
+        50856
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 38,
+      "seek": 8524,
+      "start": 95.39999999999999,
+      "end": 96.0,
+      "text": " Stop.",
+      "tokens": [
+        50873,
+        5535,
+        13,
+        50903
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 39,
+      "seek": 8524,
+      "start": 96.46,
+      "end": 97.11999999999999,
+      "text": " Stop.",
+      "tokens": [
+        50926,
+        5535,
+        13,
+        50959
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 40,
+      "seek": 8524,
+      "start": 97.36,
+      "end": 97.89999999999999,
+      "text": " Forward.",
+      "tokens": [
+        50971,
+        35524,
+        13,
+        50998
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 41,
+      "seek": 8524,
+      "start": 98.52,
+      "end": 99.06,
+      "text": " Forward?",
+      "tokens": [
+        51029,
+        35524,
+        30,
+        51056
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 42,
+      "seek": 8524,
+      "start": 99.5,
+      "end": 100.58,
+      "text": " Backward.",
+      "tokens": [
+        51078,
+        5833,
+        1007,
+        13,
+        51132
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 43,
+      "seek": 8524,
+      "start": 100.8,
+      "end": 101.52,
+      "text": " Backward?",
+      "tokens": [
+        51143,
+        5833,
+        1007,
+        30,
+        51179
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 44,
+      "seek": 8524,
+      "start": 102.46,
+      "end": 103.94,
+      "text": " Wiggle wiggle.",
+      "tokens": [
+        51226,
+        343,
+        19694,
+        33377,
+        13,
+        51300
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 45,
+      "seek": 8524,
+      "start": 104.5,
+      "end": 106.0,
+      "text": " Wiggle wiggle.",
+      "tokens": [
+        51328,
+        343,
+        19694,
+        33377,
+        13,
+        51403
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 46,
+      "seek": 8524,
+      "start": 106.36,
+      "end": 107.41999999999999,
+      "text": " Rub-a-walk.",
+      "tokens": [
+        51421,
+        10518,
+        12,
+        64,
+        12,
+        12490,
+        13,
+        51474
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 47,
+      "seek": 8524,
+      "start": 107.8,
+      "end": 109.46,
+      "text": " Rub-a-walk?",
+      "tokens": [
+        51493,
+        10518,
+        12,
+        64,
+        12,
+        12490,
+        30,
+        51576
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 48,
+      "seek": 8524,
+      "start": 109.67999999999999,
+      "end": 110.52,
+      "text": " Enough!",
+      "tokens": [
+        51587,
+        19401,
+        0,
+        51629
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 49,
+      "seek": 8524,
+      "start": 110.52,
+      "end": 111.11999999999999,
+      "text": " Enough!",
+      "tokens": [
+        51629,
+        19401,
+        0,
+        51659
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.620952755797143,
+      "compression_ratio": 1.8349514563106797,
+      "no_speech_prob": 5.353025314680515e-12
+    },
+    {
+      "id": 50,
+      "seek": 11112,
+      "start": 111.12,
+      "end": 116.32000000000001,
+      "text": " I have tried and tried and tried and tried and tried.",
+      "tokens": [
+        50365,
+        286,
+        362,
+        3031,
+        293,
+        3031,
+        293,
+        3031,
+        293,
+        3031,
+        293,
+        3031,
+        13,
+        50625
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 51,
+      "seek": 11112,
+      "start": 117.0,
+      "end": 118.36,
+      "text": " But I'm an elephant.",
+      "tokens": [
+        50659,
+        583,
+        286,
+        478,
+        364,
+        19791,
+        13,
+        50727
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 52,
+      "seek": 11112,
+      "start": 119.36,
+      "end": 122.14,
+      "text": " An elephant just cannot dance.",
+      "tokens": [
+        50777,
+        1107,
+        19791,
+        445,
+        2644,
+        4489,
+        13,
+        50916
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 53,
+      "seek": 11112,
+      "start": 123.88000000000001,
+      "end": 125.34,
+      "text": " Oh, Gerald.",
+      "tokens": [
+        51003,
+        876,
+        11,
+        38332,
+        13,
+        51076
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 54,
+      "seek": 11112,
+      "start": 127.02000000000001,
+      "end": 130.28,
+      "text": " Hello, we are ready to learn some moves.",
+      "tokens": [
+        51160,
+        2425,
+        11,
+        321,
+        366,
+        1919,
+        281,
+        1466,
+        512,
+        6067,
+        13,
+        51323
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 55,
+      "seek": 11112,
+      "start": 130.76,
+      "end": 132.98000000000002,
+      "text": " I'm sorry, I cannot teach you now.",
+      "tokens": [
+        51347,
+        286,
+        478,
+        2597,
+        11,
+        286,
+        2644,
+        2924,
+        291,
+        586,
+        13,
+        51458
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 56,
+      "seek": 11112,
+      "start": 133.06,
+      "end": 134.78,
+      "text": " My friend is sad.",
+      "tokens": [
+        51462,
+        1222,
+        1277,
+        307,
+        4227,
+        13,
+        51548
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 57,
+      "seek": 11112,
+      "start": 135.78,
+      "end": 138.32,
+      "text": " Silly, we don't want you to teach us.",
+      "tokens": [
+        51598,
+        318,
+        6917,
+        11,
+        321,
+        500,
+        380,
+        528,
+        291,
+        281,
+        2924,
+        505,
+        13,
+        51725
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 58,
+      "seek": 11112,
+      "start": 138.32,
+      "end": 139.92000000000002,
+      "text": " We want to learn the elephant.",
+      "tokens": [
+        51725,
+        492,
+        528,
+        281,
+        1466,
+        264,
+        19791,
+        13,
+        51805
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.26412410526485236,
+      "compression_ratio": 1.6568047337278107,
+      "no_speech_prob": 4.016720983601729e-12
+    },
+    {
+      "id": 59,
+      "seek": 14112,
+      "start": 141.12,
+      "end": 146.62,
+      "text": " Take me, please. Me two. Me three.",
+      "tokens": [
+        50365,
+        3664,
+        385,
+        11,
+        1767,
+        13,
+        1923,
+        732,
+        13,
+        1923,
+        1045,
+        13,
+        50640
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 60,
+      "seek": 14112,
+      "start": 147.88,
+      "end": 151.4,
+      "text": " More feeling. Keep trying. You are getting it.",
+      "tokens": [
+        50703,
+        5048,
+        2633,
+        13,
+        5527,
+        1382,
+        13,
+        509,
+        366,
+        1242,
+        309,
+        13,
+        50879
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 61,
+      "seek": 14112,
+      "start": 156.36,
+      "end": 158.92000000000002,
+      "text": " Alphen cannot dance.",
+      "tokens": [
+        51127,
+        967,
+        47059,
+        2644,
+        4489,
+        13,
+        51255
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 62,
+      "seek": 14112,
+      "start": 159.3,
+      "end": 159.76,
+      "text": " Questions.",
+      "tokens": [
+        51274,
+        27738,
+        13,
+        51297
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 63,
+      "seek": 14112,
+      "start": 160.20000000000002,
+      "end": 162.84,
+      "text": " No questions. What are the...",
+      "tokens": [
+        51319,
+        883,
+        1651,
+        13,
+        708,
+        366,
+        264,
+        485,
+        51451
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 64,
+      "seek": 14112,
+      "start": 162.84,
+      "end": 165.38,
+      "text": " What those actions?",
+      "tokens": [
+        51451,
+        708,
+        729,
+        5909,
+        30,
+        51578
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 65,
+      "seek": 14112,
+      "start": 166.42000000000002,
+      "end": 167.92000000000002,
+      "text": " Up, down.",
+      "tokens": [
+        51630,
+        5858,
+        11,
+        760,
+        13,
+        51705
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 66,
+      "seek": 14112,
+      "start": 167.92000000000002,
+      "end": 169.74,
+      "text": " Hey, hey, I wanted to say them.",
+      "tokens": [
+        51705,
+        1911,
+        11,
+        4177,
+        11,
+        286,
+        1415,
+        281,
+        584,
+        552,
+        13,
+        51796
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.43856048583984375,
+      "compression_ratio": 1.385135135135135,
+      "no_speech_prob": 8.22419563006882e-12
+    },
+    {
+      "id": 67,
+      "seek": 16974,
+      "start": 169.74,
+      "end": 174.96,
+      "text": " Up, down, stop, spin",
+      "tokens": [
+        50365,
+        5858,
+        11,
+        760,
+        11,
+        1590,
+        11,
+        6060,
+        50626
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 68,
+      "seek": 16974,
+      "start": 174.96,
+      "end": 176.04000000000002,
+      "text": " Spin and stop",
+      "tokens": [
+        50626,
+        29185,
+        293,
+        1590,
+        50680
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 69,
+      "seek": 16974,
+      "start": 176.04000000000002,
+      "end": 181.32000000000002,
+      "text": " Spin, stop, forward, backward, wiggle waggle and robot walk",
+      "tokens": [
+        50680,
+        29185,
+        11,
+        1590,
+        11,
+        2128,
+        11,
+        23897,
+        11,
+        33377,
+        36854,
+        22631,
+        293,
+        7881,
+        1792,
+        50944
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 70,
+      "seek": 16974,
+      "start": 181.32000000000002,
+      "end": 183.68,
+      "text": " Nice",
+      "tokens": [
+        50944,
+        5490,
+        51062
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 71,
+      "seek": 16974,
+      "start": 183.68,
+      "end": 186.72,
+      "text": " Forward",
+      "tokens": [
+        51062,
+        35524,
+        51214
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 72,
+      "seek": 16974,
+      "start": 186.72,
+      "end": 187.84,
+      "text": " Forward",
+      "tokens": [
+        51214,
+        35524,
+        51270
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 73,
+      "seek": 16974,
+      "start": 187.84,
+      "end": 189.14000000000001,
+      "text": " Backward",
+      "tokens": [
+        51270,
+        5833,
+        1007,
+        51335
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 74,
+      "seek": 16974,
+      "start": 189.14000000000001,
+      "end": 192.42000000000002,
+      "text": " Wiggle waggle",
+      "tokens": [
+        51335,
+        343,
+        19694,
+        36854,
+        22631,
+        51499
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 75,
+      "seek": 16974,
+      "start": 192.42000000000002,
+      "end": 194.12,
+      "text": " Wiggle waggle",
+      "tokens": [
+        51499,
+        343,
+        19694,
+        36854,
+        22631,
+        51584
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.322370964184142,
+      "compression_ratio": 1.6170212765957446,
+      "no_speech_prob": 1.3875080771830195e-11
+    },
+    {
+      "id": 76,
+      "seek": 19412,
+      "start": 194.12,
+      "end": 201.14000000000001,
+      "text": " 刚才这段你的表现很好",
+      "tokens": [
+        50365,
+        220,
+        49160,
+        18888,
+        5562,
+        28427,
+        18961,
+        17571,
+        20204,
+        23801,
+        50716
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 77,
+      "seek": 19412,
+      "start": 201.14000000000001,
+      "end": 202.08,
+      "text": " 你一直在控制",
+      "tokens": [
+        50716,
+        10930,
+        34448,
+        3581,
+        48707,
+        25491,
+        50763
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 78,
+      "seek": 19412,
+      "start": 202.08,
+      "end": 203.20000000000002,
+      "text": " 但是最后还是蹦",
+      "tokens": [
+        50763,
+        220,
+        11189,
+        8661,
+        13547,
+        45726,
+        39540,
+        99,
+        50819
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 79,
+      "seek": 19412,
+      "start": 203.20000000000002,
+      "end": 206.56,
+      "text": " 回去回去回去",
+      "tokens": [
+        50819,
+        220,
+        49925,
+        49925,
+        49925,
+        50987
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 80,
+      "seek": 19412,
+      "start": 206.56,
+      "end": 217.04000000000002,
+      "text": " Backward",
+      "tokens": [
+        50987,
+        5833,
+        1007,
+        51511
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 81,
+      "seek": 19412,
+      "start": 217.04000000000002,
+      "end": 217.88,
+      "text": " No no",
+      "tokens": [
+        51511,
+        883,
+        572,
+        51553
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 82,
+      "seek": 19412,
+      "start": 217.88,
+      "end": 218.8,
+      "text": " Forward",
+      "tokens": [
+        51553,
+        35524,
+        51599
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 83,
+      "seek": 19412,
+      "start": 218.8,
+      "end": 219.88,
+      "text": " Forward",
+      "tokens": [
+        51599,
+        35524,
+        51653
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 84,
+      "seek": 19412,
+      "start": 219.88,
+      "end": 220.88,
+      "text": " Backward",
+      "tokens": [
+        51653,
+        5833,
+        1007,
+        51703
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 85,
+      "seek": 19412,
+      "start": 220.88,
+      "end": 221.96,
+      "text": " Backward",
+      "tokens": [
+        51703,
+        5833,
+        1007,
+        51757
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 86,
+      "seek": 19412,
+      "start": 221.96,
+      "end": 222.98000000000002,
+      "text": " Wiggle waggle",
+      "tokens": [
+        51757,
+        343,
+        19694,
+        36854,
+        22631,
+        51808
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.41409371391175287,
+      "compression_ratio": 1.204724409448819,
+      "no_speech_prob": 1.502091506733194e-11
+    },
+    {
+      "id": 87,
+      "seek": 22298,
+      "start": 222.98,
+      "end": 224.98,
+      "text": " Wiggle waggle.",
+      "tokens": [
+        50365,
+        343,
+        19694,
+        36854,
+        22631,
+        13,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    },
+    {
+      "id": 88,
+      "seek": 22298,
+      "start": 226.98,
+      "end": 227.98,
+      "text": " Robot walk.",
+      "tokens": [
+        50565,
+        29601,
+        1792,
+        13,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    },
+    {
+      "id": 89,
+      "seek": 22298,
+      "start": 227.98,
+      "end": 229.98,
+      "text": " Robot walk?",
+      "tokens": [
+        50615,
+        29601,
+        1792,
+        30,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    },
+    {
+      "id": 90,
+      "seek": 22298,
+      "start": 229.98,
+      "end": 231.98,
+      "text": " Enough!",
+      "tokens": [
+        50715,
+        19401,
+        0,
+        50815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    },
+    {
+      "id": 91,
+      "seek": 22298,
+      "start": 233.98,
+      "end": 238.98,
+      "text": " I've tried and tried and tried and tried and tried.",
+      "tokens": [
+        50915,
+        286,
+        600,
+        3031,
+        293,
+        3031,
+        293,
+        3031,
+        293,
+        3031,
+        293,
+        3031,
+        13,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    },
+    {
+      "id": 92,
+      "seek": 22298,
+      "start": 238.98,
+      "end": 241.98,
+      "text": " But I am an elephant.",
+      "tokens": [
+        51165,
+        583,
+        286,
+        669,
+        364,
+        19791,
+        13,
+        51315
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    },
+    {
+      "id": 93,
+      "seek": 22298,
+      "start": 241.98,
+      "end": 245.98,
+      "text": " And elephants just cannot dance.",
+      "tokens": [
+        51315,
+        400,
+        33015,
+        445,
+        2644,
+        4489,
+        13,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4160644457890437,
+      "compression_ratio": 1.4854368932038835,
+      "no_speech_prob": 1.4094893655003382e-11
+    }
+  ],
+  "language": "en",
+  "lessonId": "v_6776a946e4b0694c3c855096",
+  "lessonTitle": "24_Elephant_Cannot_Dance",
+  "sourceAudio": "media/audio/24_Elephant_Cannot_Dance.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

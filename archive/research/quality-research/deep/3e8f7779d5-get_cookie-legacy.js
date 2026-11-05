@@ -1,0 +1,1 @@
+System.register([],function(e,t){"use strict";return{execute:function(){function t(){}e("d",t),t.hasItem=function(e){return new RegExp("(?:^|;\\s*)"+encodeURIComponent(e).replace(/[-.+*]/g,"\\$&")+"\\s*\\=").test(document.cookie)}}}});

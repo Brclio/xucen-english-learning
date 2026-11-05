@@ -1,0 +1,21 @@
+{
+  "mediaFiles": 133,
+  "videoCount": 41,
+  "audioCount": 41,
+  "bookCovers": 44,
+  "allMediaBytesUnchanged": true,
+  "errors": [],
+  "existingPageFilesUnchanged": {
+    "index.html": true,
+    "app.js": true,
+    "styles.css": true,
+    "books.html": true,
+    "books.js": true,
+    "books.css": true,
+    "books-data.js": true,
+    "books-data.json": true,
+    "course-data.js": true,
+    "course-data.json": true
+  },
+  "passed": true
+}

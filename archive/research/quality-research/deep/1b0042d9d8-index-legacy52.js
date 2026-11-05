@@ -1,0 +1,1 @@
+System.register([],function(e,t){"use strict";return{execute:function(){var e=document.createElement("style");e.textContent=".van-list__error-text,.van-list__finished-text,.van-list__loading{color:#969799;font-size:14px;line-height:50px;text-align:center}.van-list__placeholder{height:0;pointer-events:none}\n",document.head.appendChild(e)}}});

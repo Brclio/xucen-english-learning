@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "format": "raw-byte-concatenation",
+  "partSize": 99614720,
+  "files": [
+    {
+      "originalPath": "media/videos/08_读.mp4",
+      "bytes": 223574029,
+      "sha256": "821ee4246a41eb1c4081092407c1f41f3ff0ee064bddc1447bb68e80afe212a4",
+      "parts": [
+        {
+          "path": "media/video-parts/08_读.mp4.part001",
+          "bytes": 99614720,
+          "sha256": "69a354637951b2e7de441663654a23d78a9b47ae1489143f49ba9b07ef4c1077"
+        },
+        {
+          "path": "media/video-parts/08_读.mp4.part002",
+          "bytes": 99614720,
+          "sha256": "ee4bbaa0cfd28a0dbe7051b3f09444b663f6ebc2d7b7ab564caa9894250603c4"
+        },
+        {
+          "path": "media/video-parts/08_读.mp4.part003",
+          "bytes": 24344589,
+          "sha256": "32f0594a0aed79baeef4633f5a557cfb40a09622fdcd426ff94e78ffbfc83717"
+        }
+      ]
+    },
+    {
+      "originalPath": "media/videos/11_许闻的书房.mp4",
+      "bytes": 153544067,
+      "sha256": "98655f062c567fd48f94ecebd205f4bcfbaf86e5ec3ba458f32c31162563ac7d",
+      "parts": [
+        {
+          "path": "media/video-parts/11_许闻的书房.mp4.part001",
+          "bytes": 99614720,
+          "sha256": "aac202124a6f72214188c131564f8df83921ecaf63d13f33dd17355b0e64b525"
+        },
+        {
+          "path": "media/video-parts/11_许闻的书房.mp4.part002",
+          "bytes": 53929347,
+          "sha256": "f022590208d9e250b19d0fbcccb90d073b297ebd9b73ccb4f66e093d6bd272bb"
+        }
+      ]
+    },
+    {
+      "originalPath": "media/videos/12_许瞧的闺房.mp4",
+      "bytes": 143041359,
+      "sha256": "d4c73c2c914fb8f566e088e11d6968ef5f28f5733e3fd0d74a3df35aaeb50543",
+      "parts": [
+        {
+          "path": "media/video-parts/12_许瞧的闺房.mp4.part001",
+          "bytes": 99614720,
+          "sha256": "8202931e0415f744e71de62efd8e2b16b208a51021570f341f90dde5817fb158"
+        },
+        {
+          "path": "media/video-parts/12_许瞧的闺房.mp4.part002",
+          "bytes": 43426639,
+          "sha256": "02275cdf07345f3da7d446f97203fa8f96893c568aad12e3c66bf85cbf5acb5f"
+        }
+      ]
+    },
+    {
+      "originalPath": "media/videos/14_大童的英语追赶.mp4",
+      "bytes": 108224427,
+      "sha256": "cbf40d3f10d34aea35c30648e0f86e1c97528b161f1b3d844ab1145fea3dc750",
+      "parts": [
+        {
+          "path": "media/video-parts/14_大童的英语追赶.mp4.part001",
+          "bytes": 99614720,
+          "sha256": "21db672a46466451ce34edea5beb5375fa1b6bd55a15b09bad4332d50e7e7859"
+        },
+        {
+          "path": "media/video-parts/14_大童的英语追赶.mp4.part002",
+          "bytes": 8609707,
+          "sha256": "ef1be026eac686926cc5c76fdb5205604b29b7ed2f7f67a51691a0bf3913f4f7"
+        }
+      ]
+    }
+  ]
+}

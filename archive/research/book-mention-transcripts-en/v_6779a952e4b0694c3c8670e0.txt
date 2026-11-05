@@ -1,0 +1,38 @@
+[0.0–3.4]  I am going by Mo Willems.
+[6.4–8.0]  I am going.
+[8.6–10.5]  This is a good day.
+[11.0–12.7]  Just like yesterday.
+[13.4–16.0]  Yes, yesterday was a good day too.
+[17.0–18.5]  Well, I'm going.
+[19.0–22.0]  You're going? You're going away?
+[22.4–22.9]  Yeah.
+[22.9–28.2]  You cannot go. You must not go. I will not let you go.
+[28.2–30.3]  I'm going
+[30.3–32.1]  Piggy!
+[33.1–34.9]  What about me?
+[35.4–36.6]  Who will I skip with?
+[37.2–39.1]  Who will I play ping pong with?
+[39.5–41.6]  Who will I wear a silly hat with?
+[42.3–46.4]  Who will I skip and play ping pong in a silly hat with?
+[46.8–48.8]  I'm sorry, Gerald
+[48.8–52.4]  But I'm going
+[52.4–53.7]  Fine
+[53.7–56.4]  Then I will go too
+[56.4–57.9]  Watch me go
+[57.9–60.9]  I am going, look at me go.
+[61.7–63.2]  Have fun.
+[64.0–65.4]  Wait, go later.
+[65.9–66.7]  Go tomorrow.
+[67.3–67.9]  Go next week.
+[68.4–69.3]  Go next month.
+[69.8–71.4]  Go next year.
+[72.3–74.5]  I am going now.
+[75.1–75.6]  Now.
+[76.5–78.0]  Why, Piggy?
+[78.0–108.0]  Why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why, why
+[108.0–110.6]  Is it a big lunch?
+[112.6–114.8]  This is a good day.
+[114.8–117.3]  Just like yesterday.
+[117.3–118.7]  I am going.
+[118.7–121.2]  A Piggy and Elephant Story.
+[121.2–123.8]  I mean an elephant and piggy story.

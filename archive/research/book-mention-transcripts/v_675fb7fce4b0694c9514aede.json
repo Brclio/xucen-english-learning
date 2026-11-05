@@ -1,0 +1,1138 @@
+{
+  "text": " Today I will fly. But Mo Willems. Today I will fly. Who will fly the piggy? Today I will fly! No, you will not fly today. You will not fly tomorrow. You will not fly next week. You will never fly. I will try. Goodbye. You will not fly.我希望你能不能飛你需要帮助謝謝,我需要帮助我會給帮助我做了,我飛了謝謝你幫助你不跳我不跳你跳我跳我跳了一跳是一大跳是一大跳你不想跳我会再次我会吃晚餐你需要帮忙我需要帮忙你需要帮忙我会帮忙谢谢HelloHelloHelloYou are flyingYou are flying todayMy friend can flyShe can flyI am not flyingYou are not flyingI am getting helpThank you for your helpTomorrow I will flyGood luckToday I will fly誰會幫助?雖然是雖然的雖然是雖然的雖然和狗狗狗What did the dog do to help?He chased herwhich made her jump super highand barkedBum bum bum bumYes",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.82,
+      "text": " Today I will fly.",
+      "tokens": [
+        50365,
+        2692,
+        286,
+        486,
+        3603,
+        13,
+        50506
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.82,
+      "end": 4.5,
+      "text": " But Mo Willems.",
+      "tokens": [
+        50506,
+        583,
+        3335,
+        3099,
+        9097,
+        13,
+        50590
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.5,
+      "end": 6.22,
+      "text": " Today I will fly.",
+      "tokens": [
+        50590,
+        2692,
+        286,
+        486,
+        3603,
+        13,
+        50676
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.22,
+      "end": 7.94,
+      "text": " Who will fly the piggy?",
+      "tokens": [
+        50676,
+        2102,
+        486,
+        3603,
+        264,
+        39349,
+        30,
+        50762
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.94,
+      "end": 11.78,
+      "text": " Today I will fly!",
+      "tokens": [
+        50812,
+        2692,
+        286,
+        486,
+        3603,
+        0,
+        50954
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.78,
+      "end": 14.72,
+      "text": " No, you will not fly today.",
+      "tokens": [
+        50954,
+        883,
+        11,
+        291,
+        486,
+        406,
+        3603,
+        965,
+        13,
+        51101
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 14.72,
+      "end": 17.32,
+      "text": " You will not fly tomorrow.",
+      "tokens": [
+        51101,
+        509,
+        486,
+        406,
+        3603,
+        4153,
+        13,
+        51231
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 17.32,
+      "end": 20.0,
+      "text": " You will not fly next week.",
+      "tokens": [
+        51231,
+        509,
+        486,
+        406,
+        3603,
+        958,
+        1243,
+        13,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 20.0,
+      "end": 23.88,
+      "text": " You will never fly.",
+      "tokens": [
+        51365,
+        509,
+        486,
+        1128,
+        3603,
+        13,
+        51559
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 23.88,
+      "end": 25.2,
+      "text": " I will try.",
+      "tokens": [
+        51559,
+        286,
+        486,
+        853,
+        13,
+        51625
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 25.2,
+      "end": 26.240000000000002,
+      "text": " Goodbye.",
+      "tokens": [
+        51625,
+        15528,
+        13,
+        51677
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 26.240000000000002,
+      "end": 28.88,
+      "text": " You will not fly.",
+      "tokens": [
+        51677,
+        509,
+        486,
+        406,
+        3603,
+        13,
+        51809
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4901275634765625,
+      "compression_ratio": 1.88,
+      "no_speech_prob": 3.178391994040908e-10
+    },
+    {
+      "id": 12,
+      "seek": 2888,
+      "start": 28.88,
+      "end": 30.419999999999998,
+      "text": "我希望你能不能飛",
+      "tokens": [
+        50365,
+        1654,
+        29955,
+        2166,
+        8225,
+        28590,
+        34629,
+        50442
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11674702962239583,
+      "compression_ratio": 17.605263157894736,
+      "no_speech_prob": 2.6532749521773757e-12
+    },
+    {
+      "id": 13,
+      "seek": 3042,
+      "start": 30.42,
+      "end": 36.06,
+      "text": "你需要帮助",
+      "tokens": [
+        50365,
+        2166,
+        35748,
+        4845,
+        106,
+        37618,
+        50647
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0416887795052878,
+      "compression_ratio": 1.2463768115942029,
+      "no_speech_prob": 1.206014997069682e-12
+    },
+    {
+      "id": 14,
+      "seek": 3042,
+      "start": 36.06,
+      "end": 38.78,
+      "text": "謝謝,我需要帮助",
+      "tokens": [
+        50647,
+        11003,
+        11,
+        1654,
+        35748,
+        4845,
+        106,
+        37618,
+        50783
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0416887795052878,
+      "compression_ratio": 1.2463768115942029,
+      "no_speech_prob": 1.206014997069682e-12
+    },
+    {
+      "id": 15,
+      "seek": 3042,
+      "start": 38.78,
+      "end": 40.620000000000005,
+      "text": "我會給帮助",
+      "tokens": [
+        50783,
+        1654,
+        6236,
+        17798,
+        4845,
+        106,
+        37618,
+        50875
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0416887795052878,
+      "compression_ratio": 1.2463768115942029,
+      "no_speech_prob": 1.206014997069682e-12
+    },
+    {
+      "id": 16,
+      "seek": 3042,
+      "start": 50.620000000000005,
+      "end": 53.02,
+      "text": "我做了,我飛了",
+      "tokens": [
+        51375,
+        1654,
+        10907,
+        2289,
+        11,
+        1654,
+        34629,
+        2289,
+        51495
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0416887795052878,
+      "compression_ratio": 1.2463768115942029,
+      "no_speech_prob": 1.206014997069682e-12
+    },
+    {
+      "id": 17,
+      "seek": 3042,
+      "start": 53.02,
+      "end": 54.78,
+      "text": "謝謝你幫助",
+      "tokens": [
+        51495,
+        11003,
+        2166,
+        32187,
+        37618,
+        51583
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.0416887795052878,
+      "compression_ratio": 1.2463768115942029,
+      "no_speech_prob": 1.206014997069682e-12
+    },
+    {
+      "id": 18,
+      "seek": 5478,
+      "start": 54.78,
+      "end": 61.78,
+      "text": "你不跳",
+      "tokens": [
+        50365,
+        2166,
+        1960,
+        29366,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17291485256618924,
+      "compression_ratio": 13.4375,
+      "no_speech_prob": 8.626536984746025e-12
+    },
+    {
+      "id": 19,
+      "seek": 5478,
+      "start": 61.78,
+      "end": 63.78,
+      "text": "我不跳",
+      "tokens": [
+        50715,
+        1654,
+        1960,
+        29366,
+        50815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17291485256618924,
+      "compression_ratio": 13.4375,
+      "no_speech_prob": 8.626536984746025e-12
+    },
+    {
+      "id": 20,
+      "seek": 5478,
+      "start": 63.78,
+      "end": 64.78,
+      "text": "你跳",
+      "tokens": [
+        50815,
+        2166,
+        29366,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17291485256618924,
+      "compression_ratio": 13.4375,
+      "no_speech_prob": 8.626536984746025e-12
+    },
+    {
+      "id": 21,
+      "seek": 5478,
+      "start": 64.78,
+      "end": 66.78,
+      "text": "我跳",
+      "tokens": [
+        50865,
+        1654,
+        29366,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17291485256618924,
+      "compression_ratio": 13.4375,
+      "no_speech_prob": 8.626536984746025e-12
+    },
+    {
+      "id": 22,
+      "seek": 6678,
+      "start": 66.78,
+      "end": 68.78,
+      "text": "我跳了一跳",
+      "tokens": [
+        50365,
+        1654,
+        29366,
+        2289,
+        2257,
+        29366,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 23,
+      "seek": 6678,
+      "start": 68.78,
+      "end": 70.78,
+      "text": "是一大跳",
+      "tokens": [
+        50465,
+        1541,
+        2257,
+        3582,
+        29366,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 24,
+      "seek": 6678,
+      "start": 70.78,
+      "end": 72.78,
+      "text": "是一大跳",
+      "tokens": [
+        50565,
+        1541,
+        2257,
+        3582,
+        29366,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 25,
+      "seek": 6678,
+      "start": 72.78,
+      "end": 74.78,
+      "text": "你不想跳",
+      "tokens": [
+        50665,
+        2166,
+        1960,
+        7093,
+        29366,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 26,
+      "seek": 6678,
+      "start": 74.78,
+      "end": 76.78,
+      "text": "我会再次",
+      "tokens": [
+        50765,
+        1654,
+        12949,
+        8623,
+        9487,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 27,
+      "seek": 6678,
+      "start": 76.78,
+      "end": 78.78,
+      "text": "我会吃晚餐",
+      "tokens": [
+        50865,
+        1654,
+        12949,
+        10123,
+        27080,
+        22217,
+        238,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 28,
+      "seek": 6678,
+      "start": 78.78,
+      "end": 82.78,
+      "text": "你需要帮忙",
+      "tokens": [
+        50965,
+        2166,
+        35748,
+        4845,
+        106,
+        48839,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 29,
+      "seek": 6678,
+      "start": 82.78,
+      "end": 84.78,
+      "text": "我需要帮忙",
+      "tokens": [
+        51165,
+        1654,
+        35748,
+        4845,
+        106,
+        48839,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 30,
+      "seek": 6678,
+      "start": 84.78,
+      "end": 86.78,
+      "text": "你需要帮忙",
+      "tokens": [
+        51265,
+        2166,
+        35748,
+        4845,
+        106,
+        48839,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 31,
+      "seek": 6678,
+      "start": 86.78,
+      "end": 88.78,
+      "text": "我会帮忙",
+      "tokens": [
+        51365,
+        1654,
+        12949,
+        4845,
+        106,
+        48839,
+        51465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 32,
+      "seek": 6678,
+      "start": 88.78,
+      "end": 90.78,
+      "text": "谢谢",
+      "tokens": [
+        51465,
+        19879,
+        51565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7967255910237631,
+      "compression_ratio": 1.4536082474226804,
+      "no_speech_prob": 3.0321600265337256e-12
+    },
+    {
+      "id": 33,
+      "seek": 9078,
+      "start": 90.78,
+      "end": 91.78,
+      "text": "Hello",
+      "tokens": [
+        50365,
+        15947,
+        50415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 34,
+      "seek": 9078,
+      "start": 91.78,
+      "end": 92.78,
+      "text": "Hello",
+      "tokens": [
+        50415,
+        15947,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 35,
+      "seek": 9078,
+      "start": 92.78,
+      "end": 93.78,
+      "text": "Hello",
+      "tokens": [
+        50465,
+        15947,
+        50515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 36,
+      "seek": 9078,
+      "start": 93.78,
+      "end": 96.78,
+      "text": "You are flying",
+      "tokens": [
+        50515,
+        3223,
+        366,
+        7137,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 37,
+      "seek": 9078,
+      "start": 96.78,
+      "end": 98.78,
+      "text": "You are flying today",
+      "tokens": [
+        50665,
+        3223,
+        366,
+        7137,
+        965,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 38,
+      "seek": 9078,
+      "start": 98.78,
+      "end": 100.78,
+      "text": "My friend can fly",
+      "tokens": [
+        50765,
+        8506,
+        1277,
+        393,
+        3603,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 39,
+      "seek": 9078,
+      "start": 100.78,
+      "end": 102.78,
+      "text": "She can fly",
+      "tokens": [
+        50865,
+        9526,
+        393,
+        3603,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 40,
+      "seek": 9078,
+      "start": 102.78,
+      "end": 104.78,
+      "text": "I am not flying",
+      "tokens": [
+        50965,
+        40,
+        669,
+        406,
+        7137,
+        51065
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 41,
+      "seek": 9078,
+      "start": 104.78,
+      "end": 105.78,
+      "text": "You are not flying",
+      "tokens": [
+        51065,
+        3223,
+        366,
+        406,
+        7137,
+        51115
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 42,
+      "seek": 9078,
+      "start": 105.78,
+      "end": 107.78,
+      "text": "I am getting help",
+      "tokens": [
+        51115,
+        40,
+        669,
+        1242,
+        854,
+        51215
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 43,
+      "seek": 9078,
+      "start": 107.78,
+      "end": 109.78,
+      "text": "Thank you for your help",
+      "tokens": [
+        51215,
+        10602,
+        291,
+        337,
+        428,
+        854,
+        51315
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 44,
+      "seek": 9078,
+      "start": 110.78,
+      "end": 113.78,
+      "text": "Tomorrow I will fly",
+      "tokens": [
+        51365,
+        23442,
+        3162,
+        286,
+        486,
+        3603,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 45,
+      "seek": 9078,
+      "start": 113.78,
+      "end": 115.78,
+      "text": "Good luck",
+      "tokens": [
+        51515,
+        14649,
+        3668,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 46,
+      "seek": 9078,
+      "start": 117.78,
+      "end": 119.78,
+      "text": "Today I will fly",
+      "tokens": [
+        51715,
+        27676,
+        286,
+        486,
+        3603,
+        51815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2112368392944336,
+      "compression_ratio": 1.6302521008403361,
+      "no_speech_prob": 2.717725176848429e-11
+    },
+    {
+      "id": 47,
+      "seek": 11978,
+      "start": 119.78,
+      "end": 123.18,
+      "text": "誰會幫助?",
+      "tokens": [
+        50365,
+        20757,
+        6236,
+        32187,
+        37618,
+        30,
+        50535
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1964570787217882,
+      "compression_ratio": 9.608695652173912,
+      "no_speech_prob": 6.1692356952136596e-12
+    },
+    {
+      "id": 48,
+      "seek": 11978,
+      "start": 123.18,
+      "end": 124.38,
+      "text": "雖然是雖然的",
+      "tokens": [
+        50535,
+        6306,
+        244,
+        5823,
+        1541,
+        6306,
+        244,
+        5823,
+        1546,
+        50595
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1964570787217882,
+      "compression_ratio": 9.608695652173912,
+      "no_speech_prob": 6.1692356952136596e-12
+    },
+    {
+      "id": 49,
+      "seek": 11978,
+      "start": 124.38,
+      "end": 126.18,
+      "text": "雖然是雖然的雖然",
+      "tokens": [
+        50595,
+        6306,
+        244,
+        5823,
+        1541,
+        6306,
+        244,
+        5823,
+        1546,
+        6306,
+        244,
+        5823,
+        50685
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1964570787217882,
+      "compression_ratio": 9.608695652173912,
+      "no_speech_prob": 6.1692356952136596e-12
+    },
+    {
+      "id": 50,
+      "seek": 12618,
+      "start": 126.18,
+      "end": 128.3,
+      "text": "和狗",
+      "tokens": [
+        50365,
+        12565,
+        18637,
+        245,
+        50471
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.09268797980414496,
+      "compression_ratio": 18.333333333333332,
+      "no_speech_prob": 1.2428798441821431e-11
+    },
+    {
+      "id": 51,
+      "seek": 12618,
+      "start": 128.3,
+      "end": 129.58,
+      "text": "狗狗",
+      "tokens": [
+        50471,
+        18637,
+        245,
+        18637,
+        245,
+        50535
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.09268797980414496,
+      "compression_ratio": 18.333333333333332,
+      "no_speech_prob": 1.2428798441821431e-11
+    },
+    {
+      "id": 52,
+      "seek": 12958,
+      "start": 129.58,
+      "end": 131.58,
+      "text": "What did the dog do to help?",
+      "tokens": [
+        50365,
+        3748,
+        630,
+        264,
+        3000,
+        360,
+        281,
+        854,
+        30,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6469845894055489,
+      "compression_ratio": 1.1511627906976745,
+      "no_speech_prob": 5.479116726297972e-12
+    },
+    {
+      "id": 53,
+      "seek": 12958,
+      "start": 133.18,
+      "end": 134.58,
+      "text": "He chased her",
+      "tokens": [
+        50545,
+        5205,
+        33091,
+        720,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6469845894055489,
+      "compression_ratio": 1.1511627906976745,
+      "no_speech_prob": 5.479116726297972e-12
+    },
+    {
+      "id": 54,
+      "seek": 12958,
+      "start": 135.28,
+      "end": 137.28,
+      "text": "which made her jump super high",
+      "tokens": [
+        50650,
+        13690,
+        1027,
+        720,
+        3012,
+        1687,
+        1090,
+        50750
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6469845894055489,
+      "compression_ratio": 1.1511627906976745,
+      "no_speech_prob": 5.479116726297972e-12
+    },
+    {
+      "id": 55,
+      "seek": 12958,
+      "start": 137.28,
+      "end": 138.28,
+      "text": "and barked",
+      "tokens": [
+        50750,
+        474,
+        16202,
+        292,
+        50800
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6469845894055489,
+      "compression_ratio": 1.1511627906976745,
+      "no_speech_prob": 5.479116726297972e-12
+    },
+    {
+      "id": 56,
+      "seek": 12958,
+      "start": 138.78,
+      "end": 139.98000000000002,
+      "text": "Bum bum bum bum",
+      "tokens": [
+        50825,
+        33,
+        449,
+        13309,
+        13309,
+        13309,
+        50885
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6469845894055489,
+      "compression_ratio": 1.1511627906976745,
+      "no_speech_prob": 5.479116726297972e-12
+    },
+    {
+      "id": 57,
+      "seek": 12958,
+      "start": 139.98000000000002,
+      "end": 140.48000000000002,
+      "text": "Yes",
+      "tokens": [
+        50885,
+        6054,
+        50910
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6469845894055489,
+      "compression_ratio": 1.1511627906976745,
+      "no_speech_prob": 5.479116726297972e-12
+    }
+  ],
+  "language": "zh",
+  "lessonId": "v_675fb7fce4b0694c9514aede",
+  "lessonTitle": "17_Today_I_Will_Fly",
+  "sourceAudio": "media/audio/17_Today_I_Will_Fly.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

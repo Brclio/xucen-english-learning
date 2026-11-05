@@ -81,6 +81,6 @@ if errors:
     raise SystemExit(1)
 
 # Update the existing delivery fingerprint after new pages and covers are built.
-files = [p for folder in ('media', 'lessons') for p in (ROOT / folder).rglob('*') if p.is_file()]
+files = [p for folder in ('media', 'lessons') for p in (ROOT / folder).rglob('*') if p.is_file() and not any(part.startswith('.') for part in p.relative_to(ROOT).parts)]
 files += [p for p in ROOT.iterdir() if p.is_file() and p.suffix in ('.html', '.css', '.js', '.json', '.md')]
 (ROOT / 'SHA256SUMS.txt').write_text('\n'.join(f'{digest(p)}  {p.relative_to(ROOT)}' for p in sorted(files)) + '\n')

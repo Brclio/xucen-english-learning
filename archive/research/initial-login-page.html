@@ -1,0 +1,290 @@
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" style="height: 100%;">
+    <head>
+        
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+    <!--标题-->
+    <title></title>
+    <!--小图标-->
+    <link rel="icon" href="https://commonresource-1252524126.cdn.xiaoeknow.com/image/lqlzgnlm0q73.jpg" type="image/x-ico" />
+
+    <!--基础的meta信息-->
+    <meta charset="UTF-8" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover"
+    />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- ▼ global component head css -->
+    
+        <link  href="https://static-resource-cos-1252524126.cdn.xiaoeknow.com/xiaoe-cnpm/pro/basic-iconfont/1.0.0/h5-ali-iconfont-v1.0.css" rel="stylesheet">
+    
+    <!-- ▲ global component head css -->
+
+    
+
+    
+
+    
+
+    
+    <!-- 前端监控 -->
+    
+    
+
+    <!-- 静态资源重试 -->
+    
+
+    <!-- ▼ common data -->
+    
+    <!-- ▲ common data -->
+
+    <!-- ▼ blank screen retry -->
+    
+    <!-- ▲ blank screen retry -->
+    
+    <!-- ▼ global component head js -->
+    
+        
+    
+        
+    
+        
+    
+    <!-- ▲ global component head js -->
+
+    <!-- 主题色配置 -->
+    <link rel="preload" href="https://static-resource-cos-1252524126.cdn.xiaoeknow.com/xiaoe-cnpm/pro/h5-fe-theme/1.0.2/theme_css/pc-store_theme_blue/index.css?app_id=appUzEnkPEJ8854" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <link rel="preload" href="https://static-resource-cos-1252524126.cdn.xiaoeknow.com/xiaoe-cnpm/pro/h5-fe-theme/1.0.2/theme_css/channel-theme-red.css?app_id=appUzEnkPEJ8854" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+
+
+    <!-- start-css主入口文件 -->
+    
+        <link href="https://assets.cdn.xiaoeknow.com/basic-platform/h5_basic_common_fe/1.5.39/css/index-0cd8eaf9.css" rel="stylesheet" />
+    
+        <link href="https://assets.cdn.xiaoeknow.com/basic-platform/h5_basic_common_fe/1.5.39/css/resets-0b93f2c6.css" rel="stylesheet" />
+    
+    <!-- end-css主入口文件 -->
+
+    <!-- 其他资源 -->
+    
+    <!-- end-其他资源 -->
+
+    
+
+    </head>
+    <body>
+        
+    
+
+    <!--微信内页面前后台切换判断，产生事件-->
+    
+
+    <!--根据配置确定是否需要适配PC-->
+    
+    <!-- 其他提前执行脚本 -->
+    
+    <!-- end-其他提前执行脚本 -->
+
+<!-- 微信初始化数据 -->
+<input id="initWechatData" type="hidden" style="display: none" value="">
+<!--业务数据-->
+<input id="initData" type="hidden" style="display: none" value="" />
+
+<!--版本数据-->
+<input id="version_date" type="hidden" style="display: none" value="0" />
+
+<!--店铺版本-->
+<input id="version_type" type="hidden" style="display: none" value="4" />
+
+<!--全局回到首页悬浮按钮控制-->
+<style>
+    #app-layout {
+        position: relative;
+        margin: 0 auto;
+        max-width: 480px;
+        min-height: 100vh;
+        background: #f5f5f5;
+    }
+    .last-page {
+        display: none;
+        position: fixed;
+        top: 20px;
+        left: calc(50% - 240px - 174px);
+        width: 154px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 16px;
+        color: #333;
+        text-align: center;
+        border-radius: 24px;
+        background: #fff;
+        cursor: pointer;
+    }
+    .navigation_home_menu {
+        margin: 0;
+        font-size: 0.24rem; /*防止vue加载css时字体过大*/
+    }
+    .navigation_menu {
+        display: none;
+        position: fixed;
+        bottom: 1.89rem;
+        right: 0;
+        height: 0.6rem;
+        width: 1.58rem;
+        background-color: #353535;
+        opacity: 0.3;
+        z-index: 1000;
+        border-radius: 0.5rem 0 0 0.5rem;
+        overflow: hidden;
+    }
+
+    @media (min-width: 480px) {
+        .navigation_menu {
+            right: calc(50% - 240px);
+        }
+    }
+
+    ::-webkit-scrollbar {
+        width: 0.08rem;
+        height: 0.08rem;
+        border-radius: 0.08rem;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        width: 0.08rem;
+        height: 0.08rem;
+        border-radius: 0.08rem;
+        background: #999;
+    }
+    .navi_control {
+        position: absolute;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        z-index: 2;
+        text-decoration: none;
+        color: #fff;
+    }
+    .navi_home {
+        width: 0.24rem;
+        height: 0.24rem;
+        position: absolute;
+        left: 0.2rem;
+        top: 50%;
+        margin-left: 0;
+        margin-top: -0.12rem;
+        background: url('/images/navi/homeButtonIcon.png') center center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    .navi_home_txt {
+        text-align: right;
+        padding-right: 0.1rem;
+        line-height: 0.6rem;
+        font-size: 0.24rem;
+    }
+</style>
+
+<div id="app-layout">
+    
+    <div class="last-page">
+        <i class="iconfont icon-previewleft last-page-arrow"></i>
+        <span>返回前一页</span>
+    </div>
+    
+    <!--真实的页面挂载点1-->
+    <div id="common_template_mounted_el_container"><div id="app"></div></div>
+</div>
+
+
+
+
+
+<!-- ▼ global component body js -->
+
+    
+
+    
+
+<!-- ▲ global component body js -->
+
+<!-- start-js主入口文件 -->
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+<!-- end-js主入口文件 -->
+
+<!--回到首页-->
+<div id="navigation_menu" class="navigation_menu navigation_home_menu t2">
+    <a href="/" id="navi_control" class="navi_control"
+       onclick="sessionStorage.setItem('current_page', 10);localStorage.setItem('current_page', 10);localStorage.setItem('needInitPage', true);">
+        <div class="navi_home"></div>
+        <div class="navi_home_txt t3">回到首页</div>
+    </a>
+</div>
+
+
+
+
+<!--百度上报接口-->
+
+
+<!-- ▼ global component body dom js -->
+
+<!-- ▲ global component body dom js -->
+
+<!-- 其他dom后执行脚本 -->
+
+<!-- end-其他dom后执行脚本 -->
+
+
+    </body>
+</html>

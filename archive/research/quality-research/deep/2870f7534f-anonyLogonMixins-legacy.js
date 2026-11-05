@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.js","./index-legacy87.js"],function(e,n){"use strict";var t,o;return{setters:[function(e){t=e.y},function(e){o=e.f}],execute:function(){var n=o();e("a",{methods:{anonyLogon:t(n)}})}}});

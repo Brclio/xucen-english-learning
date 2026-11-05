@@ -1,0 +1,48 @@
+[0.0–5.0]  I love my new toy by Mo Willems.
+[5.0–7.0]  I love my new toy.
+[7.0–11.0]  Hi Piggy, what are you doing?
+[11.0–17.0]  Look at my new toy! I love my new toy!
+[17.0–18.0]  What does it do?
+[18.0–20.0]  I have no idea.
+[20.0–25.0]  Maybe it is a throwing toy. I love throwing toys.
+[25.0–27.0]  Here, try it.
+[27.0–28.5]  Yes.
+[28.5–29.3]  Zip.
+[31.3–32.7]  Nice, bro.
+[32.7–33.7]  Thanks.
+[33.7–36.7]  Here it comes.
+[39.7–40.6]  Bragg!
+[44.9–48.3]  I broke your toy.
+[48.3–51.1]  You broke my toy.
+[51.1–54.5]  My new toy!
+[54.5–58.2]  I am mad and sad.
+[58.4–60.6]  I am mad and sad.
+[61.5–63.1]  I'm sorry.
+[63.6–65.4]  You are sorry.
+[65.6–66.8]  Very sorry.
+[67.3–68.6]  I do not care.
+[69.0–71.0]  My new toy is broken.
+[71.5–73.6]  And you broken.
+[73.6–74.8]  Whoa.
+[77.3–78.1]  Whoa.
+[81.0–81.6]  Okay.
+[81.6–85.7]  You have a Brick and Snap toy.
+[86.7–89.7]  Snap, that is a fun toy.
+[90.4–91.0]  Enjoy!
+[92.8–96.9]  Brick, Snap, Brick, Snap.
+[97.9–100.0]  Do you want to play with my new toy?
+[100.1–100.7]  No.
+[101.7–104.5]  You do not want to play with my new toy?
+[104.7–107.9]  I don't want to play with your new toy.
+[108.0–109.7]  I want to play with you.
+[109.7–113.8]  Friends are more fun than toys.
+[113.8–115.5]  You are it.
+[115.5–117.5]  No, you are.
+[120.4–121.8]  What are the two words?
+[121.8–127.0]  I love my new toy.
+[127.0–128.5]  No, the two words.
+[128.5–129.5]  The
+[129.5–131.7]  Brake and snap.
+[131.7–133.0]  Brake, snap?
+[133.0–134.0]  Yeah.
+[134.0–135.5]  Good memory.

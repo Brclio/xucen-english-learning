@@ -1,0 +1,990 @@
+{
+  "text": " I love my new toy by Mo Willems. I love my new toy. Hi Piggy, what are you doing? Look at my new toy! I love my new toy! What does it do? I have no idea. Maybe it is a throwing toy. I love throwing toys. Here, try it. Yes. Zip. Nice, bro. Thanks. Here it comes. Bragg! I broke your toy. You broke my toy. My new toy! I am mad and sad. I am mad and sad. I'm sorry. You are sorry. Very sorry. I do not care. My new toy is broken. And you broken. Whoa. Whoa. Okay. You have a Brick and Snap toy. Snap, that is a fun toy. Enjoy! Brick, Snap, Brick, Snap. Do you want to play with my new toy? No. You do not want to play with my new toy? I don't want to play with your new toy. I want to play with you. Friends are more fun than toys. You are it. No, you are. What are the two words? I love my new toy. No, the two words. The Brake and snap. Brake, snap? Yeah. Good memory.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": " I love my new toy by Mo Willems.",
+      "tokens": [
+        50365,
+        286,
+        959,
+        452,
+        777,
+        12058,
+        538,
+        3335,
+        3099,
+        9097,
+        13,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.0,
+      "text": " I love my new toy.",
+      "tokens": [
+        50615,
+        286,
+        959,
+        452,
+        777,
+        12058,
+        13,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.0,
+      "end": 11.0,
+      "text": " Hi Piggy, what are you doing?",
+      "tokens": [
+        50715,
+        2421,
+        27322,
+        1480,
+        11,
+        437,
+        366,
+        291,
+        884,
+        30,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.0,
+      "end": 17.0,
+      "text": " Look at my new toy! I love my new toy!",
+      "tokens": [
+        50915,
+        2053,
+        412,
+        452,
+        777,
+        12058,
+        0,
+        286,
+        959,
+        452,
+        777,
+        12058,
+        0,
+        51215
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.0,
+      "end": 18.0,
+      "text": " What does it do?",
+      "tokens": [
+        51215,
+        708,
+        775,
+        309,
+        360,
+        30,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.0,
+      "end": 20.0,
+      "text": " I have no idea.",
+      "tokens": [
+        51265,
+        286,
+        362,
+        572,
+        1558,
+        13,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.0,
+      "end": 25.0,
+      "text": " Maybe it is a throwing toy. I love throwing toys.",
+      "tokens": [
+        51365,
+        2704,
+        309,
+        307,
+        257,
+        10238,
+        12058,
+        13,
+        286,
+        959,
+        10238,
+        13753,
+        13,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.0,
+      "end": 27.0,
+      "text": " Here, try it.",
+      "tokens": [
+        51615,
+        1692,
+        11,
+        853,
+        309,
+        13,
+        51715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17062815224252095,
+      "compression_ratio": 1.5724637681159421,
+      "no_speech_prob": 3.804385192290871e-12
+    },
+    {
+      "id": 8,
+      "seek": 2700,
+      "start": 27.0,
+      "end": 28.5,
+      "text": " Yes.",
+      "tokens": [
+        50365,
+        1079,
+        13,
+        50440
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 9,
+      "seek": 2700,
+      "start": 28.5,
+      "end": 29.34,
+      "text": " Zip.",
+      "tokens": [
+        50440,
+        1176,
+        647,
+        13,
+        50482
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 10,
+      "seek": 2700,
+      "start": 31.34,
+      "end": 32.72,
+      "text": " Nice, bro.",
+      "tokens": [
+        50582,
+        5490,
+        11,
+        2006,
+        13,
+        50651
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 11,
+      "seek": 2700,
+      "start": 32.72,
+      "end": 33.72,
+      "text": " Thanks.",
+      "tokens": [
+        50651,
+        2561,
+        13,
+        50701
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 12,
+      "seek": 2700,
+      "start": 33.72,
+      "end": 36.72,
+      "text": " Here it comes.",
+      "tokens": [
+        50701,
+        1692,
+        309,
+        1487,
+        13,
+        50851
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 13,
+      "seek": 2700,
+      "start": 39.72,
+      "end": 40.56,
+      "text": " Bragg!",
+      "tokens": [
+        51001,
+        4991,
+        1615,
+        0,
+        51043
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 14,
+      "seek": 2700,
+      "start": 44.92,
+      "end": 48.32,
+      "text": " I broke your toy.",
+      "tokens": [
+        51261,
+        286,
+        6902,
+        428,
+        12058,
+        13,
+        51431
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 15,
+      "seek": 2700,
+      "start": 48.32,
+      "end": 51.06,
+      "text": " You broke my toy.",
+      "tokens": [
+        51431,
+        509,
+        6902,
+        452,
+        12058,
+        13,
+        51568
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 16,
+      "seek": 2700,
+      "start": 51.06,
+      "end": 54.54,
+      "text": " My new toy!",
+      "tokens": [
+        51568,
+        1222,
+        777,
+        12058,
+        0,
+        51742
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6887362553523138,
+      "compression_ratio": 1.101123595505618,
+      "no_speech_prob": 1.2063104421616844e-12
+    },
+    {
+      "id": 17,
+      "seek": 5454,
+      "start": 54.54,
+      "end": 58.18,
+      "text": " I am mad and sad.",
+      "tokens": [
+        50365,
+        286,
+        669,
+        5244,
+        293,
+        4227,
+        13,
+        50547
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 18,
+      "seek": 5454,
+      "start": 58.36,
+      "end": 60.6,
+      "text": " I am mad and sad.",
+      "tokens": [
+        50556,
+        286,
+        669,
+        5244,
+        293,
+        4227,
+        13,
+        50668
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 19,
+      "seek": 5454,
+      "start": 61.48,
+      "end": 63.1,
+      "text": " I'm sorry.",
+      "tokens": [
+        50712,
+        286,
+        478,
+        2597,
+        13,
+        50793
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 20,
+      "seek": 5454,
+      "start": 63.64,
+      "end": 65.4,
+      "text": " You are sorry.",
+      "tokens": [
+        50820,
+        509,
+        366,
+        2597,
+        13,
+        50908
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 21,
+      "seek": 5454,
+      "start": 65.58,
+      "end": 66.76,
+      "text": " Very sorry.",
+      "tokens": [
+        50917,
+        4372,
+        2597,
+        13,
+        50976
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 22,
+      "seek": 5454,
+      "start": 67.32,
+      "end": 68.64,
+      "text": " I do not care.",
+      "tokens": [
+        51004,
+        286,
+        360,
+        406,
+        1127,
+        13,
+        51070
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 23,
+      "seek": 5454,
+      "start": 69.02,
+      "end": 70.96000000000001,
+      "text": " My new toy is broken.",
+      "tokens": [
+        51089,
+        1222,
+        777,
+        12058,
+        307,
+        5463,
+        13,
+        51186
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 24,
+      "seek": 5454,
+      "start": 71.52,
+      "end": 73.58,
+      "text": " And you broken.",
+      "tokens": [
+        51214,
+        400,
+        291,
+        5463,
+        13,
+        51317
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 25,
+      "seek": 5454,
+      "start": 73.58,
+      "end": 74.8,
+      "text": " Whoa.",
+      "tokens": [
+        51317,
+        7521,
+        13,
+        51378
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 26,
+      "seek": 5454,
+      "start": 77.28,
+      "end": 78.12,
+      "text": " Whoa.",
+      "tokens": [
+        51502,
+        7521,
+        13,
+        51544
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 27,
+      "seek": 5454,
+      "start": 81.03999999999999,
+      "end": 81.6,
+      "text": " Okay.",
+      "tokens": [
+        51690,
+        1033,
+        13,
+        51718
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6407668730791878,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 4.7494994048769e-12
+    },
+    {
+      "id": 28,
+      "seek": 8160,
+      "start": 81.6,
+      "end": 85.67999999999999,
+      "text": " You have a Brick and Snap toy.",
+      "tokens": [
+        50365,
+        509,
+        362,
+        257,
+        1603,
+        618,
+        293,
+        18254,
+        12058,
+        13,
+        50569
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 29,
+      "seek": 8160,
+      "start": 86.74,
+      "end": 89.67999999999999,
+      "text": " Snap, that is a fun toy.",
+      "tokens": [
+        50622,
+        18254,
+        11,
+        300,
+        307,
+        257,
+        1019,
+        12058,
+        13,
+        50769
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 30,
+      "seek": 8160,
+      "start": 90.39999999999999,
+      "end": 91.0,
+      "text": " Enjoy!",
+      "tokens": [
+        50805,
+        15411,
+        0,
+        50835
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 31,
+      "seek": 8160,
+      "start": 92.8,
+      "end": 96.89999999999999,
+      "text": " Brick, Snap, Brick, Snap.",
+      "tokens": [
+        50925,
+        1603,
+        618,
+        11,
+        18254,
+        11,
+        1603,
+        618,
+        11,
+        18254,
+        13,
+        51130
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 32,
+      "seek": 8160,
+      "start": 97.94,
+      "end": 99.96,
+      "text": " Do you want to play with my new toy?",
+      "tokens": [
+        51182,
+        1144,
+        291,
+        528,
+        281,
+        862,
+        365,
+        452,
+        777,
+        12058,
+        30,
+        51283
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 33,
+      "seek": 8160,
+      "start": 100.13999999999999,
+      "end": 100.74,
+      "text": " No.",
+      "tokens": [
+        51292,
+        883,
+        13,
+        51322
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 34,
+      "seek": 8160,
+      "start": 101.72,
+      "end": 104.53999999999999,
+      "text": " You do not want to play with my new toy?",
+      "tokens": [
+        51371,
+        509,
+        360,
+        406,
+        528,
+        281,
+        862,
+        365,
+        452,
+        777,
+        12058,
+        30,
+        51512
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 35,
+      "seek": 8160,
+      "start": 104.72,
+      "end": 107.86,
+      "text": " I don't want to play with your new toy.",
+      "tokens": [
+        51521,
+        286,
+        500,
+        380,
+        528,
+        281,
+        862,
+        365,
+        428,
+        777,
+        12058,
+        13,
+        51678
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 36,
+      "seek": 8160,
+      "start": 108.0,
+      "end": 109.67999999999999,
+      "text": " I want to play with you.",
+      "tokens": [
+        51685,
+        286,
+        528,
+        281,
+        862,
+        365,
+        291,
+        13,
+        51769
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3159295399983724,
+      "compression_ratio": 1.8076923076923077,
+      "no_speech_prob": 2.5150347082725233e-11
+    },
+    {
+      "id": 37,
+      "seek": 10968,
+      "start": 109.68,
+      "end": 113.84,
+      "text": " Friends are more fun than toys.",
+      "tokens": [
+        50365,
+        14042,
+        366,
+        544,
+        1019,
+        813,
+        13753,
+        13,
+        50573
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1623965623643663,
+      "compression_ratio": 5.825,
+      "no_speech_prob": 1.0235520764290129e-11
+    },
+    {
+      "id": 38,
+      "seek": 10968,
+      "start": 113.84,
+      "end": 115.52000000000001,
+      "text": " You are it.",
+      "tokens": [
+        50573,
+        509,
+        366,
+        309,
+        13,
+        50657
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1623965623643663,
+      "compression_ratio": 5.825,
+      "no_speech_prob": 1.0235520764290129e-11
+    },
+    {
+      "id": 39,
+      "seek": 10968,
+      "start": 115.52000000000001,
+      "end": 117.52000000000001,
+      "text": " No, you are.",
+      "tokens": [
+        50657,
+        883,
+        11,
+        291,
+        366,
+        13,
+        50757
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1623965623643663,
+      "compression_ratio": 5.825,
+      "no_speech_prob": 1.0235520764290129e-11
+    },
+    {
+      "id": 40,
+      "seek": 10968,
+      "start": 120.4,
+      "end": 121.84,
+      "text": " What are the two words?",
+      "tokens": [
+        50901,
+        708,
+        366,
+        264,
+        732,
+        2283,
+        30,
+        50973
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1623965623643663,
+      "compression_ratio": 5.825,
+      "no_speech_prob": 1.0235520764290129e-11
+    },
+    {
+      "id": 41,
+      "seek": 12184,
+      "start": 121.84,
+      "end": 126.96000000000001,
+      "text": " I love my new toy.",
+      "tokens": [
+        50365,
+        286,
+        959,
+        452,
+        777,
+        12058,
+        13,
+        50621
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    },
+    {
+      "id": 42,
+      "seek": 12184,
+      "start": 126.96000000000001,
+      "end": 128.46,
+      "text": " No, the two words.",
+      "tokens": [
+        50621,
+        883,
+        11,
+        264,
+        732,
+        2283,
+        13,
+        50696
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    },
+    {
+      "id": 43,
+      "seek": 12184,
+      "start": 128.46,
+      "end": 129.46,
+      "text": " The",
+      "tokens": [
+        50696,
+        440,
+        50746
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    },
+    {
+      "id": 44,
+      "seek": 12184,
+      "start": 129.46,
+      "end": 131.66,
+      "text": " Brake and snap.",
+      "tokens": [
+        50746,
+        4991,
+        330,
+        293,
+        13650,
+        13,
+        50856
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    },
+    {
+      "id": 45,
+      "seek": 12184,
+      "start": 131.66,
+      "end": 132.96,
+      "text": " Brake, snap?",
+      "tokens": [
+        50856,
+        4991,
+        330,
+        11,
+        13650,
+        30,
+        50921
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    },
+    {
+      "id": 46,
+      "seek": 12184,
+      "start": 132.96,
+      "end": 133.96,
+      "text": " Yeah.",
+      "tokens": [
+        50921,
+        865,
+        13,
+        50971
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    },
+    {
+      "id": 47,
+      "seek": 12184,
+      "start": 133.96,
+      "end": 135.5,
+      "text": " Good memory.",
+      "tokens": [
+        50971,
+        2205,
+        4675,
+        13,
+        51048
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6487228925838027,
+      "compression_ratio": 1.0470588235294118,
+      "no_speech_prob": 1.3707235867188583e-11
+    }
+  ],
+  "language": "en",
+  "lessonId": "v_6768cc61e4b023c058bb970e",
+  "lessonTitle": "20_I_Love_MY_New_Toy",
+  "sourceAudio": "media/audio/20_I_Love_MY_New_Toy.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

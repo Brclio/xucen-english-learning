@@ -1,0 +1,54 @@
+[0.0–2.9]  Should I share my ice cream?
+[2.9–5.0]  Should I share my ice cream?
+[6.7–8.2]  Ice cream!
+[8.2–11.4]  Get a cold ice cream for a hot day!
+[11.4–12.8]  Oh boy!
+[12.8–14.6]  Ice cream!
+[14.6–16.3]  What ice cream, please?
+[16.3–18.0]  Here you go.
+[18.0–18.8]  Oh boy!
+[18.8–20.0]  Oh boy!
+[20.0–23.4]  I love ice cream!
+[23.4–24.6]  Wait!
+[24.6–27.5]  Piggy loves ice cream, too.
+[27.5–30.5]  Piggy is my best friend.
+[30.5–33.5]  Should I share my ice cream with her?
+[33.5–36.3]  Should I share my awesome, yummy, sweet,
+[36.3–40.2]  super great, tasty, nice, cool ice cream?
+[40.2–41.0]  Hmm.
+[43.1–44.2]  Hmm.
+[46.1–49.7]  Maybe Piggy does not like this flavor.
+[49.7–53.8]  Sharing a flavor Piggy does not like would be wrong.
+[53.8–56.9]  I will eat the ice cream.
+[56.9–59.8]  Wait, Piggy will like this flavor.
+[60.3–62.1]  It is very yummy.
+[63.0–65.3]  I will share my ice cream.
+[66.0–68.4]  It will not be easy.
+[69.3–72.0]  Hey, Piggy is not here.
+[72.0–76.1]  She does not know I have ice cream.
+[76.2–78.4]  I will eat the ice cream.
+[79.0–81.5]  Where is Piggy?
+[82.3–84.6]  What if she is sad somewhere?
+[84.6–87.4]  I must find her.
+[87.4–92.0]  When I do, I will say, would you like some of my ice cream?
+[92.7–94.1]  Then she will say.
+[94.2–95.1]  Thank you.
+[95.2–97.5]  That will cheer me up.
+[97.9–100.4]  Then I will give my ice cream to share.
+[100.9–101.5]  Yum.
+[102.2–104.7]  Then my best friend will be happy.
+[106.0–107.1]  I will do it.
+[107.4–110.6]  I will share my ice cream.
+[111.2–111.6]  No!
+[114.6–118.2]  Now Piggy cannot have any of my ice cream.
+[118.7–121.8]  Now I cannot have any of my ice cream.
+[124.3–125.7]  I blew it.
+[129.1–131.0]  You look sad.
+[131.1–133.1]  Would you like some of my ice cream?
+[133.6–134.7]  Thank you.
+[134.8–136.2]  Dad would cheer me up.
+[137.3–137.9]  Yum.
+[139.9–143.7]  Wait, that was not my plan.
+[144.6–147.8]  Oh well. This works too.
+[153.2–156.7]  Should I share my ice cream? This is my favorite.
+[156.7–158.8]  That's my favorite too!

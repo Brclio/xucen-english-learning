@@ -1,0 +1,1112 @@
+{
+  "text": " Listen to my trumpet by Mo Willems. Listen to my trumpet. Gerald! Sit, sit, sit! Do not move! I have a trumpet! Do you want to listen to my trumpet? Yes, please! Here I go! Wait, that was not right!不是很正常那是更正常更正常更正常那是更正常更正常Piggy sound like my Aunt Molly with a coatAnd now the big finish!Blaap saap blak boo blak clark clark clark clark clark clark smark!Finnished?Finnished!So what do you think of my trumpet?Uh your trumpet is uhYes?啊Go onYour trumpet is loudAndYour trumpet is shinyAndYou hold your trumpet very wellAndI'm waitingBiggie you are my friendAnd I am your friendSo I will tell you the truth你的音乐是声音乐和声音乐你保持了它但那不是音乐对不起 Carol你觉得我会想要音乐我会想要音乐我会想像你哦but piggyyour accentneeds workI will teach youyaytry more ickin yourreeeklisten to my trumpetan elephant and piggy story",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.2,
+      "text": " Listen to my trumpet by Mo Willems.",
+      "tokens": [
+        50365,
+        7501,
+        281,
+        452,
+        35160,
+        538,
+        3335,
+        3099,
+        9097,
+        13,
+        50525
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.54,
+      "end": 5.82,
+      "text": " Listen to my trumpet.",
+      "tokens": [
+        50542,
+        7501,
+        281,
+        452,
+        35160,
+        13,
+        50656
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.82,
+      "end": 9.66,
+      "text": " Gerald!",
+      "tokens": [
+        50806,
+        38332,
+        0,
+        50848
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.06,
+      "end": 12.14,
+      "text": " Sit, sit, sit!",
+      "tokens": [
+        50918,
+        14523,
+        11,
+        1394,
+        11,
+        1394,
+        0,
+        50972
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.700000000000001,
+      "end": 13.66,
+      "text": " Do not move!",
+      "tokens": [
+        51000,
+        1144,
+        406,
+        1286,
+        0,
+        51048
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.32,
+      "end": 15.9,
+      "text": " I have a trumpet!",
+      "tokens": [
+        51081,
+        286,
+        362,
+        257,
+        35160,
+        0,
+        51160
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.04,
+      "end": 18.94,
+      "text": " Do you want to listen to my trumpet?",
+      "tokens": [
+        51217,
+        1144,
+        291,
+        528,
+        281,
+        2140,
+        281,
+        452,
+        35160,
+        30,
+        51312
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.38,
+      "end": 20.36,
+      "text": " Yes, please!",
+      "tokens": [
+        51334,
+        1079,
+        11,
+        1767,
+        0,
+        51383
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 21.34,
+      "end": 22.34,
+      "text": " Here I go!",
+      "tokens": [
+        51432,
+        1692,
+        286,
+        352,
+        0,
+        51482
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 26.46,
+      "end": 29.52,
+      "text": " Wait, that was not right!",
+      "tokens": [
+        51688,
+        3802,
+        11,
+        300,
+        390,
+        406,
+        558,
+        0,
+        51841
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.46942059405438313,
+      "compression_ratio": 1.4776119402985075,
+      "no_speech_prob": 5.658285506804361e-10
+    },
+    {
+      "id": 10,
+      "seek": 2952,
+      "start": 29.52,
+      "end": 32.08,
+      "text": "不是很正常",
+      "tokens": [
+        50365,
+        7296,
+        4563,
+        15789,
+        11279,
+        50493
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2732117111618455,
+      "compression_ratio": 1.8461538461538463,
+      "no_speech_prob": 6.357585465022186e-12
+    },
+    {
+      "id": 11,
+      "seek": 2952,
+      "start": 32.08,
+      "end": 37.76,
+      "text": "那是更正常",
+      "tokens": [
+        50493,
+        4184,
+        1541,
+        19002,
+        15789,
+        11279,
+        50777
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2732117111618455,
+      "compression_ratio": 1.8461538461538463,
+      "no_speech_prob": 6.357585465022186e-12
+    },
+    {
+      "id": 12,
+      "seek": 2952,
+      "start": 37.76,
+      "end": 40.480000000000004,
+      "text": "更正常",
+      "tokens": [
+        50777,
+        19002,
+        15789,
+        11279,
+        50913
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2732117111618455,
+      "compression_ratio": 1.8461538461538463,
+      "no_speech_prob": 6.357585465022186e-12
+    },
+    {
+      "id": 13,
+      "seek": 2952,
+      "start": 40.480000000000004,
+      "end": 44.480000000000004,
+      "text": "更正常",
+      "tokens": [
+        50913,
+        19002,
+        15789,
+        11279,
+        51113
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2732117111618455,
+      "compression_ratio": 1.8461538461538463,
+      "no_speech_prob": 6.357585465022186e-12
+    },
+    {
+      "id": 14,
+      "seek": 2952,
+      "start": 44.480000000000004,
+      "end": 50.32,
+      "text": "那是更正常",
+      "tokens": [
+        51113,
+        4184,
+        1541,
+        19002,
+        15789,
+        11279,
+        51405
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2732117111618455,
+      "compression_ratio": 1.8461538461538463,
+      "no_speech_prob": 6.357585465022186e-12
+    },
+    {
+      "id": 15,
+      "seek": 2952,
+      "start": 50.32,
+      "end": 52.72,
+      "text": "更正常",
+      "tokens": [
+        51405,
+        19002,
+        15789,
+        11279,
+        51525
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2732117111618455,
+      "compression_ratio": 1.8461538461538463,
+      "no_speech_prob": 6.357585465022186e-12
+    },
+    {
+      "id": 16,
+      "seek": 5272,
+      "start": 52.72,
+      "end": 61.22,
+      "text": "Piggy sound like my Aunt Molly with a coat",
+      "tokens": [
+        50365,
+        47,
+        328,
+        1480,
+        1626,
+        411,
+        452,
+        17535,
+        26665,
+        365,
+        257,
+        10690,
+        50790
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 17,
+      "seek": 5272,
+      "start": 61.22,
+      "end": 64.22,
+      "text": "And now the big finish!",
+      "tokens": [
+        50790,
+        5289,
+        586,
+        264,
+        955,
+        2413,
+        0,
+        50940
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 18,
+      "seek": 5272,
+      "start": 64.22,
+      "end": 71.72,
+      "text": "Blaap saap blak boo blak clark clark clark clark clark clark smark!",
+      "tokens": [
+        50940,
+        33,
+        875,
+        569,
+        601,
+        569,
+        888,
+        514,
+        23113,
+        888,
+        514,
+        596,
+        809,
+        596,
+        809,
+        596,
+        809,
+        596,
+        809,
+        596,
+        809,
+        596,
+        809,
+        899,
+        809,
+        0,
+        51315
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 19,
+      "seek": 5272,
+      "start": 71.72,
+      "end": 73.22,
+      "text": "Finnished?",
+      "tokens": [
+        51315,
+        37,
+        7729,
+        4729,
+        30,
+        51390
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 20,
+      "seek": 5272,
+      "start": 73.22,
+      "end": 75.22,
+      "text": "Finnished!",
+      "tokens": [
+        51390,
+        37,
+        7729,
+        4729,
+        0,
+        51490
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 21,
+      "seek": 5272,
+      "start": 75.22,
+      "end": 78.22,
+      "text": "So what do you think of my trumpet?",
+      "tokens": [
+        51490,
+        6455,
+        437,
+        360,
+        291,
+        519,
+        295,
+        452,
+        35160,
+        30,
+        51640
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 22,
+      "seek": 5272,
+      "start": 78.22,
+      "end": 81.22,
+      "text": "Uh your trumpet is uh",
+      "tokens": [
+        51640,
+        27727,
+        428,
+        35160,
+        307,
+        2232,
+        51790
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 23,
+      "seek": 5272,
+      "start": 81.22,
+      "end": 82.22,
+      "text": "Yes?",
+      "tokens": [
+        51790,
+        6054,
+        30,
+        51840
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6117318017142159,
+      "compression_ratio": 1.4929577464788732,
+      "no_speech_prob": 2.8131806779907453e-12
+    },
+    {
+      "id": 24,
+      "seek": 8222,
+      "start": 82.22,
+      "end": 83.22,
+      "text": "啊",
+      "tokens": [
+        50365,
+        4905,
+        50415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 25,
+      "seek": 8222,
+      "start": 83.22,
+      "end": 84.22,
+      "text": "Go on",
+      "tokens": [
+        50415,
+        12104,
+        322,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 26,
+      "seek": 8222,
+      "start": 84.22,
+      "end": 87.22,
+      "text": "Your trumpet is loud",
+      "tokens": [
+        50465,
+        17927,
+        35160,
+        307,
+        6588,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 27,
+      "seek": 8222,
+      "start": 87.22,
+      "end": 89.22,
+      "text": "And",
+      "tokens": [
+        50615,
+        5289,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 28,
+      "seek": 8222,
+      "start": 89.22,
+      "end": 91.72,
+      "text": "Your trumpet is shiny",
+      "tokens": [
+        50715,
+        17927,
+        35160,
+        307,
+        16997,
+        50840
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 29,
+      "seek": 8222,
+      "start": 91.72,
+      "end": 93.22,
+      "text": "And",
+      "tokens": [
+        50840,
+        5289,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 30,
+      "seek": 8222,
+      "start": 93.22,
+      "end": 98.22,
+      "text": "You hold your trumpet very well",
+      "tokens": [
+        50915,
+        3223,
+        1797,
+        428,
+        35160,
+        588,
+        731,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 31,
+      "seek": 8222,
+      "start": 98.22,
+      "end": 100.22,
+      "text": "And",
+      "tokens": [
+        51165,
+        5289,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 32,
+      "seek": 8222,
+      "start": 100.22,
+      "end": 102.22,
+      "text": "I'm waiting",
+      "tokens": [
+        51265,
+        40,
+        478,
+        3806,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 33,
+      "seek": 8222,
+      "start": 102.22,
+      "end": 105.22,
+      "text": "Biggie you are my friend",
+      "tokens": [
+        51365,
+        32023,
+        9997,
+        291,
+        366,
+        452,
+        1277,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 34,
+      "seek": 8222,
+      "start": 105.22,
+      "end": 108.22,
+      "text": "And I am your friend",
+      "tokens": [
+        51515,
+        5289,
+        286,
+        669,
+        428,
+        1277,
+        51665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 35,
+      "seek": 8222,
+      "start": 108.22,
+      "end": 110.22,
+      "text": "So I will tell you the truth",
+      "tokens": [
+        51665,
+        6455,
+        286,
+        486,
+        980,
+        291,
+        264,
+        3494,
+        51765
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28588152643459946,
+      "compression_ratio": 1.4098360655737705,
+      "no_speech_prob": 1.1249684343794808e-11
+    },
+    {
+      "id": 36,
+      "seek": 11022,
+      "start": 110.22,
+      "end": 113.42,
+      "text": "你的音乐是声音乐和声音乐",
+      "tokens": [
+        50365,
+        18961,
+        18034,
+        44365,
+        1541,
+        32045,
+        18034,
+        44365,
+        12565,
+        32045,
+        18034,
+        44365,
+        50525
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 37,
+      "seek": 11022,
+      "start": 113.42,
+      "end": 114.98,
+      "text": "你保持了它",
+      "tokens": [
+        50525,
+        2166,
+        24302,
+        17694,
+        2289,
+        11284,
+        50603
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 38,
+      "seek": 11022,
+      "start": 114.98,
+      "end": 120.02,
+      "text": "但那不是音乐",
+      "tokens": [
+        50603,
+        8395,
+        4184,
+        7296,
+        18034,
+        44365,
+        50855
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 39,
+      "seek": 11022,
+      "start": 120.02,
+      "end": 121.3,
+      "text": "对不起",
+      "tokens": [
+        50855,
+        8713,
+        26451,
+        50919
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 40,
+      "seek": 11022,
+      "start": 121.3,
+      "end": 123.18,
+      "text": " Carol",
+      "tokens": [
+        50919,
+        7925,
+        51013
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 41,
+      "seek": 11022,
+      "start": 123.18,
+      "end": 126.53999999999999,
+      "text": "你觉得我会想要音乐",
+      "tokens": [
+        51013,
+        2166,
+        29992,
+        1654,
+        12949,
+        7093,
+        4275,
+        18034,
+        44365,
+        51181
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 42,
+      "seek": 11022,
+      "start": 126.53999999999999,
+      "end": 129.78,
+      "text": "我会想要音乐",
+      "tokens": [
+        51181,
+        1654,
+        12949,
+        7093,
+        4275,
+        18034,
+        44365,
+        51343
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 43,
+      "seek": 11022,
+      "start": 129.78,
+      "end": 132.5,
+      "text": "我会想像你",
+      "tokens": [
+        51343,
+        1654,
+        12949,
+        7093,
+        12760,
+        2166,
+        51479
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 44,
+      "seek": 11022,
+      "start": 132.5,
+      "end": 133.62,
+      "text": "哦",
+      "tokens": [
+        51479,
+        14659,
+        51535
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.075234293937683,
+      "compression_ratio": 1.3008849557522124,
+      "no_speech_prob": 8.108129619099902e-12
+    },
+    {
+      "id": 45,
+      "seek": 13362,
+      "start": 133.62,
+      "end": 136.62,
+      "text": "but piggy",
+      "tokens": [
+        50365,
+        5955,
+        39349,
+        50515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 46,
+      "seek": 13362,
+      "start": 136.62,
+      "end": 138.82,
+      "text": "your accent",
+      "tokens": [
+        50515,
+        23093,
+        11982,
+        50625
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 47,
+      "seek": 13362,
+      "start": 138.82,
+      "end": 140.72,
+      "text": "needs work",
+      "tokens": [
+        50625,
+        716,
+        5147,
+        589,
+        50720
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 48,
+      "seek": 13362,
+      "start": 140.72,
+      "end": 142.76,
+      "text": "I will teach you",
+      "tokens": [
+        50720,
+        40,
+        486,
+        2924,
+        291,
+        50822
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 49,
+      "seek": 13362,
+      "start": 142.76,
+      "end": 144.02,
+      "text": "yay",
+      "tokens": [
+        50822,
+        88,
+        320,
+        50885
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 50,
+      "seek": 13362,
+      "start": 144.02,
+      "end": 146.12,
+      "text": "try more ick",
+      "tokens": [
+        50885,
+        83,
+        627,
+        544,
+        220,
+        618,
+        50990
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 51,
+      "seek": 13362,
+      "start": 146.12,
+      "end": 147.66,
+      "text": "in your",
+      "tokens": [
+        50990,
+        259,
+        428,
+        51067
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 52,
+      "seek": 13362,
+      "start": 147.66,
+      "end": 149.9,
+      "text": "reee",
+      "tokens": [
+        51067,
+        701,
+        68,
+        51179
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 53,
+      "seek": 13362,
+      "start": 149.9,
+      "end": 151.24,
+      "text": "k",
+      "tokens": [
+        51179,
+        74,
+        51246
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 54,
+      "seek": 13362,
+      "start": 151.24,
+      "end": 156.74,
+      "text": "listen to my trumpet",
+      "tokens": [
+        51246,
+        75,
+        4821,
+        281,
+        452,
+        35160,
+        51521
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    },
+    {
+      "id": 55,
+      "seek": 13362,
+      "start": 156.74,
+      "end": 159.04000000000002,
+      "text": "an elephant and piggy story",
+      "tokens": [
+        51521,
+        282,
+        19791,
+        293,
+        39349,
+        1657,
+        51636
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6157204764229911,
+      "compression_ratio": 1.2244897959183674,
+      "no_speech_prob": 4.462792548703964e-12
+    }
+  ],
+  "language": "zh",
+  "lessonId": "v_679af486e4b0694c5a89a0d1",
+  "lessonTitle": "32_Listen_to_My_Trumpet",
+  "sourceAudio": "media/audio/32_Listen_to_My_Trumpet.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

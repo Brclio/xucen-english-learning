@@ -1,0 +1,52 @@
+[0.0–3.5]  Are you ready to play outside?
+[3.6–5.4]  By Mo Willems!
+[5.6–7.2]  Are you ready to play?
+[7.3–8.0]  Piggy!
+[8.5–9.0]  Gerald!
+[9.6–11.1]  Are you ready to play outside?
+[11.6–12.5]  Yes, yes, yes!
+[13.5–15.5]  We're going to do everything today!
+[15.8–17.0]  We're going to run!
+[17.1–17.7]  We're going to skip!
+[18.0–19.4]  We're going to jump!
+[19.9–21.6]  Nothing can stop us!
+[21.7–21.9]  Please!
+[23.0–24.1]  Oh no!
+[24.8–26.6]  It is starting to rain!
+[27.2–28.2]  It is raining!
+[28.2–31.2] 它是很不容易的
+[31.2–34.2] 它是真的不容易
+[34.2–38.2] 我從來沒有看到太多的雨
+[38.2–42.2] 我對不喜歡雨
+[42.2–45.2] 我不是很不開心
+[49.2–51.2] 謝謝你, Gerald
+[51.2–54.2] 但是它是還要雨
+[54.2–60.0] 好,可以玩外面的一天
+[60.0–64.6] 雨,雨,雨
+[64.6–69.5] 雪,雪,雪,雪,雪,雪
+[69.5–71.5] they are having fun
+[71.5–73.9] maybe we can have fun too
+[73.9–75.8] we can try
+[75.8–78.0] splash
+[78.0–80.5] this is great
+[80.5–81.4] let's play
+[81.4–84.2] run run run
+[84.2–86.3] skip skip skip
+[86.3–88.1] jump jump jump
+[88.1–90.0] i love rain
+[90.0–92.6] i hope it rains all day
+[92.6–95.9] rats
+[95.9–98.9] now i like rain
+[98.9–101.4] and now the rain has stopped
+[101.4–104.8] I am not a happy pig
+[104.8–106.4] do not worry piggy
+[106.4–108.7] I have a plan
+[108.7–110.1] Rain
+[110.1–114.9] Elephants make the best friends
+[114.9–118.4] this is about friendship
+[118.4–122.8] and everybody helps everybody
+[122.8–125.4] and just like you and Chelsea
+[125.4–125.9] okay
+[125.9–128.3] can you help her with
+[128.3–130.3] 不
+[130.3–132.3] 不

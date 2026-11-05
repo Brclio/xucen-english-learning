@@ -1,0 +1,2130 @@
+{
+  "text": " The Thank You Book by Mo Willems. Thank you book. The Thank You Book. I am one lucky pig. I have a lot to be thankful for. I had better get thanking. I'm going to thank everyone who is important to me. Everyone? Everyone. No way. You will forget someone. You will forget someone important.I will thank everyoneIt'll be a thank-o-ramaWowOff I goSquirrelsPiggyThank you for your great ideaAh shucksSnakePiggyThank you for playing ball with meThe PigeonThank you for never giving upAnd I'm sorry you did not get to be in our books那是你觉得Thanking is nice, but you will forget someoneI will notMouses, birdies, rhinos, hippos, big sister Barky dog, pelican, bear, hippo, wormThank you all for being great friendsSee that Gerald, I'm a thinking machinePiggy, you have forgotten someone importantDo not worry, Gerald我的次回答會是一個大一一好好好好你很棒所以你我謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝謝那是玩笑的PIGGY你忘了人很重要的很重要真的嗎現在我知道你你叫做的The Flies謝謝你做的你做的任何時不The FliesPIGGY我不會想到任何人我忘了 Thank you, Gerald! Oops, I goofed. Thank you, thank you, thank you, Elephant Gerald! You are the best friend a pig could ever have! That means a lot to me, Piggy, but I did not think that you forgot me. Who did our friend go to back? Our reader. You forgot a thing, our reader. You are right!Thank you for being our readerWe could not be us without youYou are the bestYou did itGreat thinking piggyThanks to youYep, I am one lucky pigThe thank you bookThank you, thank youThe piggy andAn elephant and piggy bookAnd we've finished here太好了",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " The Thank You Book by Mo Willems.",
+      "tokens": [
+        50365,
+        440,
+        1044,
+        509,
+        9476,
+        538,
+        3335,
+        3099,
+        9097,
+        13,
+        50515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.0,
+      "end": 6.640000000000001,
+      "text": " Thank you book. The Thank You Book.",
+      "tokens": [
+        50515,
+        1044,
+        291,
+        1446,
+        13,
+        440,
+        1044,
+        509,
+        9476,
+        13,
+        50697
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.36,
+      "end": 9.32,
+      "text": " I am one lucky pig.",
+      "tokens": [
+        50733,
+        286,
+        669,
+        472,
+        6356,
+        8120,
+        13,
+        50831
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.32,
+      "end": 12.72,
+      "text": " I have a lot to be thankful for.",
+      "tokens": [
+        50881,
+        286,
+        362,
+        257,
+        688,
+        281,
+        312,
+        13611,
+        337,
+        13,
+        51001
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.24,
+      "end": 15.32,
+      "text": " I had better get thanking.",
+      "tokens": [
+        51027,
+        286,
+        632,
+        1101,
+        483,
+        30830,
+        13,
+        51131
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 15.84,
+      "end": 19.12,
+      "text": " I'm going to thank everyone who is important to me.",
+      "tokens": [
+        51157,
+        286,
+        478,
+        516,
+        281,
+        1309,
+        1518,
+        567,
+        307,
+        1021,
+        281,
+        385,
+        13,
+        51321
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.3,
+      "end": 19.8,
+      "text": " Everyone?",
+      "tokens": [
+        51330,
+        5198,
+        30,
+        51355
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 20.88,
+      "end": 21.740000000000002,
+      "text": " Everyone.",
+      "tokens": [
+        51409,
+        5198,
+        13,
+        51452
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 21.96,
+      "end": 24.52,
+      "text": " No way. You will forget someone.",
+      "tokens": [
+        51463,
+        883,
+        636,
+        13,
+        509,
+        486,
+        2870,
+        1580,
+        13,
+        51591
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 25.2,
+      "end": 27.400000000000002,
+      "text": " You will forget someone important.",
+      "tokens": [
+        51625,
+        509,
+        486,
+        2870,
+        1580,
+        1021,
+        13,
+        51735
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4264394739171961,
+      "compression_ratio": 1.6900584795321638,
+      "no_speech_prob": 6.211245406895216e-10
+    },
+    {
+      "id": 10,
+      "seek": 2740,
+      "start": 27.4,
+      "end": 31.24,
+      "text": "I will thank everyone",
+      "tokens": [
+        50365,
+        40,
+        486,
+        1309,
+        1518,
+        50557
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 11,
+      "seek": 2740,
+      "start": 31.24,
+      "end": 33.78,
+      "text": "It'll be a thank-o-rama",
+      "tokens": [
+        50557,
+        3522,
+        603,
+        312,
+        257,
+        1309,
+        12,
+        78,
+        12,
+        29762,
+        50684
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 12,
+      "seek": 2740,
+      "start": 33.78,
+      "end": 35.22,
+      "text": "Wow",
+      "tokens": [
+        50684,
+        14076,
+        50756
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 13,
+      "seek": 2740,
+      "start": 35.22,
+      "end": 36.66,
+      "text": "Off I go",
+      "tokens": [
+        50756,
+        29745,
+        286,
+        352,
+        50828
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 14,
+      "seek": 2740,
+      "start": 36.66,
+      "end": 38.98,
+      "text": "Squirrels",
+      "tokens": [
+        50828,
+        50,
+        358,
+        24704,
+        82,
+        50944
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 15,
+      "seek": 2740,
+      "start": 38.98,
+      "end": 39.66,
+      "text": "Piggy",
+      "tokens": [
+        50944,
+        47,
+        328,
+        1480,
+        50978
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 16,
+      "seek": 2740,
+      "start": 39.66,
+      "end": 42.36,
+      "text": "Thank you for your great idea",
+      "tokens": [
+        50978,
+        10602,
+        291,
+        337,
+        428,
+        869,
+        1558,
+        51113
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 17,
+      "seek": 2740,
+      "start": 42.36,
+      "end": 43.7,
+      "text": "Ah shucks",
+      "tokens": [
+        51113,
+        10844,
+        402,
+        15493,
+        51180
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 18,
+      "seek": 2740,
+      "start": 43.7,
+      "end": 45.26,
+      "text": "Snake",
+      "tokens": [
+        51180,
+        43690,
+        619,
+        51258
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 19,
+      "seek": 2740,
+      "start": 45.26,
+      "end": 45.980000000000004,
+      "text": "Piggy",
+      "tokens": [
+        51258,
+        47,
+        328,
+        1480,
+        51294
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 20,
+      "seek": 2740,
+      "start": 45.980000000000004,
+      "end": 48.68,
+      "text": "Thank you for playing ball with me",
+      "tokens": [
+        51294,
+        10602,
+        291,
+        337,
+        2433,
+        2594,
+        365,
+        385,
+        51429
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 21,
+      "seek": 2740,
+      "start": 48.68,
+      "end": 50.16,
+      "text": "The Pigeon",
+      "tokens": [
+        51429,
+        2278,
+        430,
+        3969,
+        266,
+        51503
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 22,
+      "seek": 2740,
+      "start": 50.16,
+      "end": 52.32,
+      "text": "Thank you for never giving up",
+      "tokens": [
+        51503,
+        10602,
+        291,
+        337,
+        1128,
+        2902,
+        493,
+        51611
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 23,
+      "seek": 2740,
+      "start": 52.32,
+      "end": 55.56,
+      "text": "And I'm sorry you did not get to be in our books",
+      "tokens": [
+        51611,
+        5289,
+        286,
+        478,
+        2597,
+        291,
+        630,
+        406,
+        483,
+        281,
+        312,
+        294,
+        527,
+        3642,
+        51773
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28834566778066206,
+      "compression_ratio": 1.451219512195122,
+      "no_speech_prob": 6.767517861210048e-13
+    },
+    {
+      "id": 24,
+      "seek": 5556,
+      "start": 55.56,
+      "end": 57.56,
+      "text": "那是你觉得",
+      "tokens": [
+        50365,
+        4184,
+        1541,
+        2166,
+        29992,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.06811847686767578,
+      "compression_ratio": 9.771428571428572,
+      "no_speech_prob": 2.655002519919014e-12
+    },
+    {
+      "id": 25,
+      "seek": 5756,
+      "start": 57.56,
+      "end": 62.02,
+      "text": "Thanking is nice, but you will forget someone",
+      "tokens": [
+        50365,
+        10602,
+        278,
+        307,
+        1481,
+        11,
+        457,
+        291,
+        486,
+        2870,
+        1580,
+        50588
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 26,
+      "seek": 5756,
+      "start": 62.02,
+      "end": 64.44,
+      "text": "I will not",
+      "tokens": [
+        50588,
+        40,
+        486,
+        406,
+        50709
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 27,
+      "seek": 5756,
+      "start": 64.44,
+      "end": 67.84,
+      "text": "Mouses, birdies, rhinos, hippos, big sister",
+      "tokens": [
+        50709,
+        44,
+        18562,
+        11,
+        5255,
+        530,
+        11,
+        49030,
+        329,
+        11,
+        27745,
+        329,
+        11,
+        955,
+        4892,
+        50879
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 28,
+      "seek": 5756,
+      "start": 67.84,
+      "end": 70.86,
+      "text": " Barky dog, pelican, bear, hippo, worm",
+      "tokens": [
+        50879,
+        36275,
+        88,
+        3000,
+        11,
+        6178,
+        8914,
+        11,
+        6155,
+        11,
+        27745,
+        78,
+        11,
+        23835,
+        51030
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 29,
+      "seek": 5756,
+      "start": 70.86,
+      "end": 73.92,
+      "text": "Thank you all for being great friends",
+      "tokens": [
+        51030,
+        10602,
+        291,
+        439,
+        337,
+        885,
+        869,
+        1855,
+        51183
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 30,
+      "seek": 5756,
+      "start": 73.92,
+      "end": 78.80000000000001,
+      "text": "See that Gerald, I'm a thinking machine",
+      "tokens": [
+        51183,
+        26869,
+        300,
+        38332,
+        11,
+        286,
+        478,
+        257,
+        1953,
+        3479,
+        51427
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 31,
+      "seek": 5756,
+      "start": 78.80000000000001,
+      "end": 82.56,
+      "text": "Piggy, you have forgotten someone important",
+      "tokens": [
+        51427,
+        47,
+        328,
+        1480,
+        11,
+        291,
+        362,
+        11832,
+        1580,
+        1021,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 32,
+      "seek": 5756,
+      "start": 82.56,
+      "end": 85.24000000000001,
+      "text": "Do not worry, Gerald",
+      "tokens": [
+        51615,
+        7653,
+        406,
+        3292,
+        11,
+        38332,
+        51749
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.28685708479447797,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 3.140319384739576e-12
+    },
+    {
+      "id": 33,
+      "seek": 8524,
+      "start": 85.24,
+      "end": 88.39999999999999,
+      "text": "我的次回答會是一個大一一",
+      "tokens": [
+        50365,
+        14200,
+        9487,
+        8350,
+        28223,
+        6236,
+        1541,
+        8990,
+        3582,
+        2257,
+        2257,
+        50523
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 34,
+      "seek": 8524,
+      "start": 88.39999999999999,
+      "end": 89.39999999999999,
+      "text": "好",
+      "tokens": [
+        50523,
+        2131,
+        50573
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 35,
+      "seek": 8524,
+      "start": 89.39999999999999,
+      "end": 89.89999999999999,
+      "text": "好",
+      "tokens": [
+        50573,
+        2131,
+        50598
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 36,
+      "seek": 8524,
+      "start": 89.89999999999999,
+      "end": 90.89999999999999,
+      "text": "好",
+      "tokens": [
+        50598,
+        2131,
+        50648
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 37,
+      "seek": 8524,
+      "start": 90.89999999999999,
+      "end": 91.89999999999999,
+      "text": "好",
+      "tokens": [
+        50648,
+        2131,
+        50698
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 38,
+      "seek": 8524,
+      "start": 91.89999999999999,
+      "end": 93.78,
+      "text": "你很棒",
+      "tokens": [
+        50698,
+        2166,
+        4563,
+        23514,
+        50792
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 39,
+      "seek": 8524,
+      "start": 93.78,
+      "end": 94.69999999999999,
+      "text": "所以",
+      "tokens": [
+        50792,
+        7239,
+        50838
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 40,
+      "seek": 8524,
+      "start": 94.69999999999999,
+      "end": 95.53999999999999,
+      "text": "你",
+      "tokens": [
+        50838,
+        2166,
+        50880
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 41,
+      "seek": 8524,
+      "start": 95.53999999999999,
+      "end": 96.24,
+      "text": "我",
+      "tokens": [
+        50880,
+        1654,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 42,
+      "seek": 8524,
+      "start": 96.24,
+      "end": 97.03999999999999,
+      "text": "謝謝",
+      "tokens": [
+        50915,
+        11003,
+        50955
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 43,
+      "seek": 8524,
+      "start": 97.03999999999999,
+      "end": 97.28,
+      "text": "謝謝",
+      "tokens": [
+        50955,
+        11003,
+        50967
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 44,
+      "seek": 8524,
+      "start": 97.28,
+      "end": 97.69999999999999,
+      "text": "謝謝",
+      "tokens": [
+        50967,
+        11003,
+        50988
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 45,
+      "seek": 8524,
+      "start": 97.69999999999999,
+      "end": 98.28,
+      "text": "謝謝",
+      "tokens": [
+        50988,
+        11003,
+        51017
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 46,
+      "seek": 8524,
+      "start": 98.28,
+      "end": 98.53999999999999,
+      "text": "謝謝",
+      "tokens": [
+        51017,
+        11003,
+        51030
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 47,
+      "seek": 8524,
+      "start": 98.53999999999999,
+      "end": 99.64,
+      "text": "謝謝",
+      "tokens": [
+        51030,
+        11003,
+        51085
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 48,
+      "seek": 8524,
+      "start": 99.64,
+      "end": 99.8,
+      "text": "謝謝",
+      "tokens": [
+        51085,
+        11003,
+        51093
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 49,
+      "seek": 8524,
+      "start": 99.8,
+      "end": 100.28,
+      "text": "謝謝",
+      "tokens": [
+        51093,
+        11003,
+        51117
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 50,
+      "seek": 8524,
+      "start": 100.28,
+      "end": 101.28,
+      "text": "謝謝",
+      "tokens": [
+        51117,
+        11003,
+        51167
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 51,
+      "seek": 8524,
+      "start": 101.28,
+      "end": 102.28,
+      "text": "謝謝",
+      "tokens": [
+        51167,
+        11003,
+        51217
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 52,
+      "seek": 8524,
+      "start": 102.28,
+      "end": 102.78,
+      "text": "謝謝",
+      "tokens": [
+        51217,
+        11003,
+        51242
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 53,
+      "seek": 8524,
+      "start": 102.78,
+      "end": 103.28,
+      "text": "謝謝",
+      "tokens": [
+        51242,
+        11003,
+        51267
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 54,
+      "seek": 8524,
+      "start": 103.28,
+      "end": 103.78,
+      "text": "謝謝",
+      "tokens": [
+        51267,
+        11003,
+        51292
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 55,
+      "seek": 8524,
+      "start": 103.78,
+      "end": 104.28,
+      "text": "謝謝",
+      "tokens": [
+        51292,
+        11003,
+        51317
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 56,
+      "seek": 8524,
+      "start": 104.28,
+      "end": 105.28,
+      "text": "謝謝",
+      "tokens": [
+        51317,
+        11003,
+        51367
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 57,
+      "seek": 8524,
+      "start": 105.28,
+      "end": 105.78,
+      "text": "謝謝",
+      "tokens": [
+        51367,
+        11003,
+        51392
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 58,
+      "seek": 8524,
+      "start": 105.78,
+      "end": 106.28,
+      "text": "謝謝",
+      "tokens": [
+        51392,
+        11003,
+        51417
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 59,
+      "seek": 8524,
+      "start": 106.28,
+      "end": 106.78,
+      "text": "謝謝",
+      "tokens": [
+        51417,
+        11003,
+        51442
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 60,
+      "seek": 8524,
+      "start": 106.78,
+      "end": 107.78,
+      "text": "謝謝",
+      "tokens": [
+        51442,
+        11003,
+        51492
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 61,
+      "seek": 8524,
+      "start": 107.78,
+      "end": 108.28,
+      "text": "謝謝",
+      "tokens": [
+        51492,
+        11003,
+        51517
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 62,
+      "seek": 8524,
+      "start": 108.28,
+      "end": 109.28,
+      "text": "謝謝",
+      "tokens": [
+        51517,
+        11003,
+        51567
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 63,
+      "seek": 8524,
+      "start": 109.28,
+      "end": 110.28,
+      "text": "謝謝",
+      "tokens": [
+        51567,
+        11003,
+        51617
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 64,
+      "seek": 8524,
+      "start": 110.28,
+      "end": 110.78,
+      "text": "謝謝",
+      "tokens": [
+        51617,
+        11003,
+        51642
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 65,
+      "seek": 8524,
+      "start": 110.78,
+      "end": 111.28,
+      "text": "謝謝",
+      "tokens": [
+        51642,
+        11003,
+        51667
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 66,
+      "seek": 8524,
+      "start": 111.28,
+      "end": 111.78,
+      "text": "謝謝",
+      "tokens": [
+        51667,
+        11003,
+        51692
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 67,
+      "seek": 8524,
+      "start": 111.78,
+      "end": 112.28,
+      "text": "謝謝",
+      "tokens": [
+        51692,
+        11003,
+        51717
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 68,
+      "seek": 8524,
+      "start": 112.28,
+      "end": 113.28,
+      "text": "謝謝",
+      "tokens": [
+        51717,
+        11003,
+        51767
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 69,
+      "seek": 8524,
+      "start": 113.28,
+      "end": 114.28,
+      "text": "謝謝",
+      "tokens": [
+        51767,
+        11003,
+        51817
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 70,
+      "seek": 8524,
+      "start": 114.28,
+      "end": 114.78,
+      "text": "謝謝",
+      "tokens": [
+        51817,
+        11003,
+        51842
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.2581103467565822,
+      "compression_ratio": 3.24,
+      "no_speech_prob": 1.9198533821734864e-12
+    },
+    {
+      "id": 71,
+      "seek": 11478,
+      "start": 114.78,
+      "end": 115.78,
+      "text": "那是玩笑的",
+      "tokens": [
+        50365,
+        4184,
+        1541,
+        19912,
+        11600,
+        1546,
+        50415
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 72,
+      "seek": 11478,
+      "start": 115.78,
+      "end": 119.08,
+      "text": "PIGGY",
+      "tokens": [
+        50415,
+        47,
+        10489,
+        38,
+        56,
+        50580
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 73,
+      "seek": 11478,
+      "start": 119.08,
+      "end": 121.58,
+      "text": "你忘了人",
+      "tokens": [
+        50580,
+        2166,
+        26677,
+        2289,
+        4035,
+        50705
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 74,
+      "seek": 11478,
+      "start": 121.58,
+      "end": 122.78,
+      "text": "很重要的",
+      "tokens": [
+        50705,
+        4563,
+        24928,
+        1546,
+        50765
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 75,
+      "seek": 11478,
+      "start": 122.78,
+      "end": 124.78,
+      "text": "很重要",
+      "tokens": [
+        50765,
+        4563,
+        24928,
+        50865
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 76,
+      "seek": 11478,
+      "start": 124.78,
+      "end": 126.28,
+      "text": "真的嗎",
+      "tokens": [
+        50865,
+        8034,
+        7434,
+        50940
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 77,
+      "seek": 11478,
+      "start": 126.28,
+      "end": 128.78,
+      "text": "現在我知道你",
+      "tokens": [
+        50940,
+        12648,
+        1654,
+        7758,
+        2166,
+        51065
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 78,
+      "seek": 11478,
+      "start": 128.78,
+      "end": 130.78,
+      "text": "你叫做的",
+      "tokens": [
+        51065,
+        2166,
+        19855,
+        10907,
+        1546,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 79,
+      "seek": 11478,
+      "start": 130.78,
+      "end": 132.28,
+      "text": "The Flies",
+      "tokens": [
+        51165,
+        2278,
+        3235,
+        530,
+        51240
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 80,
+      "seek": 11478,
+      "start": 132.28,
+      "end": 133.78,
+      "text": "謝謝你做的",
+      "tokens": [
+        51240,
+        11003,
+        2166,
+        10907,
+        1546,
+        51315
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 81,
+      "seek": 11478,
+      "start": 133.78,
+      "end": 134.78,
+      "text": "你做的",
+      "tokens": [
+        51315,
+        2166,
+        10907,
+        1546,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 82,
+      "seek": 11478,
+      "start": 134.78,
+      "end": 135.78,
+      "text": "任何時",
+      "tokens": [
+        51365,
+        26443,
+        11906,
+        6611,
+        51415
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 83,
+      "seek": 11478,
+      "start": 135.78,
+      "end": 137.78,
+      "text": "不",
+      "tokens": [
+        51415,
+        1960,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 84,
+      "seek": 11478,
+      "start": 137.78,
+      "end": 138.78,
+      "text": "The Flies",
+      "tokens": [
+        51515,
+        2278,
+        3235,
+        530,
+        51565
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 85,
+      "seek": 11478,
+      "start": 138.78,
+      "end": 139.78,
+      "text": "PIGGY",
+      "tokens": [
+        51565,
+        47,
+        10489,
+        38,
+        56,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 86,
+      "seek": 11478,
+      "start": 139.78,
+      "end": 140.78,
+      "text": "我不會想到",
+      "tokens": [
+        51615,
+        1654,
+        21121,
+        7093,
+        4511,
+        51665
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 87,
+      "seek": 11478,
+      "start": 140.78,
+      "end": 141.78,
+      "text": "任何人",
+      "tokens": [
+        51665,
+        26443,
+        11906,
+        4035,
+        51715
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 88,
+      "seek": 11478,
+      "start": 141.78,
+      "end": 142.78,
+      "text": "我忘了",
+      "tokens": [
+        51715,
+        1654,
+        26677,
+        2289,
+        51765
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.1193121683966254,
+      "compression_ratio": 1.2432432432432432,
+      "no_speech_prob": 2.6246416064829026e-12
+    },
+    {
+      "id": 89,
+      "seek": 14278,
+      "start": 142.78,
+      "end": 144.78,
+      "text": " Thank you, Gerald!",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        11,
+        38332,
+        0,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 90,
+      "seek": 14278,
+      "start": 144.78,
+      "end": 147.78,
+      "text": " Oops, I goofed.",
+      "tokens": [
+        50465,
+        21726,
+        11,
+        286,
+        30356,
+        292,
+        13,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 91,
+      "seek": 14278,
+      "start": 147.78,
+      "end": 151.78,
+      "text": " Thank you, thank you, thank you, Elephant Gerald!",
+      "tokens": [
+        50615,
+        1044,
+        291,
+        11,
+        1309,
+        291,
+        11,
+        1309,
+        291,
+        11,
+        8024,
+        15071,
+        38332,
+        0,
+        50815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 92,
+      "seek": 14278,
+      "start": 151.78,
+      "end": 155.78,
+      "text": " You are the best friend a pig could ever have!",
+      "tokens": [
+        50815,
+        509,
+        366,
+        264,
+        1151,
+        1277,
+        257,
+        8120,
+        727,
+        1562,
+        362,
+        0,
+        51015
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 93,
+      "seek": 14278,
+      "start": 155.78,
+      "end": 161.78,
+      "text": " That means a lot to me, Piggy, but I did not think that you forgot me.",
+      "tokens": [
+        51015,
+        663,
+        1355,
+        257,
+        688,
+        281,
+        385,
+        11,
+        27322,
+        1480,
+        11,
+        457,
+        286,
+        630,
+        406,
+        519,
+        300,
+        291,
+        5298,
+        385,
+        13,
+        51315
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 94,
+      "seek": 14278,
+      "start": 161.78,
+      "end": 164.78,
+      "text": " Who did our friend go to back?",
+      "tokens": [
+        51315,
+        2102,
+        630,
+        527,
+        1277,
+        352,
+        281,
+        646,
+        30,
+        51465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 95,
+      "seek": 14278,
+      "start": 164.78,
+      "end": 167.78,
+      "text": " Our reader.",
+      "tokens": [
+        51465,
+        2621,
+        15149,
+        13,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 96,
+      "seek": 14278,
+      "start": 167.78,
+      "end": 169.78,
+      "text": " You forgot a thing, our reader.",
+      "tokens": [
+        51615,
+        509,
+        5298,
+        257,
+        551,
+        11,
+        527,
+        15149,
+        13,
+        51715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 97,
+      "seek": 14278,
+      "start": 169.78,
+      "end": 171.78,
+      "text": " You are right!",
+      "tokens": [
+        51715,
+        509,
+        366,
+        558,
+        0,
+        51815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3370772770472935,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 2.870359332163286e-12
+    },
+    {
+      "id": 98,
+      "seek": 17178,
+      "start": 171.78,
+      "end": 175.08,
+      "text": "Thank you for being our reader",
+      "tokens": [
+        50365,
+        10602,
+        291,
+        337,
+        885,
+        527,
+        15149,
+        50530
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 99,
+      "seek": 17178,
+      "start": 175.08,
+      "end": 179.22,
+      "text": "We could not be us without you",
+      "tokens": [
+        50530,
+        4360,
+        727,
+        406,
+        312,
+        505,
+        1553,
+        291,
+        50737
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 100,
+      "seek": 17178,
+      "start": 179.22,
+      "end": 181.02,
+      "text": "You are the best",
+      "tokens": [
+        50737,
+        3223,
+        366,
+        264,
+        1151,
+        50827
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 101,
+      "seek": 17178,
+      "start": 181.02,
+      "end": 182.44,
+      "text": "You did it",
+      "tokens": [
+        50827,
+        3223,
+        630,
+        309,
+        50898
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 102,
+      "seek": 17178,
+      "start": 182.44,
+      "end": 184.3,
+      "text": "Great thinking piggy",
+      "tokens": [
+        50898,
+        30604,
+        1953,
+        39349,
+        50991
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 103,
+      "seek": 17178,
+      "start": 184.3,
+      "end": 186.02,
+      "text": "Thanks to you",
+      "tokens": [
+        50991,
+        27917,
+        281,
+        291,
+        51077
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 104,
+      "seek": 17178,
+      "start": 186.02,
+      "end": 189.26,
+      "text": "Yep, I am one lucky pig",
+      "tokens": [
+        51077,
+        56,
+        595,
+        11,
+        286,
+        669,
+        472,
+        6356,
+        8120,
+        51239
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 105,
+      "seek": 17178,
+      "start": 189.26,
+      "end": 192.16,
+      "text": "The thank you book",
+      "tokens": [
+        51239,
+        2278,
+        1309,
+        291,
+        1446,
+        51384
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 106,
+      "seek": 17178,
+      "start": 192.16,
+      "end": 193.72,
+      "text": "Thank you, thank you",
+      "tokens": [
+        51384,
+        10602,
+        291,
+        11,
+        1309,
+        291,
+        51462
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 107,
+      "seek": 17178,
+      "start": 193.72,
+      "end": 194.86,
+      "text": "The piggy and",
+      "tokens": [
+        51462,
+        2278,
+        39349,
+        293,
+        51519
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 108,
+      "seek": 17178,
+      "start": 194.86,
+      "end": 198.26,
+      "text": "An elephant and piggy book",
+      "tokens": [
+        51519,
+        7828,
+        19791,
+        293,
+        39349,
+        1446,
+        51689
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 109,
+      "seek": 17178,
+      "start": 198.26,
+      "end": 199.92000000000002,
+      "text": "And we've finished here",
+      "tokens": [
+        51689,
+        5289,
+        321,
+        600,
+        4335,
+        510,
+        51772
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.327966364418588,
+      "compression_ratio": 1.5220125786163523,
+      "no_speech_prob": 1.040088479752066e-12
+    },
+    {
+      "id": 110,
+      "seek": 19992,
+      "start": 199.92,
+      "end": 200.42,
+      "text": "太好了",
+      "tokens": [
+        50365,
+        9455,
+        12621,
+        50390
+      ],
+      "temperature": 0,
+      "avg_logprob": -1.5513115882873536,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 2.0697887848086793e-10
+    }
+  ],
+  "language": "zh",
+  "lessonId": "v_67a17a4fe4b0694ca05500a6",
+  "lessonTitle": "40_The_Thank_You_Book",
+  "sourceAudio": "media/audio/40_The_Thank_You_Book.mp3",
+  "method": "Local MLX Whisper large-v3-turbo; machine transcript, unverified"
+}

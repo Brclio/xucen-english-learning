@@ -1,0 +1,1 @@
+System.register(["../assets/main-legacy-68127257.js"],function(e,r){"use strict";var t,s;return{setters:[function(e){t=e.e,s=e.t}],execute:function(){e("g",function(){var e=t();return s.request({url:"/xe.course.business.article.config_info.get/2.0.0",method:"post",params:{resource_id:e.resource_id}}).catch(function(e){throw console.log(e),new Error("获取文章配置失败")})})}}});

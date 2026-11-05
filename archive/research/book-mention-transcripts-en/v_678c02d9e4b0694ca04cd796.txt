@@ -1,0 +1,44 @@
+[0.0–1.8]  I broke my trunk.
+[1.8–3.5]  Much by Mo Willems.
+[3.5–6.5]  I broke my trunk.
+[7.6–10.0]  I have not seen Gerald today.
+[10.0–11.0]  Why?
+[11.9–13.0]  Gerald?
+[13.0–15.0]  What happened to your trunk?
+[15.0–17.4]  I broke my trunk.
+[17.4–19.6]  How did you break your trunk?
+[20.5–23.9]  It is a long, crazy story.
+[23.9–24.9]  Tell it, tell it.
+[26.0–28.9]  Well, I was playing with Hippo.
+[28.9–33.5]  Dad, I had an idea. I wanted to lift Hippo onto my trunk.
+[33.7–34.2]  Why?
+[36.3–37.1]  Because.
+[37.6–38.0]  Okay.
+[38.7–41.2]  So I lifted Hippo onto my trunk.
+[41.7–44.9]  But a Hippo on your trunk is heavy.
+[46.8–49.5]  Is that how you broke your trunk?
+[50.0–53.2]  No. There is more to my story.
+[54.0–57.2]  Then Rhino showed up. Rhino wanted a turn.
+[57.2–59.2]  What did you do?
+[59.9–62.1]  I lifted both of them onto my trunk.
+[63.2–68.9]  But a hippo and a rhino on your trunk are very heavy.
+[69.6–71.5]  Is that how you broke your trunk?
+[71.8–75.1]  No, there is more to my story.
+[75.7–77.5]  Then hippo's sister showed up.
+[77.7–78.9]  Hippo has a sister?
+[79.8–81.7]  A big sister.
+[82.6–84.7]  Does she want to turn two?
+[84.7–89.7]  Yes, she also wanted to play her piano.
+[90.6–97.0]  Two hippos, one rhino, and a piano on your trunk are very, very heavy.
+[97.4–99.1]  Is that how you broke your trunk?
+[99.2–99.6]  No.
+[100.2–103.8]  This is a long, crazy story, Gerald.
+[104.3–106.5]  How did you break your trunk?
+[107.3–109.9]  Well, I was so proud of what I had done.
+[110.2–113.3]  Then I ran to tell my very best friend about it.
+[113.3–119.5]  But I tripped and fell. Whoop! Broke my trunk.
+[119.5–125.2]  You broke your trunk running to tell me your story.
+[125.2–132.7]  That is a crazy story. That is a funny story. I want to tell someone your crazy story.
+[132.7–136.8]  Peaky, what happened to your snout?
+[136.8–140.0]  It is a long crazy story.
+[140.0–144.0]  That was not crazy at all.

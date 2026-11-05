@@ -1,0 +1,83 @@
+[0.0–1.2]  I am a frog.
+[1.2–3.2]  Frog by Mo Willems.
+[3.2–5.1]  I am a frog. Who is a frog?
+[5.1–5.6]  Me.
+[5.6–10.6]  Ribbit. Ribbit. Ribbit. Ribbit. Ribbit. Ribbit. Ribbit.
+[10.6–11.4]  Piggy?
+[11.4–14.0]  Ribbit. Ribbit. Ribbit. Ribbit.
+[14.0–16.0]  What are you doing, Piggy?
+[16.0–17.8]  I'm a frog.
+[17.8–19.6]  You are a frog.
+[19.6–20.6]  Yes.
+[20.6–22.6]  I did not know that.
+[22.6–25.6]  I was sure you were a pig.
+[25.6–29.6]  You look like a pig and your name is Piggy.
+[29.6–33.4]  I was a pig. Now I am a frog.
+[34.1–37.0]  You learn something new every day.
+[37.5–39.0]  When did you become a frog?
+[39.7–41.4]  About five minutes ago.
+[41.5–43.0]  Five minutes ago?
+[43.4–45.3]  Five minutes ago she was a pig.
+[45.5–47.2]  Now she's a frog.
+[48.1–50.5]  What if I become a frog?
+[51.1–54.5]  Hopping all day, eating flies.
+[54.5–55.0]  Please?
+[56.6–57.1]  Rift it!
+[57.4–61.1]  I don't want to be a frog!
+[62.2–63.6]  It is okay, Gerald.
+[64.3–65.7]  It is pretend.
+[66.5–68.1]  It is the end?
+[68.4–69.4]  No, Gerald.
+[69.8–71.1]  Pre-tend.
+[71.3–72.7]  I am pretending.
+[72.9–75.3]  What is pre-tending?
+[76.1–79.0]  Pretending is when you act like something you are not.
+[79.3–80.0]  Wow.
+[80.6–82.6]  And you can just do that?
+[82.6–87.8]  You can just go out and pretend to be something you are not.
+[87.9–89.9]  Sure, everyone pretends.
+[90.3–91.8]  Even grown up people?
+[92.1–93.3]  All the time.
+[93.4–96.5]  You really do learn something new every day.
+[97.0–98.7]  Do you want to try, Gerald?
+[99.3–102.0]  Do you want to pretend to be a frog?
+[102.5–104.5]  I cannot.
+[105.1–105.9]  Yes, I can.
+[106.3–107.8]  No, I can.
+[107.9–109.3]  Yes, you can.
+[109.5–110.6]  No, I can.
+[110.7–111.1]  Yes, you can.
+[111.1–112.0]  No, I can.
+[112.0–112.8]  Yes, I can!
+[112.8–113.6]  No, I can!
+[113.6–114.5]  Yes, I can!
+[114.5–115.3]  No, I can!
+[115.3–116.2]  Yes, I can!
+[116.2–117.0]  No, I can!
+[117.0–117.8]  Yes, I can!
+[117.8–118.7]  No, I can!
+[118.7–119.5]  Yes, you can!
+[119.5–120.6]  No, I can!
+[120.6–121.4]  Yes, you can!
+[121.4–122.3]  No, I can!
+[122.3–123.2]  DARRELL!
+[124.1–126.6]  Why can't you pretend to be a frog?
+[126.6–129.3]  Because I am a cow!
+[129.3–130.3]  Moo!
+[133.3–134.6]  Ribbit, ribbit, ribbit!
+[134.6–135.4]  Moo!
+[135.4–136.3]  Hmm.
+[141.3–142.2]  I'm a frog.
+[143.8–145.0]  And I'm a cow.
+[148.3–149.8]  It is pretend.
+[150.7–152.4]  It is the end?
+[152.4–155.1]  No, Gerald, pretend.
+[155.1–156.8]  I am pretending.
+[156.8–159.1]  What is pretend-ing?
+[160.4–161.3]  I can't.
+[161.3–162.1]  Yes, you can.
+[162.1–163.0]  No, I can't.
+[163.0–163.8]  Yes, you can.
+[163.8–164.6]  No, I can't.
+[164.6–165.4]  Yes, you can.
+[165.4–165.5]  out.

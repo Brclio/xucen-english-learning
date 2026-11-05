@@ -1,0 +1,47 @@
+[0.0–4.1]  My friend is sad.
+[4.1–6.1]  By Mo Willems.
+[10.2–13.3]  My friend is sad.
+[13.3–15.9]  I will make him happy.
+[16.7–17.9]  Huh?
+[17.9–20.1]  Yee-haw!
+[20.1–22.7]  A cowboy!
+[22.7–24.2]  Oh...
+[24.2–28.2]  Gerald loves cowboys, but he is still sad.
+[28.2–31.9]  A clown!
+[33.7–37.2]  Clowns are funny, but he's still sad.
+[40.2–41.8]  A robot!
+[43.9–47.2]  How can anyone be sad around a robot?
+[49.9–50.7]  Gerald!
+[51.7–52.6]  Peggy!
+[53.2–57.3]  I'm sorry. I wanted to make you happy, but you are still sad.
+[57.3–60.1]  I'm not sad now. I am happy.
+[60.5–61.2]  You are happy?
+[61.5–63.8]  I'm happy because you are here.
+[63.8–69.0]  But I was so sad, Piggy. So very sad.
+[69.4–70.7]  I saw a cowboy.
+[72.3–74.1]  But you love cowboys.
+[74.7–77.6]  I do. I love cowboys.
+[77.8–80.8]  But you were not here to see him.
+[81.3–83.8]  Well, in fact, I...
+[83.8–88.3]  There was more than I saw a clown.
+[88.5–91.0]  A funny, funny clown.
+[92.1–94.6]  But you were not there to see him.
+[95.6–96.4]  But...
+[96.4–98.4]  There was more.
+[98.9–100.9]  I saw a robot.
+[101.4–103.4]  A cuckoo robot.
+[104.6–107.4]  And my best friend was not there to see him with me.
+[108.4–112.6]  But, you see, I'm here now.
+[112.6–117.6]  You are! You are here now! My friend is hated now.
+[118.3–121.6]  I need my friend.
+[122.3–124.3]  You need new glasses.
+[128.9–131.0]  My friend is sad.
+[131.7–133.6]  An elephant and piggy book.
+[135.2–138.9]  There was more than a solid clown.
+[138.9–141.4]  A funny, funny clown.
+[141.4–145.0]  but you were not there to see him
+[145.0–149.9]  but
+[149.9–153.4]  there was more
+[153.4–171.4]  there was more
+[171.4–174.9]  I saw a robot!
+[174.9–177.4]  A cuckoo robot!
