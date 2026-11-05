@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-11-05T13:01:00Z",
+  "project": "xucen-english-course",
+  "productionUrl": "https://xucen-english-course.pages.dev",
+  "source": {
+    "type": "github",
+    "owner": "Brclio",
+    "repo": "xucen-english-learning",
+    "productionBranch": "main",
+    "productionDeploymentsEnabled": true,
+    "previewDeploymentsEnabled": false
+  },
+  "build": {
+    "command": "npm run build",
+    "outputDirectory": "dist",
+    "rootDirectory": "",
+    "nodeVersion": "22"
+  },
+  "deploymentStatus": "waiting_for_source_push",
+  "deployment": null,
+  "localAssetUploadUsedForThisProject": false,
+  "customDomainConfigured": false,
+  "dnsModified": false,
+  "runtime": "static-pages",
+  "r2Used": false,
+  "functionsConfigured": false
+}

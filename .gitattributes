@@ -2,3 +2,4 @@
 media/videos/*.mp4 -diff -merge -text
 media/audio/*.mp3 -diff -merge -text
 media/video-parts/** -diff -merge -text
+archive/research/** -text

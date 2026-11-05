@@ -1,25 +1,34 @@
 # Cloudflare Pages 免费静态部署
 
-线上使用 **Cloudflare Pages 静态网页 + 公开 GitHub Release 视频**。不使用 R2、Workers、Pages Functions 或收费依赖，也不需要部署密钥。仓库和 Release 为公开内容；此方案不提供密码保护。
+线上使用 **Cloudflare Pages 静态网页 + 公开 GitHub Release 视频**。不使用 R2、Workers、Pages Functions 或收费依赖，网页运行不需要服务端密钥。仓库和 Release 为公开内容；此方案不提供密码保护。
 
 原来的 `index.html`、课程数据、41 个 MP4、41 个 MP3、图片和 Markdown 保持离线版原样。`npm run build` 只生成单独的 `dist/` 在线副本，不改动、读取或还原视频文件。
 
-## 最简单的部署方法
+## 已绑定的 GitHub 自动部署项目
 
-在 Cloudflare 控制台选择 **Workers & Pages → Create application → Pages → Connect to Git**，连接 `Brclio/xucen-english-learning`，使用：
+当前实际使用 **Git 集成**，由 Cloudflare 拉取 GitHub 仓库、在云端构建并发布，无需本机上传 `dist`。
+
+- 站点地址：[https://xucen-english-course.pages.dev](https://xucen-english-course.pages.dev)
+- Pages 项目：`xucen-english-course`
+- GitHub 仓库：`Brclio/xucen-english-learning`
+- 生产分支：`main`，已开启推送后的自动部署。
+- 运行方式：纯静态 Pages，没有 Functions、Workers 或 R2 绑定。
+- 自定义域名与 DNS 未配置，由你自行处理。
+
+已配置的构建参数：
 
 | 配置 | 值 |
 | --- | --- |
 | Framework preset | None |
-| Production branch | `main` |
 | Build command | `npm run build` |
 | Build output directory | `dist` |
-| Root directory | 仓库根目录，留空 |
-| Node.js | 22 或更新版本 |
+| Root directory | 仓库根目录 |
+| Environment variable | `NODE_VERSION=22` |
+| Preview deployments | 关闭，仅发布 `main` |
 
-如果控制台要求 Node 版本变量，设置 `NODE_VERSION=22`。项目没有 npm 第三方依赖；`package-lock.json` 只锁定项目自身。构建时不运行 `media:restore`，也不用下载 Release 视频；只读取小型映射文件，把播放器地址写入在线副本。
+项目没有 npm 第三方依赖。构建不运行 `media:restore`，也不下载 Release 视频；只读取映射文件并生成在线副本。后续更新提交并推送到 `main` 即可，由 Cloudflare 自动构建；在 Pages 控制台 **Deployments** 可查看构建进度与日志，必要时重试对应提交。
 
-保存并部署后会得到 `*.pages.dev` 地址。之后推送仓库更新，Pages 会自动重新构建网页。构建设置依据 [Cloudflare 静态 HTML 文档](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/) 和 [Git 集成文档](https://developers.cloudflare.com/pages/get-started/git-integration/)。本次仅准备项目，没有实际发布 Cloudflare 站点。
+连接现有 GitHub 应用只使用本仓库，未扩大到其他私有仓库权限。配置依据 [Cloudflare 静态 HTML 文档](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/) 和 [GitHub 集成文档](https://developers.cloudflare.com/pages/configuration/git-integration/github-integration/)。
 
 ## 在线版内容从哪里读取
 

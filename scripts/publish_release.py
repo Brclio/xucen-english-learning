@@ -78,6 +78,7 @@ for record in videos:
     if not asset_matches(asset, record):
         raise RuntimeError('Remote checksum verification failed: ' + name)
     results.append({'name': name, 'originalPath': record['originalPath'], 'title': record['title'], 'bytes': record['bytes'], 'sha256': record['sha256'], 'url': asset['browser_download_url'], 'remoteDigestVerified': True})
-report = {'repository': REPOSITORY, 'tag': TAG, 'releaseUrl': remote['html_url'], 'videoCount': len(results), 'videoBytes': sum(item['bytes'] for item in results), 'videos': results, 'passed': True}
+public_url = f'https://github.com/{REPOSITORY}/releases/tag/{TAG}'
+report = {'repository': REPOSITORY, 'tag': TAG, 'releaseUrl': public_url, 'releasePublished': not remote.get('draft', True), 'videoCount': len(results), 'videoBytes': sum(item['bytes'] for item in results), 'videos': results, 'passed': True}
 (ROOT / 'metadata/release-validation.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
-print(json.dumps({'videoCount': len(results), 'allRemoteDigestsMatch': True, 'releaseUrl': remote['html_url']}, ensure_ascii=False), flush=True)
+print(json.dumps({'videoCount': len(results), 'allRemoteDigestsMatch': True, 'releaseUrl': public_url}, ensure_ascii=False), flush=True)
