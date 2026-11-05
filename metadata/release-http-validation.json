@@ -1,0 +1,153 @@
+{
+  "releasePublished": true,
+  "releaseUrl": "https://github.com/Brclio/xucen-english-learning/releases/tag/course-v1",
+  "remoteDigestVerifiedVideos": 41,
+  "assetCount": 43,
+  "rangeChecks": [
+    {
+      "assetName": "lesson-00.mp4",
+      "start": 0,
+      "end": 4095,
+      "status": 206,
+      "contentRange": "bytes 0-4095/96303962",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-00.mp4",
+      "start": 48151981,
+      "end": 48156076,
+      "status": 206,
+      "contentRange": "bytes 48151981-48156076/96303962",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-00.mp4",
+      "start": 96299866,
+      "end": 96303961,
+      "status": 206,
+      "contentRange": "bytes 96299866-96303961/96303962",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-08.mp4",
+      "start": 0,
+      "end": 4095,
+      "status": 206,
+      "contentRange": "bytes 0-4095/223574029",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-08.mp4",
+      "start": 111787014,
+      "end": 111791109,
+      "status": 206,
+      "contentRange": "bytes 111787014-111791109/223574029",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-08.mp4",
+      "start": 223569933,
+      "end": 223574028,
+      "status": 206,
+      "contentRange": "bytes 223569933-223574028/223574029",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-20.mp4",
+      "start": 0,
+      "end": 4095,
+      "status": 206,
+      "contentRange": "bytes 0-4095/13128562",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-20.mp4",
+      "start": 6564281,
+      "end": 6568376,
+      "status": 206,
+      "contentRange": "bytes 6564281-6568376/13128562",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-20.mp4",
+      "start": 13124466,
+      "end": 13128561,
+      "status": 206,
+      "contentRange": "bytes 13124466-13128561/13128562",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-40.mp4",
+      "start": 0,
+      "end": 4095,
+      "status": 206,
+      "contentRange": "bytes 0-4095/21585859",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-40.mp4",
+      "start": 10792929,
+      "end": 10797024,
+      "status": 206,
+      "contentRange": "bytes 10792929-10797024/21585859",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    },
+    {
+      "assetName": "lesson-40.mp4",
+      "start": 21581763,
+      "end": 21585858,
+      "status": 206,
+      "contentRange": "bytes 21581763-21585858/21585859",
+      "contentType": "application/octet-stream",
+      "responseBytes": 4096,
+      "finalHost": "release-assets.githubusercontent.com",
+      "bytesMatchLocal": true,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

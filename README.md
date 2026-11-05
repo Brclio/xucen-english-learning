@@ -1,5 +1,7 @@
 # 许岑的英语启蒙方法论 · 本地学习资料
 
+[在线学习](https://xucen-english-course.pages.dev) · [绘本书架](https://xucen-english-course.pages.dev/books.html) · [完整视频下载](https://github.com/Brclio/xucen-english-learning/releases/tag/course-v1)
+
 打开 [index.html](index.html) 即可进入学习网页，无需联网、安装依赖或启动服务器。
 
 ## 从 GitHub 取得完整课程
@@ -20,7 +22,7 @@ node scripts/restore_media.mjs
 
 ## Cloudflare 免费部署
 
-见 [CLOUDFLARE.md](CLOUDFLARE.md)。使用 Cloudflare Pages 纯静态站，无需 R2、Workers 或付费服务。构建命令为 `npm run build`，输出目录为 `dist`。线上版视频读取本仓库公开 Release 中的完整 MP4；音频、图片、封面及文字资料由 Pages 静态托管。构建只生成部署副本，现有离线网页、课程数据和本地媒体保持不变。
+见 [CLOUDFLARE.md](CLOUDFLARE.md)。Cloudflare Pages 已绑定本仓库的 `main` 分支，推送后自动拉取源码、构建并上线，无需手动上传。使用纯静态站，无需 R2、Workers 或付费服务。构建命令为 `npm run build`，输出目录为 `dist`。线上版视频读取本仓库公开 Release 中的完整 MP4；音频、图片、封面及文字资料由 Pages 静态托管。构建只生成部署副本，现有离线网页、课程数据和本地媒体保持不变。
 
 研究过程的机器转写、抽帧和源码证据保存在 [archive/](archive/README.md)。原始访问凭据只留在本机；提交的研究副本已脱敏，所有课程音视频保持原样。
 

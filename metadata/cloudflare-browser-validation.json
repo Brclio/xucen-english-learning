@@ -1,0 +1,119 @@
+{
+  "origin": "https://xucen-english-course.pages.dev",
+  "deploymentId": "ca83223a-4a60-480e-a047-1dd2d6f32f9e",
+  "sourceCommit": "1226c7d9245a97cc1b15d0dce4325c81b17f614f",
+  "browser": "Chrome for Testing 150",
+  "network": "Browser uses the existing local HTTPS proxy configured for this environment",
+  "videos": [
+    {
+      "lessonId": "v_673ab182e4b023c058a6547d",
+      "title": "00_先导",
+      "source": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/lesson-00.mp4",
+      "duration": 1041.670385,
+      "deepLinkTime": 120,
+      "initialTime": 120,
+      "playedTime": 120.505461,
+      "seekTarget": 360,
+      "seekPlayedTime": 360.469617,
+      "width": 1280,
+      "height": 720,
+      "crossorigin": null,
+      "error": null
+    },
+    {
+      "lessonId": "v_6768cc61e4b023c058bb970e",
+      "title": "20_I_Love_MY_New_Toy",
+      "source": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/lesson-20.mp4",
+      "duration": 135.859955,
+      "deepLinkTime": 30,
+      "initialTime": 30,
+      "playedTime": 30.433766,
+      "seekTarget": 90,
+      "seekPlayedTime": 90.452283,
+      "width": 1280,
+      "height": 720,
+      "crossorigin": null,
+      "error": null
+    },
+    {
+      "lessonId": "v_67a17a4fe4b0694ca05500a6",
+      "title": "40_The_Thank_You_Book",
+      "source": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/lesson-40.mp4",
+      "duration": 200.620408,
+      "deepLinkTime": 40,
+      "initialTime": 40,
+      "playedTime": 40.427009,
+      "seekTarget": 150,
+      "seekPlayedTime": 150.423433,
+      "width": 1280,
+      "height": 720,
+      "crossorigin": null,
+      "error": null
+    }
+  ],
+  "completed": true,
+  "updatedAt": "2026-11-05T13:26:24.135519+00:00",
+  "largeVideo": {
+    "bufferedRanges": [
+      [
+        664.046,
+        666.319819
+      ],
+      [
+        675.72,
+        678.525
+      ],
+      [
+        1262.787,
+        1329.412063
+      ]
+    ],
+    "crossorigin": null,
+    "currentTime": 1329.412063,
+    "decodedVideoFrames": 1541,
+    "duration": 1329.412063,
+    "error": null,
+    "height": 720,
+    "lessonId": "v_674f0836e4b0694c950c710b",
+    "playedRanges": [
+      [
+        666,
+        666.343039
+      ],
+      [
+        1272,
+        1329.412063
+      ]
+    ],
+    "readyState": 4,
+    "seeking": false,
+    "source": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/lesson-08.mp4",
+    "title": "08_读",
+    "width": 1280,
+    "deepLinkTime": 666,
+    "seekTarget": 1272,
+    "status": "network_limited_then_recovered",
+    "note": "The bounded automated seek check stalled at 1272.280047 seconds. Without a retry, the existing playback later recovered and reached the end at 1329.412063 seconds; the final played ranges and decoded frames below are direct browser observations.",
+    "recoveryEvidence": {
+      "observedAtFinalRead": true,
+      "currentTime": 1329.412063,
+      "playedRanges": [
+        [
+          666,
+          666.343039
+        ],
+        [
+          1272,
+          1329.412063
+        ]
+      ],
+      "decodedVideoFrames": 1541,
+      "readyState": 4,
+      "error": null
+    }
+  },
+  "allVideoChecksPassed": false,
+  "confirmedVideoPlaybackAndSeekCount": 3,
+  "limitation": "Browser media wait exceeded three bounded attempts: {'currentTime': 1272.280047, 'error': None, 'networkState': 2, 'playError': None, 'readyState': 2, 'seeking': False}",
+  "fullyValidatedVideoCount": 3
+}

@@ -1,0 +1,476 @@
+{
+  "checkedAt": "2026-11-05T13:27:31.688Z",
+  "productionUrl": "https://xucen-english-course.pages.dev",
+  "booksUrl": "https://xucen-english-course.pages.dev/books",
+  "browser": {
+    "engine": "Chrome",
+    "tool": "agent-browser",
+    "session": "cf-books-final-1ae53a67e6c3",
+    "explicitProxy": "http://127.0.0.1:7897",
+    "closed": true
+  },
+  "summary": {
+    "passed": true,
+    "checksPassed": 6,
+    "checksTotal": 6,
+    "coverCount": 44,
+    "uniqueCoverCount": 44,
+    "decodedCoverCount": 44,
+    "referenceCounts": [
+      4,
+      4,
+      26
+    ]
+  },
+  "checks": {
+    "all44UniqueCoversDecoded": true,
+    "references44426Visible": true,
+    "searchPreservesUncertainMatch": true,
+    "noHorizontalOverflow": true,
+    "clickedTimeLinkSeeksCorrectVideo": true,
+    "bookshelfAssetsSameOrigin": true
+  },
+  "covers": [
+    {
+      "complete": true,
+      "height": 613,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/my-friend-is-sad.jpg",
+      "src": "media/book-covers/my-friend-is-sad.jpg",
+      "width": 444
+    },
+    {
+      "complete": true,
+      "height": 611,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/today-i-will-fly.jpg",
+      "src": "media/book-covers/today-i-will-fly.jpg",
+      "width": 445
+    },
+    {
+      "complete": true,
+      "height": 613,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/there-is-a-bird-on-your-head.jpg",
+      "src": "media/book-covers/there-is-a-bird-on-your-head.jpg",
+      "width": 447
+    },
+    {
+      "complete": true,
+      "height": 602,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-am-invited-to-a-party.jpg",
+      "src": "media/book-covers/i-am-invited-to-a-party.jpg",
+      "width": 439
+    },
+    {
+      "complete": true,
+      "height": 598,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-love-my-new-toy.jpg",
+      "src": "media/book-covers/i-love-my-new-toy.jpg",
+      "width": 435
+    },
+    {
+      "complete": true,
+      "height": 599,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-will-surprise-my-friend.jpg",
+      "src": "media/book-covers/i-will-surprise-my-friend.jpg",
+      "width": 436
+    },
+    {
+      "complete": true,
+      "height": 605,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/are-you-ready-to-play-outside.jpg",
+      "src": "media/book-covers/are-you-ready-to-play-outside.jpg",
+      "width": 442
+    },
+    {
+      "complete": true,
+      "height": 612,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/watch-me-throw-the-ball.jpg",
+      "src": "media/book-covers/watch-me-throw-the-ball.jpg",
+      "width": 444
+    },
+    {
+      "complete": true,
+      "height": 600,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/elephants-cannot-dance.jpg",
+      "src": "media/book-covers/elephants-cannot-dance.jpg",
+      "width": 437
+    },
+    {
+      "complete": true,
+      "height": 600,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/pigs-make-me-sneeze.jpg",
+      "src": "media/book-covers/pigs-make-me-sneeze.jpg",
+      "width": 438
+    },
+    {
+      "complete": true,
+      "height": 600,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-am-going.jpg",
+      "src": "media/book-covers/i-am-going.jpg",
+      "width": 422
+    },
+    {
+      "complete": true,
+      "height": 600,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/can-i-play-too.jpg",
+      "src": "media/book-covers/can-i-play-too.jpg",
+      "width": 417
+    },
+    {
+      "complete": true,
+      "height": 597,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/we-are-in-a-book.jpg",
+      "src": "media/book-covers/we-are-in-a-book.jpg",
+      "width": 436
+    },
+    {
+      "complete": true,
+      "height": 610,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-broke-my-trunk.jpg",
+      "src": "media/book-covers/i-broke-my-trunk.jpg",
+      "width": 444
+    },
+    {
+      "complete": true,
+      "height": 2789,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/should-i-share-my-ice-cream.jpg",
+      "src": "media/book-covers/should-i-share-my-ice-cream.jpg",
+      "width": 2025
+    },
+    {
+      "complete": true,
+      "height": 589,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/happy-pig-day.jpg",
+      "src": "media/book-covers/happy-pig-day.jpg",
+      "width": 425
+    },
+    {
+      "complete": true,
+      "height": 2560,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/listen-to-my-trumpet.jpg",
+      "src": "media/book-covers/listen-to-my-trumpet.jpg",
+      "width": 1860
+    },
+    {
+      "complete": true,
+      "height": 610,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/lets-go-for-a-drive.jpg",
+      "src": "media/book-covers/lets-go-for-a-drive.jpg",
+      "width": 446
+    },
+    {
+      "complete": true,
+      "height": 2560,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/a-big-guy-took-my-ball.jpg",
+      "src": "media/book-covers/a-big-guy-took-my-ball.jpg",
+      "width": 1862
+    },
+    {
+      "complete": true,
+      "height": 611,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/im-a-frog.jpg",
+      "src": "media/book-covers/im-a-frog.jpg",
+      "width": 446
+    },
+    {
+      "complete": true,
+      "height": 611,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/my-new-friend-is-so-fun.jpg",
+      "src": "media/book-covers/my-new-friend-is-so-fun.jpg",
+      "width": 445
+    },
+    {
+      "complete": true,
+      "height": 610,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/waiting-is-not-easy.jpg",
+      "src": "media/book-covers/waiting-is-not-easy.jpg",
+      "width": 446
+    },
+    {
+      "complete": true,
+      "height": 600,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-will-take-a-nap.jpg",
+      "src": "media/book-covers/i-will-take-a-nap.jpg",
+      "width": 422
+    },
+    {
+      "complete": true,
+      "height": 750,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/i-really-like-slop.jpg",
+      "src": "media/book-covers/i-really-like-slop.jpg",
+      "width": 559
+    },
+    {
+      "complete": true,
+      "height": 2775,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/the-thank-you-book.jpg",
+      "src": "media/book-covers/the-thank-you-book.jpg",
+      "width": 2025
+    },
+    {
+      "complete": true,
+      "height": 498,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-a-walk-in-the-park.webp",
+      "src": "media/book-covers/browne-a-walk-in-the-park.webp",
+      "width": 405
+    },
+    {
+      "complete": true,
+      "height": 1225,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-changes.webp",
+      "src": "media/book-covers/browne-changes.webp",
+      "width": 976
+    },
+    {
+      "complete": true,
+      "height": 301,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-willys-pictures.webp",
+      "src": "media/book-covers/browne-willys-pictures.webp",
+      "width": 260
+    },
+    {
+      "complete": true,
+      "height": 3020,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-my-mum.webp",
+      "src": "media/book-covers/browne-my-mum.webp",
+      "width": 2500
+    },
+    {
+      "complete": true,
+      "height": 3019,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-my-brother.webp",
+      "src": "media/book-covers/browne-my-brother.webp",
+      "width": 2500
+    },
+    {
+      "complete": true,
+      "height": 500,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-zoo.webp",
+      "src": "media/book-covers/browne-zoo.webp",
+      "width": 384
+    },
+    {
+      "complete": true,
+      "height": 648,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-little-beauty.webp",
+      "src": "media/book-covers/browne-little-beauty.webp",
+      "width": 569
+    },
+    {
+      "complete": true,
+      "height": 1653,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/browne-my-dad.webp",
+      "src": "media/book-covers/browne-my-dad.webp",
+      "width": 1369
+    },
+    {
+      "complete": true,
+      "height": 450,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/put-me-in-the-zoo.jpg",
+      "src": "media/book-covers/put-me-in-the-zoo.jpg",
+      "width": 324
+    },
+    {
+      "complete": true,
+      "height": 450,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/a-fly-went-by.jpg",
+      "src": "media/book-covers/a-fly-went-by.jpg",
+      "width": 328
+    },
+    {
+      "complete": true,
+      "height": 450,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/big-purple-book.jpg",
+      "src": "media/book-covers/big-purple-book.jpg",
+      "width": 327
+    },
+    {
+      "complete": true,
+      "height": 320,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/very-hungry-caterpillar.jpg",
+      "src": "media/book-covers/very-hungry-caterpillar.jpg",
+      "width": 450
+    },
+    {
+      "complete": true,
+      "height": 500,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/spot-goes-to-school.jpg",
+      "src": "media/book-covers/spot-goes-to-school.jpg",
+      "width": 510
+    },
+    {
+      "complete": true,
+      "height": 500,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/spot-goes-to-the-farm.jpg",
+      "src": "media/book-covers/spot-goes-to-the-farm.jpg",
+      "width": 511
+    },
+    {
+      "complete": true,
+      "height": 500,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/spot-stays-overnight.jpg",
+      "src": "media/book-covers/spot-stays-overnight.jpg",
+      "width": 488
+    },
+    {
+      "complete": true,
+      "height": 500,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/spot-goes-on-holiday.jpg",
+      "src": "media/book-covers/spot-goes-on-holiday.jpg",
+      "width": 512
+    },
+    {
+      "complete": true,
+      "height": 1058,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/maisy-goes-to-bed.jpg",
+      "src": "media/book-covers/maisy-goes-to-bed.jpg",
+      "width": 1054
+    },
+    {
+      "complete": true,
+      "height": 183,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/love-you-forever.jpg",
+      "src": "media/book-covers/love-you-forever.jpg",
+      "width": 181
+    },
+    {
+      "complete": true,
+      "height": 500,
+      "resolvedSrc": "https://xucen-english-course.pages.dev/media/book-covers/my-car.jpg",
+      "src": "media/book-covers/my-car.jpg",
+      "width": 496
+    }
+  ],
+  "references": [
+    {
+      "count": 4,
+      "open": true,
+      "summary": "课程提及的系列4",
+      "titles": [
+        "Spot",
+        "Oxford Reading Tree",
+        "The Magic School Bus",
+        "My First Discoveries"
+      ],
+      "visibleArticles": 4
+    },
+    {
+      "count": 4,
+      "open": true,
+      "summary": "版本或书名待核实4",
+      "titles": [
+        "Little Red Riding Hood（小红帽，版本未确认）",
+        "A Big Mess（高置信候选）",
+        "字母绘本（书名未确认）",
+        "问答翻翻书（书名未确认）"
+      ],
+      "visibleArticles": 4
+    },
+    {
+      "count": 26,
+      "open": true,
+      "summary": "课程中的其他阅读参考26",
+      "titles": [
+        "Diary of a Wimpy Kid",
+        "Dog Man",
+        "Captain Underpants",
+        "Goosebumps",
+        "The Notebook of Doom",
+        "Dragon Masters",
+        "The Wonderful Wizard of Oz",
+        "Harry Potter",
+        "Unicorn vs. Goblins",
+        "Magic Tree House",
+        "The Adventures of Tintin",
+        "The Little Prince",
+        "Adventure Bible",
+        "Minecraft 相关书",
+        "Charles Dickens / Bob Dylan / Albert Einstein / Bruce Lee 人物传记",
+        "DK 百科与主题参考书",
+        "LEGO Star Wars: The Visual Dictionary",
+        "Shakespeare for Kids / Shakespeare改写读物",
+        "Pablo诗集（完整题名未确认）",
+        "Hamilton相关读物",
+        "I Want to Be a Producer",
+        "The Lion King剧场相关书",
+        "New Concept English（新概念英语）",
+        "孩子自创的妈妈/生日绘本",
+        "The Cat in the Hat 标识",
+        "The Lion King / Frozen / Shrek / Toy Story / Peppa Pig / Miffy / Angelina等"
+      ],
+      "visibleArticles": 26
+    }
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentWidth": 1440,
+      "bodyWidth": null,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 812,
+      "documentWidth": 320,
+      "bodyWidth": 320,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "bodyWidth": 390,
+      "overflow": false
+    }
+  ],
+  "search": {
+    "confirmedCards": 0,
+    "deepLink": "https://xucen-english-course.pages.dev/index.html#lesson=v_674f0836e4b0694c950c710b&t=1272",
+    "emptyHeading": "已确认绘本中没有匹配项",
+    "query": "Little Red",
+    "scrollWidth": 390,
+    "uncertainTitles": [
+      "Little Red Riding Hood（小红帽，版本未确认）"
+    ],
+    "uncertainVisible": 1,
+    "width": 390
+  },
+  "deepLink": {
+    "action": "Clicked actual book-reference lesson pill using browser accessibility ref; did not manually assign video currentTime or call play().",
+    "clickedHref": "https://xucen-english-course.pages.dev/index.html#lesson=v_674f0836e4b0694c950c710b&t=1272",
+    "result": {
+      "lessonHeading": "08_读",
+      "title": "许岑的英语启蒙方法论 · 在线学习室",
+      "url": "https://xucen-english-course.pages.dev/#lesson=v_674f0836e4b0694c950c710b",
+      "video": {
+        "crossOriginProperty": null,
+        "crossoriginAttribute": null,
+        "currentSrc": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/lesson-08.mp4",
+        "currentTime": 1272,
+        "duration": 1329.412063,
+        "error": null,
+        "paused": true,
+        "readyState": 4,
+        "src": "https://github.com/Brclio/xucen-english-learning/releases/download/course-v1/lesson-08.mp4"
+      }
+    }
+  },
+  "bookshelfResourceOrigins": [
+    "https://xucen-english-course.pages.dev"
+  ],
+  "screenshots": [
+    {
+      "path": "metadata/cloudflare-pages-books.png",
+      "width": 1440,
+      "height": 1000,
+      "visuallyInspected": true
+    },
+    {
+      "path": "metadata/cloudflare-pages-mobile.png",
+      "width": 390,
+      "height": 844,
+      "visuallyInspected": true
+    }
+  ],
+  "scope": "Read-only public-site browser verification; no source edits or account operations. Only runtime loading=eager was set for cover decoding. Video was inspected after a genuine time-link click and stayed paused."
+}

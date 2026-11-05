@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:01:00Z",
+  "updatedAt": "2026-11-05T13:29:39.939323+00:00",
   "project": "xucen-english-course",
   "productionUrl": "https://xucen-english-course.pages.dev",
   "source": {
@@ -16,12 +16,79 @@
     "rootDirectory": "",
     "nodeVersion": "22"
   },
-  "deploymentStatus": "waiting_for_source_push",
-  "deployment": null,
+  "deploymentStatus": "success",
+  "deployment": {
+    "id": "ca83223a-4a60-480e-a047-1dd2d6f32f9e",
+    "url": "https://ca83223a.xucen-english-course.pages.dev",
+    "environment": "production",
+    "stages": [
+      {
+        "name": "queued",
+        "started_on": "2026-11-05T13:09:13.563677Z",
+        "ended_on": "2026-11-05T13:09:13.570806Z",
+        "status": "success"
+      },
+      {
+        "name": "initialize",
+        "started_on": "2026-11-05T13:09:13.570806Z",
+        "ended_on": "2026-11-05T13:09:15.558195Z",
+        "status": "success"
+      },
+      {
+        "name": "clone_repo",
+        "started_on": "2026-11-05T13:09:15.558195Z",
+        "ended_on": "2026-11-05T13:10:10.983468Z",
+        "status": "success"
+      },
+      {
+        "name": "build",
+        "started_on": "2026-11-05T13:10:10.983468Z",
+        "ended_on": "2026-11-05T13:10:23.502675Z",
+        "status": "success"
+      },
+      {
+        "name": "deploy",
+        "started_on": "2026-11-05T13:10:23.502675Z",
+        "ended_on": "2026-11-05T13:10:31.771542Z",
+        "status": "success"
+      }
+    ],
+    "deployment_trigger": {
+      "type": "github:push",
+      "metadata": {
+        "branch": "main",
+        "commit_hash": "1226c7d9245a97cc1b15d0dce4325c81b17f614f",
+        "commit_message": "Finalize Git-connected Pages deployment and byte-preservation verification",
+        "commit_dirty": false
+      }
+    },
+    "uses_functions": false
+  },
   "localAssetUploadUsedForThisProject": false,
   "customDomainConfigured": false,
   "dnsModified": false,
   "runtime": "static-pages",
   "r2Used": false,
-  "functionsConfigured": false
+  "functionsConfigured": false,
+  "functionsUsed": false,
+  "remoteBrowserVerification": {
+    "status": "completed_with_documented_network_limitation",
+    "fullyValidatedVideos": 3,
+    "largeVideo": "initially buffered during bounded seek check; later recovered and played to the end without retry",
+    "videoReport": "metadata/cloudflare-browser-validation.json",
+    "bookReport": "metadata/cloudflare-books-browser-validation.json",
+    "httpReport": "metadata/cloudflare-http-validation.json",
+    "desktopScreenshot": "metadata/cloudflare-pages-desktop.png",
+    "booksScreenshot": "metadata/cloudflare-pages-books.png",
+    "mobileScreenshot": "metadata/cloudflare-pages-mobile.png"
+  },
+  "legacyDirectUploadCleanup": {
+    "project": "xucen-english-learning",
+    "deleted": true,
+    "deletedAt": "2026-11-05T13:29:39.939304+00:00",
+    "sourceWasNull": true,
+    "domainsWereOnlyDefault": true,
+    "confirmedCreatedInThisTask": true,
+    "gitProjectUnaffected": true
+  }
 }
