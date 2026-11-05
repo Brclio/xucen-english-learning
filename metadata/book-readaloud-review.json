@@ -1,0 +1,471 @@
+{
+  "lessons": [
+    {
+      "lessonId": "v_675db494e4b023c058b6ca9e",
+      "title": "16_My_Friend_Is_Sad",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "1ab7e0e5d543346087f26e1119cc6636b1aa2cffc880e762f67d6f8003eb6017",
+          "segments": 48
+        },
+        {
+          "mode": "en",
+          "sha256": "c47869c15315952ce7ae07a5c06ff7a02dda01264d8d6c5f8b5a06b908c34e7e",
+          "segments": 47
+        }
+      ]
+    },
+    {
+      "lessonId": "v_675fb7fce4b0694c9514aede",
+      "title": "17_Today_I_Will_Fly",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "588b3b66c6556bd7ba0289811431e97687d75af7a744c22ceb20eae3e4d3174e",
+          "segments": 58
+        },
+        {
+          "mode": "en",
+          "sha256": "dcc0bb4f25ff55a124331b7d46070f62b1fb6b4b69126f5fd492e7da43d59802",
+          "segments": 45
+        }
+      ]
+    },
+    {
+      "lessonId": "v_67625167e4b0694c3c7cc19e",
+      "title": "18_There_Is_A_Bird_On_Your_Head",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "b482b74b691dd28c2ef3627ac2f6b1870a96ee45ea279f915baa0a917f4fb3ff",
+          "segments": 43
+        },
+        {
+          "mode": "en",
+          "sha256": "7564d58fd13e5a71da1113b2f6bb3c646b511d0d64e382a57cf2ea2cee3b72e1",
+          "segments": 37
+        }
+      ]
+    },
+    {
+      "lessonId": "v_676852c1e4b0694c3c7f29f8",
+      "title": "19_I_Am_Invited_to_a_Party",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "8c5f7bacbd42e58bc433d16567cadc706b4500dc99b252f0120ae75ddd4deebb",
+          "segments": 52
+        },
+        {
+          "mode": "en",
+          "sha256": "671ae2b0a4f01255734da06882dbd4536565d638f1bc46f89cfa1a99a253aeb9",
+          "segments": 47
+        }
+      ]
+    },
+    {
+      "lessonId": "v_6768cc61e4b023c058bb970e",
+      "title": "20_I_Love_MY_New_Toy",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "e2a047ec2647de204fcea1b98a691f0c91933475a328da0c9a36dc7a37e0678a",
+          "segments": 22
+        },
+        {
+          "mode": "en",
+          "sha256": "416f7a144ce5378e813dabbd0697254913403db1b98a087506b3dbcd7c63fc91",
+          "segments": 48
+        }
+      ]
+    },
+    {
+      "lessonId": "v_6769b463e4b023c058bc3911",
+      "title": "21_I_Will_Surprise_My_Friend",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "5e445e084d02367edc98894b442ae0cc32330224c2438d6023445a81699aea27",
+          "segments": 44
+        },
+        {
+          "mode": "en",
+          "sha256": "ffd29e6d18e5d6ea49dbed56528fad9600f2f66670760a273a15559b37bf389b",
+          "segments": 39
+        }
+      ]
+    },
+    {
+      "lessonId": "v_676b8bfbe4b0694c951ade5c",
+      "title": "22_Are_You_Ready_to_Plasy_Outside",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "f445bfad9190fc56778eec080c560f6781ba4e8833dd883e275d0ac795a41e24",
+          "segments": 52
+        },
+        {
+          "mode": "en",
+          "sha256": "f795b7a21c62a558ed83baf94fa3d01f68d249398dee44a3ddab623e2557f51f",
+          "segments": 43
+        }
+      ]
+    },
+    {
+      "lessonId": "v_6774b989e4b0694c951f3120",
+      "title": "23_Watch_Me_Throw_the_Ball",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "163d145031ed759c1aa7b2ca6b64d061fd70b8e6956ac52984a99b51c931d3eb",
+          "segments": 126
+        },
+        {
+          "mode": "en",
+          "sha256": "5e2d53b67a12e37f098680b78e5ad5e6d4d2f6b625c67ed01af70237011d14ab",
+          "segments": 111
+        }
+      ]
+    },
+    {
+      "lessonId": "v_6776a946e4b0694c3c855096",
+      "title": "24_Elephant_Cannot_Dance",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "e6effd2a9e2f387b5b1a69ea77c189fbdc918ed55b0203011fd17ebc9763dd8f",
+          "segments": 104
+        },
+        {
+          "mode": "en",
+          "sha256": "3d91faff6751abe11c118b0b6d93a12b3f70e4a706f13af4ba24c3bf42e9dd30",
+          "segments": 94
+        }
+      ]
+    },
+    {
+      "lessonId": "v_67773751e4b023c058c21266",
+      "title": "25_Pigs_Make_Me_Sneeze",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "1034e6f21534441f5aa1bbd1a244d0582c116d10641e609306a2b1b1582159f6",
+          "segments": 49
+        },
+        {
+          "mode": "en",
+          "sha256": "9a85084dcd5536192a70108dea555403f597bfe7bf03273eb468320d45155adf",
+          "segments": 47
+        }
+      ]
+    },
+    {
+      "lessonId": "v_6779a952e4b0694c3c8670e0",
+      "title": "26_I_Am_Going",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "49c0f415844c097148b19aefad552438afa5f737172cbc236ab42eccd9bb6a7a",
+          "segments": 29
+        },
+        {
+          "mode": "en",
+          "sha256": "0df8efecd0518350c57db9ff78c4dda73f931fb19aae40162dbcf152398fde77",
+          "segments": 38
+        }
+      ]
+    },
+    {
+      "lessonId": "v_6780971de4b092c1697eff29",
+      "title": "27_Can_I_Play_Too",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "95baeb79b58b5c5a09de3aef93ffadbdb578f9810cb1cb4e9f3ac951207728e3",
+          "segments": 42
+        },
+        {
+          "mode": "en",
+          "sha256": "9b3b23a1e3dfcc77dbc6ce7e9dfb81831b5154f07a1e9faa692c402746feffc0",
+          "segments": 59
+        }
+      ]
+    },
+    {
+      "lessonId": "v_678b215ae4b0694c5a83e8e0",
+      "title": "28_We_Are_in_a_Book",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "d29835eedc82a54628ac64e8ca89ddb827048d11f1d4fc5ab00bea58b2119acb",
+          "segments": 64
+        },
+        {
+          "mode": "en",
+          "sha256": "8e751bd155b41c94106a23d3ec0dfdbe6fc99b0ca843fc4a5b631471443e9278",
+          "segments": 55
+        }
+      ]
+    },
+    {
+      "lessonId": "v_678c02d9e4b0694ca04cd796",
+      "title": "29_I_Broke_My_Trunk",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "ee321882db323475951697d79c6441ca299d9508feacff37b13e12ecc4a0b738",
+          "segments": 53
+        },
+        {
+          "mode": "en",
+          "sha256": "d79348a9e7a88cb68957bc63bae9547f8c45f7a5a8367c929c7ec1d8223b8365",
+          "segments": 44
+        }
+      ]
+    },
+    {
+      "lessonId": "v_678f13cbe4b0694ca04ee5af",
+      "title": "30_Should_I_Share_My_Ice_Cream",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "f164793347db9161af63fc51014cf60672ee5f63947d1acf2f51a0ee80d4b97e",
+          "segments": 53
+        },
+        {
+          "mode": "en",
+          "sha256": "37a64a0daa2a0652b4a63219f78f9b5d8e7a176e30f397e012d2cd7941098ac5",
+          "segments": 54
+        }
+      ]
+    },
+    {
+      "lessonId": "v_678f193fe4b0694c5a85ee8c",
+      "title": "31_Happy_Pig_Day",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "e91788205ed3c960092c1f4027a75f299e0c192e80aa7eb093de88f4aeeac3e7",
+          "segments": 76
+        },
+        {
+          "mode": "en",
+          "sha256": "8cfc66f76aa420d6b91f35a2843e881fea7a9502685a6bc7b1a1e1b2a72131c4",
+          "segments": 52
+        }
+      ]
+    },
+    {
+      "lessonId": "v_679af486e4b0694c5a89a0d1",
+      "title": "32_Listen_to_My_Trumpet",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "da05f2bfd24150d79219a7b7f4c0e35026aa60916a35581410824887cb411965",
+          "segments": 56
+        },
+        {
+          "mode": "en",
+          "sha256": "c2593d4f1fd58b3d4178aa08321116acd88655d5cf3f504e49273f6693009b63",
+          "segments": 45
+        }
+      ]
+    },
+    {
+      "lessonId": "v_679afd8ce4b0694ca053b9be",
+      "title": "33_Let's_Go_for_a_Drive",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "612d6f2027ab4e90bb278cbe9635f3883c2a827a77c5fdc07bf2756e1b3f01e3",
+          "segments": 75
+        },
+        {
+          "mode": "en",
+          "sha256": "303b9d1107241cf2994b8f8bc10a8f0d922d50dbf63083faa4e4a768ef323320",
+          "segments": 68
+        }
+      ]
+    },
+    {
+      "lessonId": "v_679fa192e4b0694c5a8a40bd",
+      "title": "34_A_Big_Guy_Took_My_Ball",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "dd6885e8e51bd7e6ec090652ddf02535201a29c48cda205196c15ba96bf4d4ea",
+          "segments": 61
+        },
+        {
+          "mode": "en",
+          "sha256": "3074593a67a06febd919a58740258237b09f11ef427569835fd3f2d4429dbf30",
+          "segments": 59
+        }
+      ]
+    },
+    {
+      "lessonId": "v_679fa82be4b0694ca0549633",
+      "title": "35_I'm_a_Frog",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "c3b2f7c4c4a0df985f596367d9b0d9ad5bb07bd11e7f5bad413edb2f155f4380",
+          "segments": 84
+        },
+        {
+          "mode": "en",
+          "sha256": "bd73515f35302e152098106c231ac60b82be2523015256e1b78fe06ab6abd52f",
+          "segments": 83
+        }
+      ]
+    },
+    {
+      "lessonId": "v_679fc5dbe4b0694ca05497f9",
+      "title": "36_My_New_Friend_Is_So_Fun",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "3d39aeec77b48cc9bcbd153845e0541c2b91a9ff2d8b4d47a4b33831a3fb1d61",
+          "segments": 55
+        },
+        {
+          "mode": "en",
+          "sha256": "5b10eb236c17700e7b8be378318f53a8fb9442fee8998c1cf828dea99a4f9777",
+          "segments": 53
+        }
+      ]
+    },
+    {
+      "lessonId": "v_67a12eb2e4b0694ca054f496",
+      "title": "37_Waiting_Is_Not_Easy",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "972db2c52d63a0f31be1ec280251f1698f7bcb888d8770e2c7899558f43a5d7b",
+          "segments": 57
+        },
+        {
+          "mode": "en",
+          "sha256": "49b6f4c9c8201fb833d5b7ff03a7b6f0eb9a6a58f4a6180a04274d1e2b5378f4",
+          "segments": 37
+        }
+      ]
+    },
+    {
+      "lessonId": "v_67a13a19e4b0694ca054f50c",
+      "title": "38_I_Will_Take_a_Nap",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "7b4a47ca120184b7cd8ef7a24ebb1d61c939820bcda1a418cc634baca8fee727",
+          "segments": 85
+        },
+        {
+          "mode": "en",
+          "sha256": "b667687d200b5ce3bf94171268685544a8d379f3bc7c193b7c622d1308695159",
+          "segments": 72
+        }
+      ]
+    },
+    {
+      "lessonId": "v_67a148a1e4b0694c5a8a875b",
+      "title": "39_I_Really_Like_Slop",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "51048a60806f4f5b8e2398e28117eaa896f2d3f014f99ebf523d790f467a5c6b",
+          "segments": 44
+        },
+        {
+          "mode": "en",
+          "sha256": "fdaf42c9f76577b8513bc7e7f04ffe9f38355b168153ba82a0cf669d10a94a34",
+          "segments": 50
+        }
+      ]
+    },
+    {
+      "lessonId": "v_67a17a4fe4b0694ca05500a6",
+      "title": "40_The_Thank_You_Book",
+      "reviewed": true,
+      "method": "Read complete Chinese-mode and English-mode machine transcripts; book title corroborated by course title. ASR repetitions and mistranslations are not accepted as evidence.",
+      "transcriptEvidence": [
+        {
+          "mode": "zh",
+          "sha256": "5f512b47e34946e434066a2e6f82dc1cdbde170e823f0a3aa67d90ed3cc2ed19",
+          "segments": 111
+        },
+        {
+          "mode": "en",
+          "sha256": "2a358de8ece324fbdaf17fe1d87ccb7b669061bfb9507cc62ee8c3239dc2bf7b",
+          "segments": 70
+        }
+      ]
+    }
+  ],
+  "additionalReferences": [
+    {
+      "lessonId": "v_676b8bfbe4b0694c951ade5c",
+      "title": "Spot",
+      "kind": "series",
+      "time": 127.2,
+      "quote": "Can you help her with Spot books?"
+    }
+  ],
+  "excludedFictionalReferences": [
+    {
+      "lessonId": "v_6776a946e4b0694c3c855096",
+      "title": "What elephants can do",
+      "reason": "Fictional in-story book, not an independent verified publication."
+    }
+  ],
+  "limitations": "Review aids are machine transcripts, not an official transcript or proof that every spoken word was recognized. Only positive confirmed references are added."
+}

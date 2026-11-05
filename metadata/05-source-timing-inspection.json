@@ -1,0 +1,36 @@
+{
+  "source": {
+    "frames": 16851,
+    "nonmonotonic": [
+      {
+        "frame": 9026,
+        "time": 361.28,
+        "previous": 361.28
+      }
+    ],
+    "first": {
+      "best_effort_timestamp_time": "0.280000"
+    },
+    "last": {
+      "best_effort_timestamp_time": "674.240000"
+    },
+    "decodeErrors": ""
+  },
+  "mp4": {
+    "frames": 16851,
+    "nonmonotonic": [
+      {
+        "frame": 9026,
+        "time": 360.806,
+        "previous": 361.006
+      }
+    ],
+    "first": {
+      "best_effort_timestamp_time": "0.006000"
+    },
+    "last": {
+      "best_effort_timestamp_time": "673.966000"
+    },
+    "decodeErrors": ""
+  }
+}

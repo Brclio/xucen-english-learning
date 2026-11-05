@@ -1,0 +1,23 @@
+{
+  "courseResourceId": "v_674d33cee4b0694c950b2c81",
+  "reason": "Source has two distinct keyframes with identical PTS and DTS; both frames preserved.",
+  "changedPacketZeroBased": 9026,
+  "timestampAdjustmentSeconds": 0.02,
+  "videoFramesBefore": 16851,
+  "videoFramesAfter": 16851,
+  "nonmonotonicDecodedFramesAfter": 0,
+  "streamPayloadsUnchanged": true,
+  "streamDigests": {
+    "0": {
+      "packets": 16851,
+      "orderedPayloadSha256": "119d93afb25d6cd900fc53808c911a27450aa7d2a3770b20c91055c4d556b427"
+    },
+    "1": {
+      "packets": 29032,
+      "orderedPayloadSha256": "47c7ddc2ae1e4c3348b0db43d30affe66059e384766d170400b29035a3256028"
+    }
+  },
+  "reencoded": false,
+  "durationUnchanged": true,
+  "validation": "Full video/audio decode with passthrough and output timebase 1/90000: zero errors"
+}

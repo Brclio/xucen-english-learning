@@ -1,0 +1,1698 @@
+{
+  "lessons": {
+    "v_67475a5de4b023c058ac7309": {
+      "path": "media/videos/01_母语.mp4",
+      "bytes": 52118499,
+      "sha256": "9c2698ec39b0251bd36798eb10f763147d306a61e2bf17d93b872d127c9af347",
+      "media": {
+        "duration": 575.204717,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 724868,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "590115"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 575.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46gyfmd096r/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_673ab182e4b023c058a6547d": {
+      "path": "media/videos/00_先导.mp4",
+      "bytes": 96303962,
+      "sha256": "9863bb26d500fd542d5f843a37c5510b0eb48f4620129d7f1a97b02e7c33f80b",
+      "media": {
+        "duration": 1041.670385,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 739611,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "604810"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 1042.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67475b5ae4b0694c95087f14": {
+      "path": "media/videos/02_无痛和有痛.mp4",
+      "bytes": 67303189,
+      "sha256": "14d62c21ba9d66004e0a7154b3c5c57e867a9cec9a166ec88a443d451476ac13",
+      "media": {
+        "duration": 726.738141,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 740879,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "606071"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 727.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m40a8hsr0id9/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_674d2cb1e4b023c058aecfdd": {
+      "path": "media/videos/03_兴趣.mp4",
+      "bytes": 96489325,
+      "sha256": "c26c81e9e14d82e38d7be6c6024876d4984a8e954ead0a3e2e712fb339a1b01d",
+      "media": {
+        "duration": 1042.831383,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 740210,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "605403"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 1043.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46h3z1401w9/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_674d2e2ee4b0694c3c7251f3": {
+      "path": "media/videos/04_对父母的挑战.mp4",
+      "bytes": 63633758,
+      "sha256": "21a35030140ea1561c424716f52f58f997284aaa6e183e195f16f1526355d92c",
+      "media": {
+        "duration": 684.268844,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 743962,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "609174"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 684.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46hjiqi0zwj/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_674d33cee4b0694c950b2c81": {
+      "path": "media/videos/05_听说读写的顺序.mp4",
+      "bytes": 96707576,
+      "sha256": "a8ab37bf24c34acca59364e44cce639a8fe88365f815707308ed0160ff80a7df",
+      "media": {
+        "duration": 674.121723,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1147657,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "1027413"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "114000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 674.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux",
+      "timingRepair": {
+        "courseResourceId": "v_674d33cee4b0694c950b2c81",
+        "reason": "Source has two distinct keyframes with identical PTS and DTS; both frames preserved.",
+        "changedPacketZeroBased": 9026,
+        "timestampAdjustmentSeconds": 0.02,
+        "videoFramesBefore": 16851,
+        "videoFramesAfter": 16851,
+        "nonmonotonicDecodedFramesAfter": 0,
+        "streamPayloadsUnchanged": true,
+        "streamDigests": {
+          "0": {
+            "packets": 16851,
+            "orderedPayloadSha256": "119d93afb25d6cd900fc53808c911a27450aa7d2a3770b20c91055c4d556b427"
+          },
+          "1": {
+            "packets": 29032,
+            "orderedPayloadSha256": "47c7ddc2ae1e4c3348b0db43d30affe66059e384766d170400b29035a3256028"
+          }
+        },
+        "reencoded": false,
+        "durationUnchanged": true,
+        "validation": "Full video/audio decode with passthrough and output timebase 1/90000: zero errors"
+      }
+    },
+    "v_674d3511e4b0694c3c72563d": {
+      "path": "media/videos/06_听.mp4",
+      "bytes": 69632652,
+      "sha256": "dfa637d4783ef24a0c676c50702a611b5854e3eeace7133d913e6a437aeefbae",
+      "media": {
+        "duration": 753.162449,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 739629,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "604849"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 753.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46imqmr0ku5/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_674dd73ae4b0694c3c72dfdd": {
+      "path": "media/videos/07_说（唱）.mp4",
+      "bytes": 104536360,
+      "sha256": "5263df62b7345b468f5127dd1a665a8414744691dcfe0c55b8aa730214f101da",
+      "media": {
+        "duration": 949.905125,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 880394,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "745604"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 950.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4779wrr0g9v/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_674f0836e4b0694c950c710b": {
+      "path": "media/videos/08_读.mp4",
+      "bytes": 223574029,
+      "sha256": "821ee4246a41eb1c4081092407c1f41f3ff0ee064bddc1447bb68e80afe212a4",
+      "media": {
+        "duration": 1329.412063,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1345400,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "1210782"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 1329.0,
+      "sourceUrl": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/a56d9cbd1397757898625618345/drm/v.f421220.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_674fcfcde4b0694c3c73c697": {
+      "path": "media/videos/09_写（画）.mp4",
+      "bytes": 85523328,
+      "sha256": "ba5af2d565d3879a7f5f354d003b6bba24ad51bc7133c89fe1d0841764116571",
+      "media": {
+        "duration": 702.426848,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 974032,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "842755"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "125002",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 702.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/4ce15b3da2e9843f749793c82f38a597/cc1773fd1855366f1e3835baf6add5b3.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_675122b5e4b0694c3c747a50": {
+      "path": "media/videos/10_环境的营造.mp4",
+      "bytes": 75785197,
+      "sha256": "617e76c77f8d3b75d180ee112b51e001c8aba92379d14dc1e730f2acf677ee32",
+      "media": {
+        "duration": 829.718639,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 730707,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "595910"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 830.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4aqzv340cjb/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_675281f3e4b0694c3c753213": {
+      "path": "media/videos/11_许闻的书房.mp4",
+      "bytes": 153544067,
+      "sha256": "98655f062c567fd48f94ecebd205f4bcfbaf86e5ec3ba458f32c31162563ac7d",
+      "media": {
+        "duration": 860.32254,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1427781,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "1293250"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 860.0,
+      "sourceUrl": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/4a5f007e1397757898641661593/drm/v.f421220.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67568bf8e4b023c058b2f644": {
+      "path": "media/videos/12_许瞧的闺房.mp4",
+      "bytes": 143041359,
+      "sha256": "d4c73c2c914fb8f566e088e11d6968ef5f28f5733e3fd0d74a3df35aaeb50543",
+      "media": {
+        "duration": 1029.526349,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1111511,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "985183"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "120000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 1029.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/e0ed3dc419ff4a194d1179fa305736a1/76318b01953bf7bccb780e04e5226245.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux",
+      "timingRepair": {
+        "courseResourceId": "v_67568bf8e4b023c058b2f644",
+        "reason": "Source supplies distinct adjacent video packets with identical DTS. Both are retained; split the original decode interval equally; adjust PTS only if also duplicated.",
+        "packetAdjustments": [
+          {
+            "packet": 15056,
+            "ticks": 1800,
+            "ptsTicks": 1800,
+            "originalPts": 54223200,
+            "originalDts": 54198000
+          }
+        ],
+        "timebase": "1/90000",
+        "videoFrames": 25737,
+        "nonmonotonicDecodedFramesAfter": 0,
+        "streamPayloadsUnchanged": true,
+        "streamDigests": {
+          "0": {
+            "packets": 25737,
+            "orderedPayloadSha256": "56dc7a02434fd2838b01379591e1c5b2ae462fb774be6824dff67387bbfe80fb"
+          },
+          "1": {
+            "packets": 44338,
+            "orderedPayloadSha256": "647327ae69c1c385d86e2fe37671428bc184f52dbc4255496c775c770d64ee89"
+          }
+        },
+        "reencoded": false,
+        "durationUnchanged": true,
+        "validation": "Full video/audio decode with passthrough and output timebase 1/90000: zero errors"
+      }
+    },
+    "v_6757658ce4b0694c3c7757f0": {
+      "path": "media/videos/13_绘本的使用.mp4",
+      "bytes": 81425264,
+      "sha256": "5eea6a2bc00a0ce24658e1a3d5d6f5999f2b47aba2e0820ac902b7597f8559b7",
+      "media": {
+        "duration": 818.247982,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 796093,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "661274"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 818.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hk7atn02yd/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6757b5a9e4b0694c9510abb8": {
+      "path": "media/videos/14_大童的英语追赶.mp4",
+      "bytes": 108224427,
+      "sha256": "cbf40d3f10d34aea35c30648e0f86e1c97528b161f1b3d844ab1145fea3dc750",
+      "media": {
+        "duration": 945.286,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 915908,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "781141"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 945.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hv30n30943/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6758f107e4b0694c3c782feb": {
+      "path": "media/videos/15_成年人（父母）的最后一搏.mp4",
+      "bytes": 36222933,
+      "sha256": "69ef58abb5a0f61b9052dd647eaf1e1045ee497427c6216843b8ee1a2429b145",
+      "media": {
+        "duration": 445.521293,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 650436,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "515671"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 445.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4j704pm037j/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_675db494e4b023c058b6ca9e": {
+      "path": "media/videos/16_My_Friend_Is_Sad.mp4",
+      "bytes": 19770434,
+      "sha256": "02c36c88f6dca711ae669b8f0344c69d50bad4db7a73d82fb3a6c65e678dcc06",
+      "media": {
+        "duration": 177.586213,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 890629,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "770603"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "114013",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 177.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/5a4d26a1453283d4e3018ba45d77116e/83fe9e062d313a8d302df21f8800a9ed.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_675fb7fce4b0694c9514aede": {
+      "path": "media/videos/17_Today_I_Will_Fly.mp4",
+      "bytes": 13898370,
+      "sha256": "8de58a9ffc62c4c774be1b9e78ad68baeb3de9e2c77fc3eaa02ce05aaacf941c",
+      "media": {
+        "duration": 142.547302,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 780000,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "645384"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 142.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4qkr0qf0vuo/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67625167e4b0694c3c7cc19e": {
+      "path": "media/videos/18_There_Is_A_Bird_On_Your_Head.mp4",
+      "bytes": 13863711,
+      "sha256": "6a4f918f1a91a8e41624f46fc84ff678eff00812703707babd3ddfb388516fb4",
+      "media": {
+        "duration": 140.434286,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 789762,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "655173"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 140.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4tdytlo0qjl/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_676852c1e4b0694c3c7f29f8": {
+      "path": "media/videos/19_I_Am_Invited_to_a_Party.mp4",
+      "bytes": 14134746,
+      "sha256": "3a337d669a50074c1c55c318f3e4a83042f54f93dbf1adc8cca2763b36814199",
+      "media": {
+        "duration": 124.180317,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 910594,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "791740"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "113010",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 124.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/610f66bd2559638750df2c949444a51d/138ad0496ec05807daf3adad7389f27b.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6768cc61e4b023c058bb970e": {
+      "path": "media/videos/20_I_Love_MY_New_Toy.mp4",
+      "bytes": 13128562,
+      "sha256": "a8b9646089ee0cd67e94b7df65a44c912e4e316c0ae2d4b18a431f1ae7046d7b",
+      "media": {
+        "duration": 135.859955,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 773064,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "638386"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 136.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6769b463e4b023c058bc3911": {
+      "path": "media/videos/21_I_Will_Surprise_My_Friend.mp4",
+      "bytes": 17021846,
+      "sha256": "65f54261ec782de46281518f904b3703f1f53da653c1744b1fdc0f0922efae64",
+      "media": {
+        "duration": 146.912653,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 926909,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "792388"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 147.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m51eohhf0c9j/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_676b8bfbe4b0694c951ade5c": {
+      "path": "media/videos/22_Are_You_Ready_to_Plasy_Outside.mp4",
+      "bytes": 15926816,
+      "sha256": "6427ed6f3f518a63da2ccc95cc241057210f0aa1452bd32867e1bf57ebfe7d8d",
+      "media": {
+        "duration": 132.678821,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 960323,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "825897"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 133.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m53e6k590gza/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6774b989e4b0694c951f3120": {
+      "path": "media/videos/23_Watch_Me_Throw_the_Ball.mp4",
+      "bytes": 27031375,
+      "sha256": "a715882bde0172002678375d81dcd2cdee37abbfaa8cdabd5c610b0f2072b649",
+      "media": {
+        "duration": 306.294422,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 706023,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "571236"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 306.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5dccluz0pe0/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6776a946e4b0694c3c855096": {
+      "path": "media/videos/24_Elephant_Cannot_Dance.mp4",
+      "bytes": 26601329,
+      "sha256": "fe2125d32c0db6e3c3f53024d178b3fe71b24a6ec00db44696ad7202f3a46fd2",
+      "media": {
+        "duration": 246.317279,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 863969,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "743771"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "114000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 246.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/851706a67f95426c4c216a74cee8e872/c01f3ef4fdf7ec3a26f2fa3b54434aec.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67773751e4b023c058c21266": {
+      "path": "media/videos/25_Pigs_Make_Me_Sneeze.mp4",
+      "bytes": 15153992,
+      "sha256": "a8b18a55372286e27b099560016f47fbd61da85be842adffdb7020db2be32efd",
+      "media": {
+        "duration": 150.534966,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 805340,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "670698"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 150.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5g1qlbf0lxq/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6779a952e4b0694c3c8670e0": {
+      "path": "media/videos/26_I_Am_Going.mp4",
+      "bytes": 12604766,
+      "sha256": "783f982418b8660b7c4df49465fd1c3be5c586a856b7a46c1919b9be84f74239",
+      "media": {
+        "duration": 123.785578,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 814619,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "680026"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 124.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5ip59bc09yi/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_6780971de4b092c1697eff29": {
+      "path": "media/videos/27_Can_I_Play_Too.mp4",
+      "bytes": 12919612,
+      "sha256": "745764ff8ae3fb9c626409ed6a1aed9d8eff04f50ed491ec97e0c6b38a2664a0",
+      "media": {
+        "duration": 136.579773,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 756751,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "622079"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128007",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 137.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5q7938p0efb/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_678b215ae4b0694c5a83e8e0": {
+      "path": "media/videos/28_We_Are_in_a_Book.mp4",
+      "bytes": 23370552,
+      "sha256": "9205951ff314b858931e6380de97db6f1ae6d7054cd8dc3a7a3b71e09024d347",
+      "media": {
+        "duration": 169.993288,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1099834,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "965565"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 170.0,
+      "sourceUrl": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/efa809281397757902920890311/drm/v.f421220.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_678c02d9e4b0694ca04cd796": {
+      "path": "media/videos/29_I_Broke_My_Trunk.mp4",
+      "bytes": 21551904,
+      "sha256": "6e60e1de92af926aedcb02792a31a01d9c8df5ae206ac30e98871eb11a5c3cb6",
+      "media": {
+        "duration": 144.358458,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1194354,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "1060207"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 144.0,
+      "sourceUrl": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/1c4f96b71397757901578774263/drm/v.f421220.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_678f13cbe4b0694ca04ee5af": {
+      "path": "media/videos/30_Should_I_Share_My_Ice_Cream.mp4",
+      "bytes": 16527001,
+      "sha256": "0c8ead76cca833df1af55a8b6b714682964c85d70acfbe68c2d5308eeb208db7",
+      "media": {
+        "duration": 158.94059,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 831858,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "697200"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 159.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65wt9n90hga/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_678f193fe4b0694c5a85ee8c": {
+      "path": "media/videos/31_Happy_Pig_Day.mp4",
+      "bytes": 16579399,
+      "sha256": "505b68738486cc87d369df2e1585929d4ce1128f6d47e5ad599d1504a1986e59",
+      "media": {
+        "duration": 150.767166,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 879735,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "745231"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 151.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65xnv360yrp/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_679af486e4b0694c5a89a0d1": {
+      "path": "media/videos/32_Listen_to_My_Trumpet.mp4",
+      "bytes": 18036577,
+      "sha256": "bb41a50a1fc1b5aaeae165688181e9bec20a0ac3d446d8a2a56c13c63703e707",
+      "media": {
+        "duration": 159.590748,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 904141,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "769573"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 160.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6is84ng0su4/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_679afd8ce4b0694ca053b9be": {
+      "path": "media/videos/33_Let's_Go_for_a_Drive.mp4",
+      "bytes": 24104297,
+      "sha256": "c37d07fc29a3fd27572ff6da841a0b7fce654289e598f469c25ea0a66b89cbed",
+      "media": {
+        "duration": 202.408345,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 952699,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "833615"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "113002",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 202.0,
+      "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/d63fa96cb26ad31d14da7c8792ac3d60/4cb0b3edaa91d598ade8b8b8e94a34ac.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_679fa192e4b0694c5a8a40bd": {
+      "path": "media/videos/34_A_Big_Guy_Took_My_Ball.mp4",
+      "bytes": 18096838,
+      "sha256": "e49071fe997f25fb5f7f3e38c12a3786b19f8ad73d6f8c8995d82206a74ef9c3",
+      "media": {
+        "duration": 187.926,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 770381,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "635627"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 188.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nujm4e0ok8/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_679fa82be4b0694ca0549633": {
+      "path": "media/videos/35_I'm_a_Frog.mp4",
+      "bytes": 16971687,
+      "sha256": "8e67dc2eac31787c71e9ef94a96c66573b0391532aa614f108ecaf0befab0293",
+      "media": {
+        "duration": 165.604717,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 819864,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "685311"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 166.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nvls520tnj/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_679fc5dbe4b0694ca05497f9": {
+      "path": "media/videos/36_My_New_Friend_Is_So_Fun.mp4",
+      "bytes": 25453736,
+      "sha256": "e2a521731cb0c9c251014a32aba14f179420a98076cbce543374f55ad5bce26b",
+      "media": {
+        "duration": 161.309025,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 1262358,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "1128196"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 161.0,
+      "sourceUrl": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/2265c17b1397757904140400027/drm/v.f421220.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67a12eb2e4b0694ca054f496": {
+      "path": "media/videos/37_Waiting_Is_Not_Easy.mp4",
+      "bytes": 16371736,
+      "sha256": "123b4ab22e7787296b259d7bbe17304cb274e2be184bc79d7f2ad365c724251d",
+      "media": {
+        "duration": 155.898776,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 840121,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "705454"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 156.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pjbf7m0c2h/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67a13a19e4b0694ca054f50c": {
+      "path": "media/videos/38_I_Will_Take_a_Nap.mp4",
+      "bytes": 25870566,
+      "sha256": "449668d04d3b290757953108f4718868ba56919c254c02a78d67276b7bf719f1",
+      "media": {
+        "duration": 272.764807,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 758765,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "624064"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 273.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pkxtxi0488/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67a148a1e4b0694c5a8a875b": {
+      "path": "media/videos/39_I_Really_Like_Slop.mp4",
+      "bytes": 16936049,
+      "sha256": "a8216348cd243a9f378dfaa6f416918d9636c2facbc6cc8cd25d384e5ceb7d68",
+      "media": {
+        "duration": 143.33678,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 945245,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "810635"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 143.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pn8x5408gj/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    },
+    "v_67a17a4fe4b0694ca05500a6": {
+      "path": "media/videos/40_The_Thank_You_Book.mp4",
+      "bytes": 21585859,
+      "sha256": "4af67fd4cd40862b4b45622b6b2df0b95eefebabd69a171c92a296c58273394f",
+      "media": {
+        "duration": 200.620408,
+        "format": "mov,mp4,m4a,3gp,3g2,mj2",
+        "bitrate": 860764,
+        "streams": [
+          {
+            "codec_type": "video",
+            "codec_name": "h264",
+            "width": 1280,
+            "height": 720,
+            "bit_rate": "726091"
+          },
+          {
+            "codec_type": "audio",
+            "codec_name": "aac",
+            "bit_rate": "128000",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "width": 1280,
+        "height": 720
+      },
+      "quality": "720p",
+      "qualityLabel": "高清",
+      "exposedQualities": [
+        "720P"
+      ],
+      "selectionReason": "Highest exposed pixel count, then height, then bitrate.",
+      "expectedDuration": 201.0,
+      "sourceUrl": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+      "videoStatus": "downloaded",
+      "status": "downloaded",
+      "qualityVerification": "All 41 actual getPlayUrl A-line responses expose only 720p_hls and mp3; matches course video_urls.",
+      "encryption": "AES-128 HLS, authorized playlist key, lossless remux"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "v_673ab182e4b023c058a6547d",
+    "line": "B",
+    "code": 0,
+    "qualities": [
+      "mp3",
+      "720p_hls"
+    ],
+    "playKeys": [
+      "720p_hls",
+      "mp3"
+    ],
+    "variants": [
+      {
+        "key": "720p_hls",
+        "desc": "720p",
+        "encrypt_type": "normal",
+        "origin": "https://v-vod-k.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8"
+      },
+      {
+        "key": "mp3",
+        "desc": "mp3",
+        "encrypt_type": "normal",
+        "origin": "https://v-vod-k.h5.xed.plus/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/main.mp3"
+      }
+    ]
+  },
+  {
+    "id": "v_673ab182e4b023c058a6547d",
+    "line": "C",
+    "code": 0,
+    "qualities": [
+      "720p_hls",
+      "mp3"
+    ],
+    "playKeys": [
+      "720p_hls",
+      "mp3"
+    ],
+    "variants": [
+      {
+        "key": "720p_hls",
+        "desc": "720p",
+        "encrypt_type": "normal",
+        "origin": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8"
+      },
+      {
+        "key": "mp3",
+        "desc": "mp3",
+        "encrypt_type": "normal",
+        "origin": "https://htv-vod.h5.xed.plus/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/main.mp3"
+      }
+    ]
+  },
+  {
+    "id": "v_6768cc61e4b023c058bb970e",
+    "line": "B",
+    "code": 0,
+    "qualities": [
+      "720p_hls",
+      "mp3"
+    ],
+    "playKeys": [
+      "720p_hls",
+      "mp3"
+    ],
+    "variants": [
+      {
+        "key": "720p_hls",
+        "desc": "720p",
+        "encrypt_type": "normal",
+        "origin": "https://v-vod-k.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8"
+      },
+      {
+        "key": "mp3",
+        "desc": "mp3",
+        "encrypt_type": "normal",
+        "origin": "https://v-vod-k.h5.xed.plus/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/main.mp3"
+      }
+    ]
+  },
+  {
+    "id": "v_6768cc61e4b023c058bb970e",
+    "line": "C",
+    "code": 0,
+    "qualities": [
+      "720p_hls",
+      "mp3"
+    ],
+    "playKeys": [
+      "720p_hls",
+      "mp3"
+    ],
+    "variants": [
+      {
+        "key": "720p_hls",
+        "desc": "720p",
+        "encrypt_type": "normal",
+        "origin": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8"
+      },
+      {
+        "key": "mp3",
+        "desc": "mp3",
+        "encrypt_type": "normal",
+        "origin": "https://htv-vod.h5.xed.plus/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/main.mp3"
+      }
+    ]
+  },
+  {
+    "id": "v_67a17a4fe4b0694ca05500a6",
+    "line": "B",
+    "code": 0,
+    "qualities": [
+      "720p_hls",
+      "mp3"
+    ],
+    "playKeys": [
+      "720p_hls",
+      "mp3"
+    ],
+    "variants": [
+      {
+        "key": "720p_hls",
+        "desc": "720p",
+        "encrypt_type": "normal",
+        "origin": "https://v-vod-k.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8"
+      },
+      {
+        "key": "mp3",
+        "desc": "mp3",
+        "encrypt_type": "normal",
+        "origin": "https://v-vod-k.h5.xed.plus/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/main.mp3"
+      }
+    ]
+  },
+  {
+    "id": "v_67a17a4fe4b0694ca05500a6",
+    "line": "C",
+    "code": 0,
+    "qualities": [
+      "720p_hls",
+      "mp3"
+    ],
+    "playKeys": [
+      "720p_hls",
+      "mp3"
+    ],
+    "variants": [
+      {
+        "key": "720p_hls",
+        "desc": "720p",
+        "encrypt_type": "normal",
+        "origin": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8"
+      },
+      {
+        "key": "mp3",
+        "desc": "mp3",
+        "encrypt_type": "normal",
+        "origin": "https://htv-vod.h5.xed.plus/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/main.mp3"
+      }
+    ]
+  }
+]

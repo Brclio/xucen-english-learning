@@ -1,0 +1,758 @@
+[
+  {
+    "resourceId": "v_673ab182e4b023c058a6547d",
+    "routes": {
+      "hw": {
+        "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+        "status": 200,
+        "playlistBytes": 44987,
+        "isMaster": false,
+        "segments": 521,
+        "duration": 1041.6,
+        "headers": {
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Server": "openresty",
+          "Last-Modified": "Mon, 18 Nov 2024 03:23:52 GMT",
+          "Etag": "\"8026683d2e0d4b08cb82ff8780123592\""
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_0.ts",
+            "encryptedBytes": 161120,
+            "encryptedSHA256": "2a65822cb15d8e46acf2bf5ef20786fb1c450991a2991ac97efc2451371d9da7",
+            "plainSHA256": "239a53f1c573b5f8d3a2c80715983f339224511f9394121a6855cf27b275bcac",
+            "plainBytes": 161116,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 260,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_260.ts",
+            "encryptedBytes": 288960,
+            "encryptedSHA256": "dec42a3b1774a9b159dc8685b23292c8398af7875124af81b064c20e6f196370",
+            "plainSHA256": "1081d6bbf885df623b180bce255727042cc1c747dec02a816d66049a807bc8d2",
+            "plainBytes": 288956,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 520,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_520.ts",
+            "encryptedBytes": 145904,
+            "encryptedSHA256": "a60afc250753c8205b1473108b62c9c74ecab1a0e4dbc9225d07f995fcc276d6",
+            "plainSHA256": "ab43b3a325e341a45e78a0f0b8598210df4c72c1bf718b08a760ea5815588ffe",
+            "plainBytes": 145888,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      },
+      "zj": {
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+        "status": 200,
+        "playlistBytes": 44987,
+        "isMaster": false,
+        "segments": 521,
+        "duration": 1041.6,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Etag": "\"8026683d2e0d4b08cb82ff8780123592\"",
+          "Last-Modified": "Mon, 18 Nov 2024 03:23:52 GMT"
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_0.ts",
+            "encryptedBytes": 161120,
+            "encryptedSHA256": "2a65822cb15d8e46acf2bf5ef20786fb1c450991a2991ac97efc2451371d9da7",
+            "plainSHA256": "239a53f1c573b5f8d3a2c80715983f339224511f9394121a6855cf27b275bcac",
+            "plainBytes": 161116,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 260,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_260.ts",
+            "encryptedBytes": 288960,
+            "encryptedSHA256": "dec42a3b1774a9b159dc8685b23292c8398af7875124af81b064c20e6f196370",
+            "plainSHA256": "1081d6bbf885df623b180bce255727042cc1c747dec02a816d66049a807bc8d2",
+            "plainBytes": 288956,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 520,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_520.ts",
+            "encryptedBytes": 145904,
+            "encryptedSHA256": "a60afc250753c8205b1473108b62c9c74ecab1a0e4dbc9225d07f995fcc276d6",
+            "plainSHA256": "ab43b3a325e341a45e78a0f0b8598210df4c72c1bf718b08a760ea5815588ffe",
+            "plainBytes": 145888,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sameSamplePlainPayloads": true,
+    "sameSegmentCountAndDuration": true
+  },
+  {
+    "resourceId": "v_674d33cee4b0694c950b2c81",
+    "routes": {
+      "hw": {
+        "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+        "status": 200,
+        "playlistBytes": 36826,
+        "isMaster": false,
+        "segments": 336,
+        "duration": 674.0,
+        "headers": {
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Server": "openresty",
+          "Etag": "\"6e6c690da64755c8ec8c1ed773aac3af\"",
+          "Last-Modified": "Mon, 02 Dec 2024 04:15:40 GMT"
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_0.ts",
+            "encryptedBytes": 233312,
+            "encryptedSHA256": "2d0b39341884ec6498ecadfdf1669d68c78343c5398d997777a8a7430426a961",
+            "plainSHA256": "1a2a87472f8a53fff0f05f6d02db30f38561b513c3768f07ed06bf43bb6d9350",
+            "plainBytes": 233308,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "Main",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 168,
+            "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_168.ts",
+            "encryptedBytes": 506672,
+            "encryptedSHA256": "d550249861f0c6544f2f115998507f5341d33f896397ba2889d4e6bbf43f37fe",
+            "plainSHA256": "c57a94b59a8f722645a1a326d80584709d6d27735f755434fd480a76b49b8168",
+            "plainBytes": 506660,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "Main",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 335,
+            "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_335.ts",
+            "encryptedBytes": 298736,
+            "encryptedSHA256": "902eab8129442200575968a703579e1226b563aed9160d5476c2f4bb29790482",
+            "plainSHA256": "36ab7d9238e0c14480abb52378c75d639066eb4c4c3fff7819788197a1937633",
+            "plainBytes": 298732,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "Main",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      },
+      "zj": {
+        "url": "https://vth-vod.h5.xed.plus/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+        "status": 200,
+        "playlistBytes": 36826,
+        "isMaster": false,
+        "segments": 336,
+        "duration": 674.0,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Etag": "\"6e6c690da64755c8ec8c1ed773aac3af\"",
+          "Last-Modified": "Mon, 02 Dec 2024 04:15:40 GMT"
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://vth-vod.h5.xed.plus/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_0.ts",
+            "encryptedBytes": 233312,
+            "encryptedSHA256": "2d0b39341884ec6498ecadfdf1669d68c78343c5398d997777a8a7430426a961",
+            "plainSHA256": "1a2a87472f8a53fff0f05f6d02db30f38561b513c3768f07ed06bf43bb6d9350",
+            "plainBytes": 233308,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "Main",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 168,
+            "url": "https://vth-vod.h5.xed.plus/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_168.ts",
+            "encryptedBytes": 506672,
+            "encryptedSHA256": "d550249861f0c6544f2f115998507f5341d33f896397ba2889d4e6bbf43f37fe",
+            "plainSHA256": "c57a94b59a8f722645a1a326d80584709d6d27735f755434fd480a76b49b8168",
+            "plainBytes": 506660,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "Main",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 335,
+            "url": "https://vth-vod.h5.xed.plus/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_335.ts",
+            "encryptedBytes": 298736,
+            "encryptedSHA256": "902eab8129442200575968a703579e1226b563aed9160d5476c2f4bb29790482",
+            "plainSHA256": "36ab7d9238e0c14480abb52378c75d639066eb4c4c3fff7819788197a1937633",
+            "plainBytes": 298732,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "Main",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sameSamplePlainPayloads": true,
+    "sameSegmentCountAndDuration": true
+  },
+  {
+    "resourceId": "v_6768cc61e4b023c058bb970e",
+    "routes": {
+      "hw": {
+        "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+        "status": 200,
+        "playlistBytes": 6061,
+        "isMaster": false,
+        "segments": 68,
+        "duration": 135.8,
+        "headers": {
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Last-Modified": "Mon, 23 Dec 2024 02:36:29 GMT",
+          "Server": "openresty",
+          "Etag": "\"ab00ea08d24b3e000ac84b3b33ae29d1\""
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_0.ts",
+            "encryptedBytes": 292912,
+            "encryptedSHA256": "7d6ca004f122926d13bf096a4d99d4a8d0b68435cc183332cdd3356377ae633c",
+            "plainSHA256": "33bbb7a686c93edc071612b05db8c82d7d3dae51886e1b51c5ec388580ebd594",
+            "plainBytes": 292904,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 34,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_34.ts",
+            "encryptedBytes": 193840,
+            "encryptedSHA256": "33901d8fdf22afbecb76cbae328191682ba5a2c5a5ae2e139406755d86a7f16d",
+            "plainSHA256": "f0a0bb4fc688296e192d60ea3349257a25f3023d0fba9d0e10f0d5cd467b40de",
+            "plainBytes": 193828,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 67,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_67.ts",
+            "encryptedBytes": 188576,
+            "encryptedSHA256": "916ecef7d627b164a265ad21ee9b4b22ad9307534d8b6d8327a82e159a8586b8",
+            "plainSHA256": "60d7662281c430efe51fce61713c1272990a9c7add87a3f5f899786f1b22b745",
+            "plainBytes": 188564,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      },
+      "zj": {
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+        "status": 200,
+        "playlistBytes": 6061,
+        "isMaster": false,
+        "segments": 68,
+        "duration": 135.8,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Etag": "\"ab00ea08d24b3e000ac84b3b33ae29d1\"",
+          "Last-Modified": "Mon, 23 Dec 2024 02:36:29 GMT"
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_0.ts",
+            "encryptedBytes": 292912,
+            "encryptedSHA256": "7d6ca004f122926d13bf096a4d99d4a8d0b68435cc183332cdd3356377ae633c",
+            "plainSHA256": "33bbb7a686c93edc071612b05db8c82d7d3dae51886e1b51c5ec388580ebd594",
+            "plainBytes": 292904,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 34,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_34.ts",
+            "encryptedBytes": 193840,
+            "encryptedSHA256": "33901d8fdf22afbecb76cbae328191682ba5a2c5a5ae2e139406755d86a7f16d",
+            "plainSHA256": "f0a0bb4fc688296e192d60ea3349257a25f3023d0fba9d0e10f0d5cd467b40de",
+            "plainBytes": 193828,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 67,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_67.ts",
+            "encryptedBytes": 188576,
+            "encryptedSHA256": "916ecef7d627b164a265ad21ee9b4b22ad9307534d8b6d8327a82e159a8586b8",
+            "plainSHA256": "60d7662281c430efe51fce61713c1272990a9c7add87a3f5f899786f1b22b745",
+            "plainBytes": 188564,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sameSamplePlainPayloads": true,
+    "sameSegmentCountAndDuration": true
+  },
+  {
+    "resourceId": "v_67a17a4fe4b0694ca05500a6",
+    "routes": {
+      "hw": {
+        "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+        "status": 200,
+        "playlistBytes": 8868,
+        "isMaster": false,
+        "segments": 101,
+        "duration": 200.56,
+        "headers": {
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Server": "openresty",
+          "Last-Modified": "Tue, 04 Feb 2025 02:25:58 GMT",
+          "Etag": "\"e98b2bd90c5d2398d7e21341c5a07ca5\""
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_0.ts",
+            "encryptedBytes": 351952,
+            "encryptedSHA256": "879ffd8633727b92af7beefa083c6b3c614277af8ff7506f2d7de13ee83b2cae",
+            "plainSHA256": "b09c107fa746f153e4fbd19d4da87d3281f5a4fe385ab751f8519ec28463d830",
+            "plainBytes": 351936,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 50,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_50.ts",
+            "encryptedBytes": 275424,
+            "encryptedSHA256": "c05ca808eae5471080f8c988b01212809b88cbc0b3b1bb44ce785ecca0df225e",
+            "plainSHA256": "5913758df62e827794bab61207acbd382eaf050542c4dc591e02468674296e08",
+            "plainBytes": 275420,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 100,
+            "url": "https://htv-vod.h5.xed.plus/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_100.ts",
+            "encryptedBytes": 67120,
+            "encryptedSHA256": "6e20a46b3b0a4f9c2dd55d5b0d6a763e66d527c9e807488dbe13d5d8b679dfa0",
+            "plainSHA256": "b9ae1b4be20d1d11517e9c5466ca88ae8ae04fd30f6ee49db669a23956e8469b",
+            "plainBytes": 67116,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      },
+      "zj": {
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+        "status": 200,
+        "playlistBytes": 8868,
+        "isMaster": false,
+        "segments": 101,
+        "duration": 200.56,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Etag": "\"e98b2bd90c5d2398d7e21341c5a07ca5\"",
+          "Last-Modified": "Tue, 04 Feb 2025 02:25:58 GMT"
+        },
+        "samples": [
+          {
+            "index": 0,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_0.ts",
+            "encryptedBytes": 351952,
+            "encryptedSHA256": "879ffd8633727b92af7beefa083c6b3c614277af8ff7506f2d7de13ee83b2cae",
+            "plainSHA256": "b09c107fa746f153e4fbd19d4da87d3281f5a4fe385ab751f8519ec28463d830",
+            "plainBytes": 351936,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 50,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_50.ts",
+            "encryptedBytes": 275424,
+            "encryptedSHA256": "c05ca808eae5471080f8c988b01212809b88cbc0b3b1bb44ce785ecca0df225e",
+            "plainSHA256": "5913758df62e827794bab61207acbd382eaf050542c4dc591e02468674296e08",
+            "plainBytes": 275420,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          },
+          {
+            "index": 100,
+            "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_100.ts",
+            "encryptedBytes": 67120,
+            "encryptedSHA256": "6e20a46b3b0a4f9c2dd55d5b0d6a763e66d527c9e807488dbe13d5d8b679dfa0",
+            "plainSHA256": "b9ae1b4be20d1d11517e9c5466ca88ae8ae04fd30f6ee49db669a23956e8469b",
+            "plainBytes": 67116,
+            "streams": [
+              {
+                "codec_name": "h264",
+                "profile": "High",
+                "codec_type": "video",
+                "width": 1280,
+                "height": 720,
+                "pix_fmt": "yuv420p"
+              },
+              {
+                "codec_name": "aac",
+                "profile": "LC",
+                "codec_type": "audio",
+                "sample_rate": "44100",
+                "channels": 2
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "sameSamplePlainPayloads": true,
+    "sameSegmentCountAndDuration": true
+  }
+]

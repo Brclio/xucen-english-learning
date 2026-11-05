@@ -1,0 +1,123 @@
+{
+  "checkedAt": "2026-11-05T19:49:56+08:00",
+  "entryPoint": "books.html",
+  "load": {
+    "bookCovers": 44,
+    "books": 44,
+    "brokenImages": [],
+    "checkedAt": "2026-11-05T11:47:55.208Z",
+    "dataCounts": {
+      "other": 26,
+      "series": 4,
+      "uncertain": 4
+    },
+    "desktop": {
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "editionNotes": 19,
+    "evidenceNotes": 28,
+    "groups": [
+      "课程提及的系列4",
+      "版本或书名待核实4",
+      "课程中的其他阅读参考26"
+    ],
+    "loadedBookCovers": 44,
+    "referenceItems": 34,
+    "remoteResources": [],
+    "totalImages": 45
+  },
+  "filters": [
+    {
+      "actual": 4,
+      "expected": 4,
+      "name": "series Spot"
+    },
+    {
+      "actual": 7,
+      "expected": 7,
+      "name": "visible cover evidence"
+    },
+    {
+      "actual": 3,
+      "expected": 3,
+      "name": "reading match evidence",
+      "labels": [
+        true,
+        true,
+        true
+      ],
+      "remoteResources": [],
+      "titles": [
+        "Put Me in the Zoo",
+        "A Fly Went By",
+        "Spot Goes on Holiday"
+      ]
+    },
+    {
+      "actual": 1,
+      "expected": 1,
+      "name": "title search",
+      "title": "My Car"
+    },
+    {
+      "bookCount": 0,
+      "emptyExplanation": "下方还有 1 条课程提及线索，可以继续查看。",
+      "emptyHeading": "已确认绘本中没有匹配项",
+      "link": "index.html#lesson=v_674f0836e4b0694c950c710b&t=1272",
+      "name": "uncertain reference search",
+      "referenceCount": 1,
+      "referenceOpen": true
+    },
+    {
+      "name": "no results state",
+      "referenceHidden": true,
+      "visible": true
+    },
+    {
+      "actual": 44,
+      "expected": 44,
+      "name": "clear filters"
+    }
+  ],
+  "viewports": [
+    {
+      "cards": 44,
+      "groupsAllOpen": true,
+      "referenceItems": 34,
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "cards": 44,
+      "scrollWidth": 390,
+      "width": 390
+    }
+  ],
+  "deepLinks": [
+    {
+      "expected": 666,
+      "local": true,
+      "remoteResources": [],
+      "time": 666,
+      "title": "08_读"
+    },
+    {
+      "expected": 1272,
+      "local": true,
+      "remoteResources": [],
+      "time": 1272,
+      "title": "08_读"
+    }
+  ],
+  "screenshots": [
+    "metadata/books-desktop.png",
+    "metadata/books-mobile.png"
+  ],
+  "network": {
+    "requestCount": 135,
+    "externalRequestCount": 0,
+    "externalRequests": []
+  },
+  "passed": true
+}

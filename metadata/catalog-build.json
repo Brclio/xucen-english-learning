@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-11-05T19:10:48+08:00",
+  "videoFallbackState": "pending",
+  "summary": {
+    "lessonCount": 41,
+    "videoCount": 41,
+    "audioCount": 41,
+    "imageCount": 7,
+    "completeCount": 41,
+    "drmCount": 0,
+    "pendingVideoCount": 0,
+    "message": "目录共 41 节；已保存本地视频 41 个、独立音频 41 个、图片 7 张。\n已保留课程介绍原文及每节课的 Markdown 索引；当前课时接口未列出独立课文、字幕或课件附件。"
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "checkedAt": "2026-11-05T19:19:56.787144+08:00",
+  "scope": "课程第16至40节标题直接点名的25本书；不将同系列其他作品或推荐作品当作课程提及。",
+  "seriesInfo": {
+    "name": "Elephant & Piggie",
+    "author": "Mo Willems",
+    "description": "莫·威廉斯创作并绘制的初级阅读系列，主角是大象 Gerald 和小猪 Piggie。此清单的25本书逐一对应课程标题中的绘本讲读课。",
+    "sourceUrl": "https://books.disney.com/character-series/elephant-and-piggie/",
+    "additionalSourceUrl": "https://www.penguinrandomhouse.com/series/PGB/an-elephant-and-piggie-book/"
+  },
+  "books": [
+    {
+      "id": "elephant-piggie-my-friend-is-sad",
+      "title": "My Friend is Sad",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/my-friend-is-sad.jpg",
+      "sourceUrl": "https://books.disney.com/book/my-friend-is-sad/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423102977.jpg",
+      "isbn": "9781423102977",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "April 1st, 2007",
+      "lessonIds": [
+        "v_675db494e4b023c058b6ca9e"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_675db494e4b023c058b6ca9e",
+          "kind": "lesson-title",
+          "lessonTitle": "16_My_Friend_Is_Sad"
+        }
+      ],
+      "coverMetadata": {
+        "width": 444,
+        "height": 613,
+        "bytes": 32681,
+        "sha256": "6c27d25b3ec3ebadddee39510a288e86f6fda7fae481d2d1a2c0d2d29d154b27",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-today-i-will-fly",
+      "title": "Today I Will Fly!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/today-i-will-fly.jpg",
+      "sourceUrl": "https://books.disney.com/book/today-i-will-fly/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423102953.jpg",
+      "isbn": "9781423102953",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "April 1st, 2007",
+      "lessonIds": [
+        "v_675fb7fce4b0694c9514aede"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_675fb7fce4b0694c9514aede",
+          "kind": "lesson-title",
+          "lessonTitle": "17_Today_I_Will_Fly"
+        }
+      ],
+      "coverMetadata": {
+        "width": 445,
+        "height": 611,
+        "bytes": 35940,
+        "sha256": "f7081f53459a05a10a4e284f243192f303778d7c8f84b086757fe29727657989",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-there-is-a-bird-on-your-head",
+      "title": "There Is a Bird On Your Head!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/there-is-a-bird-on-your-head.jpg",
+      "sourceUrl": "https://books.disney.com/book/there-is-a-bird-on-your-head/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423106869.jpg",
+      "isbn": "9781423106869",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "September 1st, 2007",
+      "lessonIds": [
+        "v_67625167e4b0694c3c7cc19e"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_67625167e4b0694c3c7cc19e",
+          "kind": "lesson-title",
+          "lessonTitle": "18_There_Is_A_Bird_On_Your_Head"
+        }
+      ],
+      "coverMetadata": {
+        "width": 447,
+        "height": 613,
+        "bytes": 35985,
+        "sha256": "20886d90841e576ff6d90a9dcba1a391a76741d8bec6fbd25f7eeabab2ed1e93",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-am-invited-to-a-party",
+      "title": "I Am Invited to a Party!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-am-invited-to-a-party.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-am-invited-to-a-party/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423106876.jpg",
+      "isbn": "9781423106876",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "September 1st, 2007",
+      "lessonIds": [
+        "v_676852c1e4b0694c3c7f29f8"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_676852c1e4b0694c3c7f29f8",
+          "kind": "lesson-title",
+          "lessonTitle": "19_I_Am_Invited_to_a_Party"
+        }
+      ],
+      "coverMetadata": {
+        "width": 439,
+        "height": 602,
+        "bytes": 29585,
+        "sha256": "c5c7c710fdafb6ab2e111bec429781780687a9d81e660ccab1403029c749c92b",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-love-my-new-toy",
+      "title": "I Love My New Toy!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-love-my-new-toy.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-love-my-new-toy/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423109617.jpg",
+      "isbn": "9781423109617",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "June 3rd, 2008",
+      "lessonIds": [
+        "v_6768cc61e4b023c058bb970e"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_6768cc61e4b023c058bb970e",
+          "kind": "lesson-title",
+          "lessonTitle": "20_I_Love_MY_New_Toy"
+        }
+      ],
+      "coverMetadata": {
+        "width": 435,
+        "height": 598,
+        "bytes": 30842,
+        "sha256": "4eac4ed66915ddba420977424279de5eb70cd21fab9c80be30732a3c16689852",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-will-surprise-my-friend",
+      "title": "I Will Surprise My Friend!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-will-surprise-my-friend.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-will-surprise-my-friend/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423109624.jpg",
+      "isbn": "9781423109624",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "June 3rd, 2008",
+      "lessonIds": [
+        "v_6769b463e4b023c058bc3911"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_6769b463e4b023c058bc3911",
+          "kind": "lesson-title",
+          "lessonTitle": "21_I_Will_Surprise_My_Friend"
+        }
+      ],
+      "coverMetadata": {
+        "width": 436,
+        "height": 599,
+        "bytes": 31508,
+        "sha256": "2e59a3fc2c625c9bfbc20104c4a0149d45f9768826381e1dc0b3d5d347c6476c",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-are-you-ready-to-play-outside",
+      "title": "Are You Ready to Play Outside?",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/are-you-ready-to-play-outside.jpg",
+      "sourceUrl": "https://books.disney.com/book/are-you-ready-to-play-outside/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423113478.jpg",
+      "isbn": "9781423113478",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "October 28th, 2008",
+      "lessonIds": [
+        "v_676b8bfbe4b0694c951ade5c"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_676b8bfbe4b0694c951ade5c",
+          "kind": "lesson-title",
+          "lessonTitle": "22_Are_You_Ready_to_Plasy_Outside"
+        }
+      ],
+      "coverMetadata": {
+        "width": 442,
+        "height": 605,
+        "bytes": 40313,
+        "sha256": "0370526dc395790fe84fd432e9ceec3d7317f9decfce132c07e89455170c127d",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-watch-me-throw-the-ball",
+      "title": "Watch Me Throw the Ball!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/watch-me-throw-the-ball.jpg",
+      "sourceUrl": "https://books.disney.com/book/watch-me-throw-the-ball/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423113485.jpg",
+      "isbn": "9781423113485",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "March 17th, 2009",
+      "lessonIds": [
+        "v_6774b989e4b0694c951f3120"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_6774b989e4b0694c951f3120",
+          "kind": "lesson-title",
+          "lessonTitle": "23_Watch_Me_Throw_the_Ball"
+        }
+      ],
+      "coverMetadata": {
+        "width": 444,
+        "height": 612,
+        "bytes": 35450,
+        "sha256": "dc69b91cae3a2bf307641fc161c007cc14e59f337ae04a91d1b4178d951db844",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-elephants-cannot-dance",
+      "title": "Elephants Cannot Dance!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/elephants-cannot-dance.jpg",
+      "sourceUrl": "https://books.disney.com/book/elephants-cannot-dance/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423114109.jpg",
+      "isbn": "9781423114109",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "June 9th, 2009",
+      "lessonIds": [
+        "v_6776a946e4b0694c3c855096"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_6776a946e4b0694c3c855096",
+          "kind": "lesson-title",
+          "lessonTitle": "24_Elephant_Cannot_Dance"
+        }
+      ],
+      "coverMetadata": {
+        "width": 437,
+        "height": 600,
+        "bytes": 42583,
+        "sha256": "2c19bff55067afcacdefc965bf37dbfd8b2023958d9c5c00918439bb5a696ea8",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-pigs-make-me-sneeze",
+      "title": "Pigs Make Me Sneeze!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/pigs-make-me-sneeze.jpg",
+      "sourceUrl": "https://books.disney.com/book/pigs-make-me-sneeze/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423114116.jpg",
+      "isbn": "9781423114116",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "October 6th, 2009",
+      "lessonIds": [
+        "v_67773751e4b023c058c21266"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_67773751e4b023c058c21266",
+          "kind": "lesson-title",
+          "lessonTitle": "25_Pigs_Make_Me_Sneeze"
+        }
+      ],
+      "coverMetadata": {
+        "width": 438,
+        "height": 600,
+        "bytes": 48416,
+        "sha256": "c379726ebe533d8d3853ec9950086e242ff91f0ef68eaef4ffecc703c4910692",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-am-going",
+      "title": "I Am Going!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-am-going.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-am-going/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423119906.jpg",
+      "isbn": "9781423119906",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "January 26th, 2010",
+      "lessonIds": [
+        "v_6779a952e4b0694c3c8670e0"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_6779a952e4b0694c3c8670e0",
+          "kind": "lesson-title",
+          "lessonTitle": "26_I_Am_Going"
+        }
+      ],
+      "coverMetadata": {
+        "width": 422,
+        "height": 600,
+        "bytes": 33504,
+        "sha256": "29dd6a4be2f1b75a87c90d6a7a777812c1e56e6fbc22f5be0ff7579c78543e6c",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-can-i-play-too",
+      "title": "Can I Play Too?",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/can-i-play-too.jpg",
+      "sourceUrl": "https://books.disney.com/book/can-i-play-too/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423119913.jpg",
+      "isbn": "9781423119913",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "June 8th, 2010",
+      "lessonIds": [
+        "v_6780971de4b092c1697eff29"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_6780971de4b092c1697eff29",
+          "kind": "lesson-title",
+          "lessonTitle": "27_Can_I_Play_Too"
+        }
+      ],
+      "coverMetadata": {
+        "width": 417,
+        "height": 600,
+        "bytes": 34987,
+        "sha256": "0fc7525f9edec8cccb4869126e93387b6a0bca71c102dfd2c4a72cd3e67dacb5",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-we-are-in-a-book",
+      "title": "We Are in a Book!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/we-are-in-a-book.jpg",
+      "sourceUrl": "https://books.disney.com/book/we-are-in-a-book/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423133087.jpg",
+      "isbn": "9781423133087",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "September 14th, 2010",
+      "lessonIds": [
+        "v_678b215ae4b0694c5a83e8e0"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_678b215ae4b0694c5a83e8e0",
+          "kind": "lesson-title",
+          "lessonTitle": "28_We_Are_in_a_Book"
+        }
+      ],
+      "coverMetadata": {
+        "width": 436,
+        "height": 597,
+        "bytes": 39699,
+        "sha256": "70d39717994d87ddf42607ea8d21505bbf0f57c1265797b3f8563b339ee11993",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-broke-my-trunk",
+      "title": "I Broke My Trunk!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-broke-my-trunk.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-broke-my-trunk/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423133094.jpg",
+      "isbn": "9781423133094",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "February 8th, 2011",
+      "lessonIds": [
+        "v_678c02d9e4b0694ca04cd796"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_678c02d9e4b0694ca04cd796",
+          "kind": "lesson-title",
+          "lessonTitle": "29_I_Broke_My_Trunk"
+        }
+      ],
+      "coverMetadata": {
+        "width": 444,
+        "height": 610,
+        "bytes": 39424,
+        "sha256": "e3ee036eea2a43f6c8cb82f2f7294ef0d6c759a0cd440c598f2f3bc26d80d22d",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-should-i-share-my-ice-cream",
+      "title": "Should I Share My Ice Cream?",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/should-i-share-my-ice-cream.jpg",
+      "sourceUrl": "https://books.disney.com/book/should-i-share-my-ice-cream/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2015/01/1423143434.jpg",
+      "isbn": "9781423143437",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "June 14th, 2011",
+      "lessonIds": [
+        "v_678f13cbe4b0694ca04ee5af"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_678f13cbe4b0694ca04ee5af",
+          "kind": "lesson-title",
+          "lessonTitle": "30_Should_I_Share_My_Ice_Cream"
+        }
+      ],
+      "coverMetadata": {
+        "width": 2025,
+        "height": 2789,
+        "bytes": 702350,
+        "sha256": "0d5fbcabb94cb5405ebe255a4282a8aa21eceff98e8eb26be4924355fd02f7f6",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-happy-pig-day",
+      "title": "Happy Pig Day!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/happy-pig-day.jpg",
+      "sourceUrl": "https://books.disney.com/book/happy-pig-day/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423143420.jpg",
+      "isbn": "9781423143420",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "October 4th, 2011",
+      "lessonIds": [
+        "v_678f193fe4b0694c5a85ee8c"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_678f193fe4b0694c5a85ee8c",
+          "kind": "lesson-title",
+          "lessonTitle": "31_Happy_Pig_Day"
+        }
+      ],
+      "coverMetadata": {
+        "width": 425,
+        "height": 589,
+        "bytes": 56068,
+        "sha256": "2268a920db3d73657a4d6fcd31f79f6cccc18814909f51cc2d530beb822da866",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-listen-to-my-trumpet",
+      "title": "Listen to My Trumpet!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/listen-to-my-trumpet.jpg",
+      "sourceUrl": "https://books.disney.com/book/listen-to-my-trumpet/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/Listen-to-My-Trumpet-scaled.jpg",
+      "isbn": "9781423154044",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "February 7th, 2012",
+      "lessonIds": [
+        "v_679af486e4b0694c5a89a0d1"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_679af486e4b0694c5a89a0d1",
+          "kind": "lesson-title",
+          "lessonTitle": "32_Listen_to_My_Trumpet"
+        }
+      ],
+      "coverMetadata": {
+        "width": 1860,
+        "height": 2560,
+        "bytes": 372637,
+        "sha256": "7fd28c8a7e2c8fd02f013bb38a0c16fe90071d7a93b74cf2f54297c04929f03e",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-lets-go-for-a-drive",
+      "title": "Let’s Go for a Drive!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/lets-go-for-a-drive.jpg",
+      "sourceUrl": "https://books.disney.com/book/lets-go-for-a-drive/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423164821.jpg",
+      "isbn": "9781423164821",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "October 2nd, 2012",
+      "lessonIds": [
+        "v_679afd8ce4b0694ca053b9be"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_679afd8ce4b0694ca053b9be",
+          "kind": "lesson-title",
+          "lessonTitle": "33_Let's_Go_for_a_Drive"
+        }
+      ],
+      "coverMetadata": {
+        "width": 446,
+        "height": 610,
+        "bytes": 50736,
+        "sha256": "29d7d661a458c012bdccef705dabf1fa3305aa92f639575100aa42fecf924987",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-a-big-guy-took-my-ball",
+      "title": "A Big Guy Took My Ball!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/a-big-guy-took-my-ball.jpg",
+      "sourceUrl": "https://books.disney.com/book/a-big-guy-took-my-ball/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/10/14231749171-scaled.jpg",
+      "isbn": "9781423174912",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "May 21st, 2013",
+      "lessonIds": [
+        "v_679fa192e4b0694c5a8a40bd"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_679fa192e4b0694c5a8a40bd",
+          "kind": "lesson-title",
+          "lessonTitle": "34_A_Big_Guy_Took_My_Ball"
+        }
+      ],
+      "coverMetadata": {
+        "width": 1862,
+        "height": 2560,
+        "bytes": 403084,
+        "sha256": "531fde575603030dd7ee6e88c4a737abf2ee5a2660883d283d184143f831cddc",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-im-a-frog",
+      "title": "I’m a Frog!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/im-a-frog.jpg",
+      "sourceUrl": "https://books.disney.com/book/im-a-frog/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2013/09/9781423183051.jpg",
+      "isbn": "9781423183051",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "October 15th, 2013",
+      "lessonIds": [
+        "v_679fa82be4b0694ca0549633"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_679fa82be4b0694ca0549633",
+          "kind": "lesson-title",
+          "lessonTitle": "35_I'm_a_Frog"
+        }
+      ],
+      "coverMetadata": {
+        "width": 446,
+        "height": 611,
+        "bytes": 38320,
+        "sha256": "99b1d84f63cab2de980e94d61e0b00c2ab712b35a069c41e80cba4f247062133",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-my-new-friend-is-so-fun",
+      "title": "My New Friend Is So Fun!",
+      "author": "Mo Willems",
+      "illustrator": "",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/my-new-friend-is-so-fun.jpg",
+      "sourceUrl": "https://books.disney.com/book/my-new-friend-is-so-fun/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2014/05/9781423179580.jpg",
+      "isbn": "9781423179580",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "June 3rd, 2014",
+      "lessonIds": [
+        "v_679fc5dbe4b0694ca05497f9"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_679fc5dbe4b0694ca05497f9",
+          "kind": "lesson-title",
+          "lessonTitle": "36_My_New_Friend_Is_So_Fun"
+        }
+      ],
+      "coverMetadata": {
+        "width": 445,
+        "height": 611,
+        "bytes": 47496,
+        "sha256": "102c8864add82256db1d59264d8b783094c4bffc45d5991f1b7fd945e9d361d6",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-waiting-is-not-easy",
+      "title": "Waiting Is Not Easy!",
+      "author": "Mo Willems",
+      "illustrator": "",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/waiting-is-not-easy.jpg",
+      "sourceUrl": "https://books.disney.com/book/waiting-is-not-easy/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2014/10/9781423199571.jpg",
+      "isbn": "9781423199571",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "November 4th, 2014",
+      "lessonIds": [
+        "v_67a12eb2e4b0694ca054f496"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_67a12eb2e4b0694ca054f496",
+          "kind": "lesson-title",
+          "lessonTitle": "37_Waiting_Is_Not_Easy"
+        }
+      ],
+      "coverMetadata": {
+        "width": 446,
+        "height": 610,
+        "bytes": 42096,
+        "sha256": "e4acbc5b01c1b5c92f2227fb2c289c2bb108adb3b9760c49a93e01c1dcbc1c48",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-will-take-a-nap",
+      "title": "I Will Take A Nap!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-will-take-a-nap.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-will-take-a-nap/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2015/04/9781484716304.jpg",
+      "isbn": "9781484716304",
+      "publisher": "Hyperion Books for Children",
+      "pages": 64,
+      "released": "June 2nd, 2015",
+      "lessonIds": [
+        "v_67a13a19e4b0694ca054f50c"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_67a13a19e4b0694ca054f50c",
+          "kind": "lesson-title",
+          "lessonTitle": "38_I_Will_Take_a_Nap"
+        }
+      ],
+      "coverMetadata": {
+        "width": 422,
+        "height": 600,
+        "bytes": 40781,
+        "sha256": "e3105215f999f0e139bc64a4e0e039451260d73c5048ac28b72e7b334f8b250e",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-i-really-like-slop",
+      "title": "I Really Like Slop!",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/i-really-like-slop.jpg",
+      "sourceUrl": "https://books.disney.com/book/i-really-like-slop/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2015/09/9781484722626_3ed6d.jpg",
+      "isbn": "9781484722626",
+      "publisher": "Disney Hyperion",
+      "pages": 64,
+      "released": "October 27th, 2015",
+      "lessonIds": [
+        "v_67a148a1e4b0694c5a8a875b"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_67a148a1e4b0694c5a8a875b",
+          "kind": "lesson-title",
+          "lessonTitle": "39_I_Really_Like_Slop"
+        }
+      ],
+      "coverMetadata": {
+        "width": 559,
+        "height": 750,
+        "bytes": 83714,
+        "sha256": "fd7090094623c387d647d211ccd57974e7ab3ba286e1a529ed3bea167f6300e8",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    },
+    {
+      "id": "elephant-piggie-the-thank-you-book",
+      "title": "The Thank You Book",
+      "author": "Mo Willems",
+      "illustrator": "Mo Willems",
+      "series": "Elephant & Piggie",
+      "cover": "media/book-covers/the-thank-you-book.jpg",
+      "sourceUrl": "https://books.disney.com/book/the-thank-you-book/",
+      "coverSourceUrl": "https://books.disney.com/content/uploads/2016/01/TheThankYouBook.jpg",
+      "isbn": "9781423178286",
+      "publisher": "Hyperion Books for Children",
+      "pages": 64,
+      "released": "May 3rd, 2016",
+      "lessonIds": [
+        "v_67a17a4fe4b0694ca05500a6"
+      ],
+      "mentionEvidence": [
+        {
+          "lessonId": "v_67a17a4fe4b0694ca05500a6",
+          "kind": "lesson-title",
+          "lessonTitle": "40_The_Thank_You_Book"
+        }
+      ],
+      "coverMetadata": {
+        "width": 2025,
+        "height": 2775,
+        "bytes": 1780777,
+        "sha256": "9b97f852fcd24d118f9cf879d35a428d3715940b96e02f89347e4dc2414c7c52",
+        "selection": "Publisher product metadata points to the original cover image, not a resized thumbnail."
+      }
+    }
+  ],
+  "verification": {
+    "bookCount": 25,
+    "uniqueIsbnCount": 25,
+    "uniqueCoverHashCount": 25,
+    "allCoverFilesDecoded": true,
+    "visualReview": {
+      "status": "passed",
+      "method": "Rendered all25 local cover images alongside canonical titles and ISBNs, visually matched each cover title.",
+      "checkedAt": "2026-11-05T19:21:46.761964+08:00",
+      "evidencePath": ".private/book-research/covers-proof.png"
+    }
+  }
+}

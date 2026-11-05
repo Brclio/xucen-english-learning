@@ -1,0 +1,537 @@
+[
+  {
+    "index": 0,
+    "resourceId": "v_673ab182e4b023c058a6547d",
+    "materialId": "m_0trNQGvEuaGdO_m3mgagva",
+    "filename": "00_先导.mp4",
+    "materialAppId": "appUzEnkPEJ8854",
+    "sourceFlags": {
+      "is_drm": 1,
+      "is_transcode": 1,
+      "resource_type": 3
+    },
+    "returnedMaterialMatches": true,
+    "resources": [
+      {
+        "kind": "720p_hls",
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Content-Length": "12164",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "819755",
+          "Etag": "\"8026683d2e0d4b08cb82ff8780123592\"",
+          "Last-Modified": "Mon, 18 Nov 2024 03:23:52 GMT",
+          "X-Bdcdn-Cache-Status": "TCP_HIT",
+          "X-Request-Id": "de0a27d9510a617dede6dd1b30356c20",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "edge_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Mon, 18 Nov 2024 03:23:52 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "2941373920670166718",
+          "X-Tos-Id-2": "7d7107dfe4628f546adfe462-b76b1fc-1xLUGY-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Request-Id": "7d7107dfe4628f546adfe462-b76b1fc-1xLUGY-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Server-Time": "62",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:20:45 GMT",
+          "via": "cache14.oversea-US-MIA2",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      },
+      {
+        "kind": "first-segment",
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main_0.ts",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "video/MP2T",
+          "Content-Length": "161120",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "272798",
+          "Etag": "\"cbf78fe2a14a40763ac57b9a8e4c5c45\"",
+          "Last-Modified": "Mon, 18 Nov 2024 03:23:42 GMT",
+          "X-Bdcdn-Cache-Status": "TCP_HIT",
+          "X-Request-Id": "9e1ca1633f03907f5a09cea021b7dfe4",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "edge_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Mon, 18 Nov 2024 03:23:42 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "2554415681565463707",
+          "X-Tos-Id-2": "6f8a07e83cf7e4816ae83cf7-b3585b6-1xNmYZ-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Request-Id": "6f8a07e83cf7e4816ae83cf7-b3585b6-1xNmYZ-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Server-Time": "54",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:20:51 GMT",
+          "via": "cache14.oversea-US-MIA2",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      },
+      {
+        "kind": "mp3",
+        "url": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/main.mp3",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "audio/mpeg",
+          "Content-Length": "16666584",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "1947535",
+          "Etag": "\"c02196051073edd25a7c461b7f72f4dc\"",
+          "Last-Modified": "Mon, 18 Nov 2024 03:17:59 GMT",
+          "X-Bdcdn-Cache-Status": "TCP_HIT",
+          "X-Request-Id": "aabba82abbde3b81e6d78403ff9c3881",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "edge_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Mon, 18 Nov 2024 03:17:59 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "17795397982964094915",
+          "X-Tos-Id-2": "6a7607ceaf0635a06aceaf06-bfec054-1xGksg-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Request-Id": "6a7607ceaf0635a06aceaf06-bfec054-1xGksg-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Server-Time": "58",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:20:53 GMT",
+          "via": "cache11.oversea-US-MIA2",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    ],
+    "playlist": {
+      "status": 200,
+      "isMaster": false,
+      "tagTypes": [
+        "#EXT-X-ENDLIST",
+        "#EXT-X-KEY",
+        "#EXT-X-TARGETDURATION",
+        "#EXT-X-VERSION",
+        "#EXTINF",
+        "#EXTM3U"
+      ],
+      "segments": 521,
+      "seconds": 1041.6
+    },
+    "keyframeResponse": {
+      "code": 0,
+      "msg": "ok",
+      "data": {
+        "key_frames": [],
+        "is_show": false,
+        "is_open": 0
+      },
+      "request_id": "f73bab51d90a11f191ae2243807fe1b3"
+    }
+  },
+  {
+    "index": 5,
+    "resourceId": "v_674d33cee4b0694c950b2c81",
+    "materialId": "m_XmlepASMk725E_m46il0c4",
+    "filename": "05_听说读写的顺序.mp4",
+    "materialAppId": "appUzEnkPEJ8854",
+    "sourceFlags": {
+      "is_drm": 1,
+      "is_transcode": 1,
+      "resource_type": 3
+    },
+    "returnedMaterialMatches": true,
+    "resources": [
+      {
+        "kind": "720p_hls",
+        "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+        "status": 200,
+        "headers": {
+          "Date": "Thu, 05 Nov 2026 11:20:56 GMT",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Connection": "keep-alive",
+          "via": "LA-MEX-queretaro-EDGE3-CACHE3[24],LA-MEX-queretaro-EDGE3-CACHE6[0,TCP_HIT,16],LA-MEX-mexicocity-GLOBAL1-CACHE18[602],LA-MEX-mexicocity-GLOBAL1-CACHE19[597,TCP_MISS,599],EA-SGP-GLOBAL1-CACHE6[372],EA-SGP-GLOBAL1-CACHE7[302,TCP_MISS,369],CHN-SH-GLOBAL4-CACHE49[173],CHN-SH-GLOBAL4-CACHE91[134,TCP_MISS,171],CHN-HAzhengzhou-GLOBAL3-CACHE116[46],CHN-HAzhengzhou-GLOBAL3-CACHE9[0,TCP_HIT,35]",
+          "Cache-Control": "no-cache",
+          "nginx-hit": "1",
+          "x-hcs-proxy-type": "1",
+          "Accept-Ranges": "bytes",
+          "Server": "openresty",
+          "access-control-allow-origin": "*",
+          "Content-Length": "0",
+          "X-CCDN-Expires": "2590284",
+          "X-Request-Id": "cf48903e-11d9-4472-b9c5-18378df8f5de",
+          "Last-Modified": "Mon, 02 Dec 2024 04:15:40 GMT",
+          "access-control-allow-methods": "GET, HEAD",
+          "Etag": "\"6e6c690da64755c8ec8c1ed773aac3af\"",
+          "X-CCDN-CacheTTL": "2592000",
+          "Age": "1716",
+          "CDN-trace-id": "04014cfa5201aa1372b4cd02603ae51d",
+          "CDN-server-ip": "128.14.165.174"
+        }
+      },
+      {
+        "kind": "first-segment",
+        "url": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/8000007_F2nVA6jcGKf0_0.ts",
+        "status": 200,
+        "headers": {
+          "Date": "Thu, 05 Nov 2026 11:21:00 GMT",
+          "Content-Type": "video/mp2t",
+          "Content-Length": "233312",
+          "Connection": "keep-alive",
+          "Server": "openresty",
+          "ETag": "\"509e4acb73d03880170a7f3d8bc6d6de\"",
+          "Last-Modified": "Mon, 02 Dec 2024 04:15:38 GMT",
+          "X-Request-Id": "7b1a9f2b-b5aa-4bf2-9e6b-7fd4a2464a70",
+          "access-control-allow-origin": "*",
+          "access-control-allow-methods": "GET, HEAD",
+          "X-CCDN-Expires": "2590296",
+          "via": "LA-MEX-queretaro-EDGE3-CACHE2[21],LA-MEX-queretaro-EDGE3-CACHE3[0,TCP_HIT,19],LA-MEX-mexicocity-GLOBAL1-CACHE22[599],LA-MEX-mexicocity-GLOBAL1-CACHE24[595,TCP_MISS,598],EA-SGP-GLOBAL1-CACHE20[343],EA-SGP-GLOBAL1-CACHE23[280,TCP_MISS,341],CHN-SH-GLOBAL4-CACHE90[151],CHN-SH-GLOBAL4-CACHE66[117,TCP_MISS,150],CHN-HAzhengzhou-GLOBAL3-CACHE2[38],CHN-HAzhengzhou-GLOBAL3-CACHE106[0,TCP_HIT,30]",
+          "x-hcs-proxy-type": "1",
+          "X-CCDN-CacheTTL": "2592000",
+          "nginx-hit": "1",
+          "Cache-Control": "max-age=2592000",
+          "Age": "1704",
+          "Accept-Ranges": "bytes",
+          "CDN-trace-id": "75106ee60692278c1c133d5b3c97c814",
+          "CDN-server-ip": "128.14.165.174"
+        }
+      },
+      {
+        "kind": "mp3",
+        "url": "https://c-vod-hw-k.xiaoeknow.com/asset/9b7cb27df1adc184d22ff1ce47a5807e/a15643d86254b73daca5e2228e813a3a.mp3",
+        "status": 200,
+        "headers": {
+          "Date": "Thu, 05 Nov 2026 11:21:02 GMT",
+          "Content-Type": "audio/mpeg",
+          "Content-Length": "9438033",
+          "Connection": "keep-alive",
+          "Server": "openresty",
+          "ETag": "\"cc06ad72834a129e1c928e349f23c92f\"",
+          "Last-Modified": "Mon, 02 Dec 2024 04:13:45 GMT",
+          "X-Request-Id": "e91ec22f-20ad-42d2-ad54-a952b170f8b7",
+          "access-control-allow-origin": "*",
+          "access-control-allow-methods": "GET, HEAD",
+          "X-CCDN-Expires": "2589807",
+          "via": "LA-MEX-queretaro-EDGE3-CACHE6[12],LA-MEX-queretaro-EDGE3-CACHE5[0,TCP_HIT,11],LA-MEX-mexicocity-GLOBAL1-CACHE21[650],LA-MEX-mexicocity-GLOBAL1-CACHE24[644,TCP_MISS,647],EA-SGP-GLOBAL1-CACHE20[390],EA-SGP-GLOBAL1-CACHE23[319,TCP_MISS,388],CHN-SH-GLOBAL4-CACHE140[177],CHN-SH-GLOBAL4-CACHE86[141,TCP_MISS,175],CHN-HAzhengzhou-GLOBAL3-CACHE15[64],CHN-HAzhengzhou-GLOBAL3-CACHE64[0,TCP_HIT,62]",
+          "x-hcs-proxy-type": "1",
+          "X-CCDN-CacheTTL": "2592000",
+          "nginx-hit": "1",
+          "Cache-Control": "max-age=2592000",
+          "Age": "2193",
+          "Accept-Ranges": "bytes",
+          "CDN-trace-id": "3724dc900760f1e9142323561e6a54ef",
+          "CDN-server-ip": "128.14.165.174"
+        }
+      }
+    ],
+    "playlist": {
+      "status": 200,
+      "isMaster": false,
+      "tagTypes": [
+        "#EXT-X-ENDLIST",
+        "#EXT-X-KEY",
+        "#EXT-X-MEDIA-SEQUENCE",
+        "#EXT-X-TARGETDURATION",
+        "#EXT-X-VERSION",
+        "#EXTINF",
+        "#EXTM3U"
+      ],
+      "segments": 336,
+      "seconds": 674.0
+    },
+    "keyframeResponse": {
+      "code": 0,
+      "msg": "ok",
+      "data": {
+        "key_frames": [],
+        "is_show": false,
+        "is_open": 0
+      },
+      "request_id": "fcdbc524d90a11f187821e2822f43e43"
+    }
+  },
+  {
+    "index": 20,
+    "resourceId": "v_6768cc61e4b023c058bb970e",
+    "materialId": "m_l8MASzHOa1Dzp_m50facrp",
+    "filename": "20_I_Love_MY_New_Toy.mp4",
+    "materialAppId": "appUzEnkPEJ8854",
+    "sourceFlags": {
+      "is_drm": 1,
+      "is_transcode": 1,
+      "resource_type": 3
+    },
+    "returnedMaterialMatches": true,
+    "resources": [
+      {
+        "kind": "720p_hls",
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Content-Length": "1777",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "899889",
+          "Etag": "\"ab00ea08d24b3e000ac84b3b33ae29d1\"",
+          "Last-Modified": "Mon, 23 Dec 2024 02:36:29 GMT",
+          "Via": "cache04.oversea-US-LAX2,cache03.oversea-US-MIA2",
+          "X-Bdcdn-Cache-Status": "TCP_MISS,TCP_HIT",
+          "X-Request-Id": "6bad415aba69022fdcc525f7b1152659",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "parent_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Mon, 23 Dec 2024 02:36:29 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "13744513900068724159",
+          "X-Tos-Id-2": "8c3807deab722fdc6adeab72-b4715fc-1xL9QQ-GO-cb-tos-1az-front-azc-17",
+          "X-Tos-Request-Id": "8c3807deab722fdc6adeab72-b4715fc-1xL9QQ-GO-cb-tos-1az-front-azc-17",
+          "X-Tos-Server-Time": "24",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:21:07 GMT",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      },
+      {
+        "kind": "first-segment",
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main_0.ts",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "video/MP2T",
+          "Content-Length": "292912",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "1325",
+          "Etag": "\"6bacb17c1fc0e21860f86a983d6555bf\"",
+          "Last-Modified": "Mon, 23 Dec 2024 02:36:28 GMT",
+          "X-Bdcdn-Cache-Status": "TCP_HIT",
+          "X-Request-Id": "267d2a0f44d1843f076051bbf5938cdc",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "edge_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Mon, 23 Dec 2024 02:36:28 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "14412007766227207858",
+          "X-Tos-Id-2": "9aef07ec617ab7b86aec617a-b9e3698-1xOvBS-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Request-Id": "9aef07ec617ab7b86aec617a-b9e3698-1xOvBS-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Server-Time": "3",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:21:10 GMT",
+          "via": "cache10.oversea-US-MIA2",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      },
+      {
+        "kind": "mp3",
+        "url": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/main.mp3",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "audio/mpeg",
+          "Content-Length": "2173849",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "2159",
+          "Etag": "\"f4014e0d694eedd21f307c46a69f1af6\"",
+          "Last-Modified": "Mon, 23 Dec 2024 02:35:34 GMT",
+          "Via": "cache02.oversea-US-NYC1,cache03.oversea-US-MIA2",
+          "X-Bdcdn-Cache-Status": "TCP_MISS,TCP_HIT",
+          "X-Request-Id": "50167fca02b1fdac5660db6d122c6e33",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "parent_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Mon, 23 Dec 2024 02:35:34 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "2390896244202475784",
+          "X-Tos-Id-2": "534b07ec5e39ee5f6aec5e39-bf6221d-1xOuy1-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Request-Id": "534b07ec5e39ee5f6aec5e39-bf6221d-1xOuy1-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Server-Time": "47",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:21:12 GMT",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    ],
+    "playlist": {
+      "status": 200,
+      "isMaster": false,
+      "tagTypes": [
+        "#EXT-X-ENDLIST",
+        "#EXT-X-KEY",
+        "#EXT-X-TARGETDURATION",
+        "#EXT-X-VERSION",
+        "#EXTINF",
+        "#EXTM3U"
+      ],
+      "segments": 68,
+      "seconds": 135.8
+    },
+    "keyframeResponse": {
+      "code": 0,
+      "msg": "ok",
+      "data": {
+        "key_frames": [],
+        "is_show": false,
+        "is_open": 0
+      },
+      "request_id": "04d5900ad90b11f187821e2822f43e43"
+    }
+  },
+  {
+    "index": 40,
+    "resourceId": "v_67a17a4fe4b0694ca05500a6",
+    "materialId": "m_8hyEHTKpXpDjX_m6psn7tz",
+    "filename": "40_The_Thank_You_Book.mp4",
+    "materialAppId": "appUzEnkPEJ8854",
+    "sourceFlags": {
+      "is_drm": 1,
+      "is_transcode": 1,
+      "resource_type": 3
+    },
+    "returnedMaterialMatches": true,
+    "resources": [
+      {
+        "kind": "720p_hls",
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "application/vnd.apple.mpegurl",
+          "Content-Length": "2505",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "1200",
+          "Etag": "\"e98b2bd90c5d2398d7e21341c5a07ca5\"",
+          "Last-Modified": "Tue, 04 Feb 2025 02:25:58 GMT",
+          "Via": "cache02.oversea-US-LAX2,cache05.oversea-US-MIA2",
+          "X-Bdcdn-Cache-Status": "TCP_MISS,TCP_HIT",
+          "X-Request-Id": "71780f34853371bb0254bc1aebe66129",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "parent_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Tue, 04 Feb 2025 02:25:58 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "12542378623673919958",
+          "X-Tos-Id-2": "525107ec61ff4a066aec61ff-b9cf2a8-1xOvDb-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Request-Id": "525107ec61ff4a066aec61ff-b9cf2a8-1xOvDb-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Server-Time": "41",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:21:19 GMT",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      },
+      {
+        "kind": "first-segment",
+        "url": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main_0.ts",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "video/MP2T",
+          "Content-Length": "351952",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "1202",
+          "Etag": "\"d2e60d382852fffe202dcea54c782572\"",
+          "Last-Modified": "Tue, 04 Feb 2025 02:25:57 GMT",
+          "X-Bdcdn-Cache-Status": "TCP_HIT",
+          "X-Request-Id": "5f39a57a2684c54db7514da867cd8ea6",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "edge_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Tue, 04 Feb 2025 02:25:57 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "8816332777984950941",
+          "X-Tos-Id-2": "7cec07ec620173c66aec6201-b123486-1xOvDd-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Request-Id": "7cec07ec620173c66aec6201-b123486-1xOvDd-GO-cb-tos-1az-front-azc-16",
+          "X-Tos-Server-Time": "3",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:21:23 GMT",
+          "via": "cache01.oversea-US-MIA2",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      },
+      {
+        "kind": "mp3",
+        "url": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/main.mp3",
+        "status": 200,
+        "headers": {
+          "Server": "Byte-nginx",
+          "Content-Type": "audio/mpeg",
+          "Content-Length": "3209970",
+          "Connection": "keep-alive",
+          "Accept-Ranges": "bytes",
+          "Age": "2133",
+          "Etag": "\"42c203d97cf84065d10616f8a98bb2bf\"",
+          "Last-Modified": "Tue, 04 Feb 2025 02:24:43 GMT",
+          "Via": "cache04.oversea-US-LAX2,cache02.oversea-US-MIA2",
+          "X-Bdcdn-Cache-Status": "TCP_MISS,TCP_HIT",
+          "X-Request-Id": "ceb3a80acd227056422efc7a91ce42fb",
+          "X-Request-Ip": "67.21.77.250",
+          "X-Response-Cache": "parent_hit",
+          "X-Response-Cinfo": "67.21.77.250",
+          "X-Tos-Create-Time": "Tue, 04 Feb 2025 02:24:43 GMT",
+          "X-Tos-Cs-Type": "CDN",
+          "X-Tos-Hash-Crc64ecma": "17364338958511597445",
+          "X-Tos-Id-2": "2ff07ec5e5f7db06aec5e5f-b099e61-1xOuyd-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Request-Id": "2ff07ec5e5f7db06aec5e5f-b099e61-1xOuyd-GO-cb-tos-1az-front-azc-1",
+          "X-Tos-Server-Time": "67",
+          "X-Tos-Storage-Class": "STANDARD",
+          "X-Tt-Trace-Tag": "id=5",
+          "Date": "Thu, 05 Nov 2026 11:21:24 GMT",
+          "Server-Ip": "162.221.195.148",
+          "Access-Control-Expose-Headers": "content-length,content-type,last-modified,Server-Ip",
+          "Access-Control-Allow-Origin": "*"
+        }
+      }
+    ],
+    "playlist": {
+      "status": 200,
+      "isMaster": false,
+      "tagTypes": [
+        "#EXT-X-ENDLIST",
+        "#EXT-X-KEY",
+        "#EXT-X-TARGETDURATION",
+        "#EXT-X-VERSION",
+        "#EXTINF",
+        "#EXTM3U"
+      ],
+      "segments": 101,
+      "seconds": 200.56
+    },
+    "keyframeResponse": {
+      "code": 0,
+      "msg": "ok",
+      "data": {
+        "key_frames": [],
+        "is_show": false,
+        "is_open": 0
+      },
+      "request_id": "09fc02a0d90b11f187821e2822f43e43"
+    }
+  }
+]

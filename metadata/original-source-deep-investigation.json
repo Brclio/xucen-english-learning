@@ -1,0 +1,967 @@
+{
+  "status": "authorized learner playback fully inspected; uploaded original unresolved",
+  "accountScope": "User confirmed purchased learner access only; no merchant upload/material-management access",
+  "moduleGraph": {
+    "count": 166,
+    "bytes": 18920631,
+    "unfetchedLiteralImports": 0,
+    "entry": "https://assets.cdn.xiaoeknow.com/course/h5_study_fe/1.4.70/js/BasicVideo-legacy.js"
+  },
+  "allLessons": [
+    {
+      "resourceId": "v_673ab182e4b023c058a6547d",
+      "title": "00_先导",
+      "materialId": "m_0trNQGvEuaGdO_m3mgagva",
+      "returnedMaterialId": "m_0trNQGvEuaGdO_m3mgagva",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "00_先导.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67475a5de4b023c058ac7309",
+      "title": "01_母语",
+      "materialId": "m_JdBfVk9Vxp68O_m46h22wl",
+      "returnedMaterialId": "m_JdBfVk9Vxp68O_m46h22wl",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "01_母语.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46gyfmd096r/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67475b5ae4b0694c95087f14",
+      "title": "02_无痛和有痛",
+      "materialId": "m_D9vpJvhQAasJy_m40ad387",
+      "returnedMaterialId": "m_D9vpJvhQAasJy_m40ad387",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "02_无痛和有痛.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m40a8hsr0id9/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674d2cb1e4b023c058aecfdd",
+      "title": "03_兴趣",
+      "materialId": "m_arGSGQcMf3caS_m46hbupc",
+      "returnedMaterialId": "m_arGSGQcMf3caS_m46hbupc",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "03_兴趣.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46h3z1401w9/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674d2e2ee4b0694c3c7251f3",
+      "title": "04_对父母的挑战",
+      "materialId": "m_ilnzkq5TOzVjV_m46hqdks",
+      "returnedMaterialId": "m_ilnzkq5TOzVjV_m46hqdks",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "04_对父母的挑战.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46hjiqi0zwj/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674d33cee4b0694c950b2c81",
+      "title": "05_听说读写的顺序",
+      "materialId": "m_XmlepASMk725E_m46il0c4",
+      "returnedMaterialId": "m_XmlepASMk725E_m46il0c4",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "05_听说读写的顺序.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/437934e9bacb7a1dfbbc57907671f960/f418d5b8e217fe7fbb4c28bad85578a9.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674d3511e4b0694c3c72563d",
+      "title": "06_听",
+      "materialId": "m_ny96HNLvqZKyx_m46is9xg",
+      "returnedMaterialId": "m_ny96HNLvqZKyx_m46is9xg",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "06_听.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46imqmr0ku5/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674dd73ae4b0694c3c72dfdd",
+      "title": "07_说（唱）",
+      "materialId": "m_g3VUwGMU6XSsK_m477i0gw",
+      "returnedMaterialId": "m_g3VUwGMU6XSsK_m477i0gw",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "07_说（唱）.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4779wrr0g9v/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674f0836e4b0694c950c710b",
+      "title": "08_读",
+      "materialId": "m_yi2EH8475Jk31_m48hxx5v",
+      "returnedMaterialId": "m_yi2EH8475Jk31_m48hxx5v",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "08_读720.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/a56d9cbd1397757898625618345/drm/v.f421220.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_674fcfcde4b0694c3c73c697",
+      "title": "09_写（画）",
+      "materialId": "m_wU2K1xA5O5g5y_m49cc0ck",
+      "returnedMaterialId": "m_wU2K1xA5O5g5y_m49cc0ck",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "09_写（画）.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/4ce15b3da2e9843f749793c82f38a597/cc1773fd1855366f1e3835baf6add5b3.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_675122b5e4b0694c3c747a50",
+      "title": "10_环境的营造",
+      "materialId": "m_EdsXPEgzrxnRt_m4as0vuc",
+      "returnedMaterialId": "m_EdsXPEgzrxnRt_m4as0vuc",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "10_环境的营造.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4aqzv340cjb/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_675281f3e4b0694c3c753213",
+      "title": "11_许闻的书房",
+      "materialId": "m_wpKYO9re5G7Tl_m4c9hc5c",
+      "returnedMaterialId": "m_wpKYO9re5G7Tl_m4c9hc5c",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "11_许闻的书房.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/4a5f007e1397757898641661593/drm/v.f421220.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67568bf8e4b023c058b2f644",
+      "title": "12_许瞧的闺房",
+      "materialId": "m_fLYH5405iPdLQ_m4gn7ao8",
+      "returnedMaterialId": "m_fLYH5405iPdLQ_m4gn7ao8",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "12_许瞧的闺房.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/e0ed3dc419ff4a194d1179fa305736a1/76318b01953bf7bccb780e04e5226245.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6757658ce4b0694c3c7757f0",
+      "title": "13_绘本的使用",
+      "materialId": "m_xOpWe3rtUr2zh_m4hkcsls",
+      "returnedMaterialId": "m_xOpWe3rtUr2zh_m4hkcsls",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "13_绘本的使用.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hk7atn02yd/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6757b5a9e4b0694c9510abb8",
+      "title": "14_大童的英语追赶",
+      "materialId": "m_wjExy7DxfidVB_m4hwkfvm",
+      "returnedMaterialId": "m_wjExy7DxfidVB_m4hwkfvm",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "14_大童的英语追赶.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hv30n30943/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6758f107e4b0694c3c782feb",
+      "title": "15_成年人（父母）的最后一搏",
+      "materialId": "m_xorXAlM7HQttk_m4j88dr9",
+      "returnedMaterialId": "m_xorXAlM7HQttk_m4j88dr9",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "15_成年人（父母）的最后一搏.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4j704pm037j/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_675db494e4b023c058b6ca9e",
+      "title": "16_My_Friend_Is_Sad",
+      "materialId": "m_Vnv4b6lXBZufy_m4oei1iz",
+      "returnedMaterialId": "m_Vnv4b6lXBZufy_m4oei1iz",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "16_My_Friend_Is_Sad.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/5a4d26a1453283d4e3018ba45d77116e/83fe9e062d313a8d302df21f8800a9ed.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_675fb7fce4b0694c9514aede",
+      "title": "17_Today_I_Will_Fly",
+      "materialId": "m_ymG26RBCXsn5E_m4ql2jjq",
+      "returnedMaterialId": "m_ymG26RBCXsn5E_m4ql2jjq",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "17_Today_I_Will_Fly.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4qkr0qf0vuo/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67625167e4b0694c3c7cc19e",
+      "title": "18_There_Is_A_Bird_On_Your_Head",
+      "materialId": "m_I8LgMkNEndw9N_m4tefth3",
+      "returnedMaterialId": "m_I8LgMkNEndw9N_m4tefth3",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "18_There_Is_A_Bird_On_Your_Head.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4tdytlo0qjl/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_676852c1e4b0694c3c7f29f8",
+      "title": "19_I_Am_Invited_to_a_Party",
+      "materialId": "m_PZS5h0qb9ZpnH_m4zwt2ch",
+      "returnedMaterialId": "m_PZS5h0qb9ZpnH_m4zwt2ch",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "19_I_Am_Invited_to_a_Party.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/610f66bd2559638750df2c949444a51d/138ad0496ec05807daf3adad7389f27b.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6768cc61e4b023c058bb970e",
+      "title": "20_I_Love_MY_New_Toy",
+      "materialId": "m_l8MASzHOa1Dzp_m50facrp",
+      "returnedMaterialId": "m_l8MASzHOa1Dzp_m50facrp",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "20_I_Love_MY_New_Toy.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6769b463e4b023c058bc3911",
+      "title": "21_I_Will_Surprise_My_Friend",
+      "materialId": "m_UKjU65ursFsmY_m51eppse",
+      "returnedMaterialId": "m_UKjU65ursFsmY_m51eppse",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "21_I_Will_Surprise_My_Friend.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m51eohhf0c9j/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_676b8bfbe4b0694c951ade5c",
+      "title": "22_Are_You_Ready_to_Plasy_Outside",
+      "materialId": "m_tIpYFKQyXSR2l_m53el3a2",
+      "returnedMaterialId": "m_tIpYFKQyXSR2l_m53el3a2",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "22_Are_You_Ready_to_Plasy_Outside.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m53e6k590gza/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6774b989e4b0694c951f3120",
+      "title": "23_Watch_Me_Throw_the_Ball",
+      "materialId": "m_psm4gcdmeKoGH_m5dcnr7w",
+      "returnedMaterialId": "m_psm4gcdmeKoGH_m5dcnr7w",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "23_Watch_Me_Throw_the_Ball.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5dccluz0pe0/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6776a946e4b0694c3c855096",
+      "title": "24_Elephant_Cannot_Dance",
+      "materialId": "m_ptoETf6F9YtV6_m5fg94ry",
+      "returnedMaterialId": "m_ptoETf6F9YtV6_m5fg94ry",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "24_Elephant_Cannot_Dance.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/851706a67f95426c4c216a74cee8e872/c01f3ef4fdf7ec3a26f2fa3b54434aec.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67773751e4b023c058c21266",
+      "title": "25_Pigs_Make_Me_Sneeze",
+      "materialId": "m_Ra4wiL1Z5T0x6_m5g1svdj",
+      "returnedMaterialId": "m_Ra4wiL1Z5T0x6_m5g1svdj",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "25_Pigs_Make_Me_Sneeze.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5g1qlbf0lxq/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6779a952e4b0694c3c8670e0",
+      "title": "26_I_Am_Going",
+      "materialId": "m_zpY5eiLEJ5UrO_m5ipam5g",
+      "returnedMaterialId": "m_zpY5eiLEJ5UrO_m5ipam5g",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "26_I_Am_Going.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5ip59bc09yi/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_6780971de4b092c1697eff29",
+      "title": "27_Can_I_Play_Too",
+      "materialId": "m_gD6jwm8fKiZok_m5q7kz47",
+      "returnedMaterialId": "m_gD6jwm8fKiZok_m5q7kz47",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "27_Can_I_Play_Too.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5q7938p0efb/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_678b215ae4b0694c5a83e8e0",
+      "title": "28_We_Are_in_a_Book",
+      "materialId": "m_08xFZ7HOcy6Yx_m61mvmb3",
+      "returnedMaterialId": "m_08xFZ7HOcy6Yx_m61mvmb3",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "28_We_Are_in_a_Book.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/efa809281397757902920890311/drm/v.f421220.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_678c02d9e4b0694ca04cd796",
+      "title": "29_I_Broke_My_Trunk",
+      "materialId": "m_wVo21gR7UiG75_m62l6ogi",
+      "returnedMaterialId": "m_wVo21gR7UiG75_m62l6ogi",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "29_I_Broke_My_Trunk.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/1c4f96b71397757901578774263/drm/v.f421220.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_678f13cbe4b0694ca04ee5af",
+      "title": "30_Should_I_Share_My_Ice_Cream",
+      "materialId": "m_kqSRGw1XBoSn6_m65wwlyb",
+      "returnedMaterialId": "m_kqSRGw1XBoSn6_m65wwlyb",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "30_Should_I_Share_My_Ice_Cream.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65wt9n90hga/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_678f193fe4b0694c5a85ee8c",
+      "title": "31_Happy_Pig_Day",
+      "materialId": "m_4Rm5NRrBot9Rx_m65xr2sw",
+      "returnedMaterialId": "m_4Rm5NRrBot9Rx_m65xr2sw",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "31_Happy_Pig_Day.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65xnv360yrp/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_679af486e4b0694c5a89a0d1",
+      "title": "32_Listen_to_My_Trumpet",
+      "materialId": "m_tY0fz0yk9AX4a_m6isdlva",
+      "returnedMaterialId": "m_tY0fz0yk9AX4a_m6isdlva",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "32_Listen_to_My_Trumpet.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6is84ng0su4/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_679afd8ce4b0694ca053b9be",
+      "title": "33_Let's_Go_for_a_Drive",
+      "materialId": "m_0hDdk18RKsQoI_m6itr2aw",
+      "returnedMaterialId": "m_0hDdk18RKsQoI_m6itr2aw",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "33_Let's_Go_for_a_Drive.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://c-vod-hw-k.xiaoeknow.com/asset/d63fa96cb26ad31d14da7c8792ac3d60/4cb0b3edaa91d598ade8b8b8e94a34ac.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_679fa192e4b0694c5a8a40bd",
+      "title": "34_A_Big_Guy_Took_My_Ball",
+      "materialId": "m_nI77Som5OKT6E_m6nuty76",
+      "returnedMaterialId": "m_nI77Som5OKT6E_m6nuty76",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "34_A_Big_Guy_Took_My_Ball.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nujm4e0ok8/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_679fa82be4b0694ca0549633",
+      "title": "35_I'm_a_Frog",
+      "materialId": "m_Cp0kmXwd9h74c_m6nvtisf",
+      "returnedMaterialId": "m_Cp0kmXwd9h74c_m6nvtisf",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "35_ I'm_a_Frog.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nvls520tnj/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_679fc5dbe4b0694ca05497f9",
+      "title": "36_My_New_Friend_Is_So_Fun",
+      "materialId": "m_kfKMr506sJa3e_m6o0cviw",
+      "returnedMaterialId": "m_kfKMr506sJa3e_m6o0cviw",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "36_My_New_Friend_Is_So_Fun.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/2265c17b1397757904140400027/drm/v.f421220.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67a12eb2e4b0694ca054f496",
+      "title": "37_Waiting_Is_Not_Easy",
+      "materialId": "m_JYnjGuK3Wi0pB_m6pjcdc4",
+      "returnedMaterialId": "m_JYnjGuK3Wi0pB_m6pjcdc4",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "37_Waiting_Is_Not_Easy.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pjbf7m0c2h/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67a13a19e4b0694ca054f50c",
+      "title": "38_I_Will_Take_a_Nap",
+      "materialId": "m_cmdSkhMNNMYHn_m6pl1wm0",
+      "returnedMaterialId": "m_cmdSkhMNNMYHn_m6pl1wm0",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "38_I_Will_Take_a_Nap.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pkxtxi0488/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67a148a1e4b0694c5a8a875b",
+      "title": "39_I_Really_Like_Slop",
+      "materialId": "m_pDud1peznHNgi_m6pnbbaq",
+      "returnedMaterialId": "m_pDud1peznHNgi_m6pnbbaq",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "39_I_Really_Like_Slop.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pn8x5408gj/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    },
+    {
+      "resourceId": "v_67a17a4fe4b0694ca05500a6",
+      "title": "40_The_Thank_You_Book",
+      "materialId": "m_8hyEHTKpXpDjX_m6psn7tz",
+      "returnedMaterialId": "m_8hyEHTKpXpDjX_m6psn7tz",
+      "materialAppId": "appUzEnkPEJ8854",
+      "originalFilenameField": "40_The_Thank_You_Book.mp4",
+      "isTranscode": 1,
+      "isDRM": 1,
+      "playVariants": [
+        "720p_hls",
+        "mp3"
+      ],
+      "videoURLWithoutSignature": "https://v-vod-k.xiaoeknow.com/a8307e36f7a64aeeae086cc157bb356b/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/drm/main.m3u8",
+      "sourceWidth": null,
+      "sourceHeight": null,
+      "sourceObject": null,
+      "sourceRetained": null
+    }
+  ],
+  "alternateRouteAudit": {
+    "lessons": 4,
+    "routesPerLesson": 2,
+    "sampledSegmentsPerRoute": 3,
+    "segmentsDecoded": 24,
+    "dimensions": [
+      [
+        1280,
+        720
+      ]
+    ],
+    "allSamplePayloadPairsIdentical": true,
+    "evidence": "original-source-alternate-routes.json"
+  },
+  "provenanceSamples": "original-source-provenance-samples.json",
+  "sourceCodeEvidence": [
+    {
+      "url": "https://assets.cdn.xiaoeknow.com/course/h5_study_fe/1.4.70/js/BasicVideo-legacy.js",
+      "local": ".private/quality-research/deep/fc0b419373-BasicVideo-legacy.js",
+      "sha256": "1bb030b555584219ba7105d2adc64aa866aa1324fcf35547682b07e5f0d5cb2b",
+      "bytes": 1208535,
+      "codeEvidence": [
+        {
+          "term": "/xe.material-center.play/getPlayUrl",
+          "offset": 194159
+        },
+        {
+          "term": "https://material-api.xiaoeknow.com/api/xe.keyframes/get/1.0.0",
+          "offset": 195593
+        }
+      ]
+    },
+    {
+      "url": "https://assets.cdn.xiaoeknow.com/course/h5_study_fe/1.4.70/assets/main-legacy-68127257.js",
+      "local": ".private/quality-research/deep/bd48864156-main-legacy-68127257.js",
+      "sha256": "67b82aebb2f88cf0eca844cd1c7bd126815b935d148747c37acac30fdef70eb0",
+      "bytes": 86240,
+      "codeEvidence": [
+        {
+          "term": "/xe.course.business_go.video.mutli_line/1.0.0",
+          "offset": 38043
+        }
+      ]
+    },
+    {
+      "url": "https://assets.cdn.xiaoeknow.com/course/h5_study_fe/1.4.70/js/xiaoe-jssdk-legacy.js",
+      "local": ".private/quality-research/deep/c23f617c6e-xiaoe-jssdk-legacy.js",
+      "sha256": "336e2f5bf9fb61414a662dacf82df4ffe764dbb562f61c9c06a82166d86948ff",
+      "bytes": 197767,
+      "codeEvidence": [
+        {
+          "term": "/xe.material-center.platform.asset.details.get/1.0.0",
+          "offset": 104334
+        },
+        {
+          "term": "source_bucket:t.obsBucket",
+          "offset": 91564
+        },
+        {
+          "term": "getUploadPath=function",
+          "offset": 82077
+        },
+        {
+          "term": "Date.now().toString(36)+Math.random()",
+          "offset": 80368
+        }
+      ]
+    },
+    {
+      "url": "https://assets.cdn.xiaoeknow.com/course/h5_study_fe/1.4.70/js/OldVideoContent-legacy.js",
+      "local": ".private/quality-research/deep/46b2ae2eec-OldVideoContent-legacy.js",
+      "sha256": "d8d4fb5e420202203f84c7fbff805625e087c400290ffc1edb3b16b2bc7f9590",
+      "bytes": 182741,
+      "codeEvidence": [
+        {
+          "term": "getVideoExchangeRouteList",
+          "offset": 163570
+        },
+        {
+          "term": "cloud_data",
+          "offset": 172998
+        }
+      ]
+    }
+  ],
+  "publicImplementationSources": [
+    {
+      "repository": "miaoyc666/xiaoetong-video-downloader",
+      "ref": "c1182f06e7bc71c45a27d62899a7a791fa40f1b2",
+      "path": "src/xiaoet_downloader/api/client.py",
+      "url": "https://github.com/miaoyc666/xiaoetong-video-downloader/blob/c1182f06e7bc71c45a27d62899a7a791fa40f1b2/src/xiaoet_downloader/api/client.py",
+      "sha256": "8f2e49bee2ebf5caabceb680404ef391da6e0a6846bc6148b5676b34fcbd633e",
+      "bytes": 5484
+    },
+    {
+      "repository": "miaoyc666/xiaoetong-video-downloader",
+      "ref": "c1182f06e7bc71c45a27d62899a7a791fa40f1b2",
+      "path": "src/xiaoet_downloader/core/downloader.py",
+      "url": "https://github.com/miaoyc666/xiaoetong-video-downloader/blob/c1182f06e7bc71c45a27d62899a7a791fa40f1b2/src/xiaoet_downloader/core/downloader.py",
+      "sha256": "430a11ab87278c1cefcbe7ad308275e0dea47cfbc8c4d77665507243a41e65cb",
+      "bytes": 7446
+    },
+    {
+      "repository": "miaoyc666/xiaoetong-video-downloader",
+      "ref": "c1182f06e7bc71c45a27d62899a7a791fa40f1b2",
+      "path": "src/xiaoet_downloader/models/video.py",
+      "url": "https://github.com/miaoyc666/xiaoetong-video-downloader/blob/c1182f06e7bc71c45a27d62899a7a791fa40f1b2/src/xiaoet_downloader/models/video.py",
+      "sha256": "2939c005c0b3c5fb8a3fdc20483d772190b13f3fee12c2e6fb5a712727048618",
+      "bytes": 3148
+    },
+    {
+      "repository": "Abirdcfly/xiaoe_download",
+      "ref": "master",
+      "path": "get_xiaoe.py",
+      "url": "https://github.com/Abirdcfly/xiaoe_download/blob/master/get_xiaoe.py",
+      "sha256": "6a38a7e25a9142ce768532b783baf51bcb4c04a6057d995c523baf1f5aee2631",
+      "bytes": 6833
+    },
+    {
+      "repository": "nemoTyrant/goose",
+      "ref": "master",
+      "path": "main.go",
+      "url": "https://github.com/nemoTyrant/goose/blob/master/main.go",
+      "sha256": "257531d8c3ff7b3d86633e1f25bd6ae1d81989d6a1bd183a06150212b4987f7d",
+      "bytes": 4793
+    }
+  ],
+  "sourceMetadataReadPaths": [
+    {
+      "endpoint": "/xe.material-center.platform.asset.details.get/1.0.0",
+      "method": "POST",
+      "params": [
+        "source_bucket",
+        "source_object"
+      ],
+      "usedBy": "upload SDK completion poll",
+      "responseFieldsConsumed": [
+        "asset_status",
+        "asset_id",
+        "video_url"
+      ],
+      "queried": false,
+      "reason": "Neither source_bucket nor source_object is present in learner responses; no source object was guessed."
+    },
+    {
+      "endpoint": "https://api.xiaoe-tech.com/xe.material.list/1.0.0",
+      "method": "POST",
+      "params": [
+        "access_token",
+        "type=3"
+      ],
+      "permission": "素材管理-查询",
+      "documentedFields": [
+        "material_id",
+        "material_size",
+        "material_property.width",
+        "material_property.height",
+        "material_property.pixel_data"
+      ],
+      "documentation": "https://api-doc.xiaoe-tech.com/api_list/material/list.html",
+      "queried": false,
+      "reason": "Requires a merchant API token with material query permission; user has learner purchase access only. Documentation does not itself prove original retention or provide an original download URL."
+    }
+  ],
+  "known": [
+    "41 authorized play responses expose 720p_hls and mp3 only.",
+    "Resource IDs map to 41 material IDs with original filename fields and is_transcode=1.",
+    "All archived playback video streams are 1280x720.",
+    "Four legacy multi-cloud samples resolve to media playlists and identical sampled decoded TS payloads across the two CDN routes."
+  ],
+  "unknown": [
+    "Whether the uploaded original file is still retained by the platform.",
+    "The uploaded original video dimensions, bitrate, and byte-level identity.",
+    "Whether a higher-resolution rendition exists outside this learner account playback response."
+  ],
+  "conclusion": "720p is the highest verified and downloadable rendition exposed to this learner account. It is not established that 720p is the uploader original or the only version stored by the service."
+}

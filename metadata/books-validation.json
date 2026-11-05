@@ -1,0 +1,189 @@
+{
+  "bookCount": 44,
+  "seriesCount": 4,
+  "entryCount": 44,
+  "coverCount": 44,
+  "coverBytes": 7632582,
+  "covers": {
+    "media/book-covers/my-friend-is-sad.jpg": {
+      "bytes": 32681,
+      "sha256": "6c27d25b3ec3ebadddee39510a288e86f6fda7fae481d2d1a2c0d2d29d154b27"
+    },
+    "media/book-covers/today-i-will-fly.jpg": {
+      "bytes": 35940,
+      "sha256": "f7081f53459a05a10a4e284f243192f303778d7c8f84b086757fe29727657989"
+    },
+    "media/book-covers/there-is-a-bird-on-your-head.jpg": {
+      "bytes": 35985,
+      "sha256": "20886d90841e576ff6d90a9dcba1a391a76741d8bec6fbd25f7eeabab2ed1e93"
+    },
+    "media/book-covers/i-am-invited-to-a-party.jpg": {
+      "bytes": 29585,
+      "sha256": "c5c7c710fdafb6ab2e111bec429781780687a9d81e660ccab1403029c749c92b"
+    },
+    "media/book-covers/i-love-my-new-toy.jpg": {
+      "bytes": 30842,
+      "sha256": "4eac4ed66915ddba420977424279de5eb70cd21fab9c80be30732a3c16689852"
+    },
+    "media/book-covers/i-will-surprise-my-friend.jpg": {
+      "bytes": 31508,
+      "sha256": "2e59a3fc2c625c9bfbc20104c4a0149d45f9768826381e1dc0b3d5d347c6476c"
+    },
+    "media/book-covers/are-you-ready-to-play-outside.jpg": {
+      "bytes": 40313,
+      "sha256": "0370526dc395790fe84fd432e9ceec3d7317f9decfce132c07e89455170c127d"
+    },
+    "media/book-covers/watch-me-throw-the-ball.jpg": {
+      "bytes": 35450,
+      "sha256": "dc69b91cae3a2bf307641fc161c007cc14e59f337ae04a91d1b4178d951db844"
+    },
+    "media/book-covers/elephants-cannot-dance.jpg": {
+      "bytes": 42583,
+      "sha256": "2c19bff55067afcacdefc965bf37dbfd8b2023958d9c5c00918439bb5a696ea8"
+    },
+    "media/book-covers/pigs-make-me-sneeze.jpg": {
+      "bytes": 48416,
+      "sha256": "c379726ebe533d8d3853ec9950086e242ff91f0ef68eaef4ffecc703c4910692"
+    },
+    "media/book-covers/i-am-going.jpg": {
+      "bytes": 33504,
+      "sha256": "29dd6a4be2f1b75a87c90d6a7a777812c1e56e6fbc22f5be0ff7579c78543e6c"
+    },
+    "media/book-covers/can-i-play-too.jpg": {
+      "bytes": 34987,
+      "sha256": "0fc7525f9edec8cccb4869126e93387b6a0bca71c102dfd2c4a72cd3e67dacb5"
+    },
+    "media/book-covers/we-are-in-a-book.jpg": {
+      "bytes": 39699,
+      "sha256": "70d39717994d87ddf42607ea8d21505bbf0f57c1265797b3f8563b339ee11993"
+    },
+    "media/book-covers/i-broke-my-trunk.jpg": {
+      "bytes": 39424,
+      "sha256": "e3ee036eea2a43f6c8cb82f2f7294ef0d6c759a0cd440c598f2f3bc26d80d22d"
+    },
+    "media/book-covers/should-i-share-my-ice-cream.jpg": {
+      "bytes": 702350,
+      "sha256": "0d5fbcabb94cb5405ebe255a4282a8aa21eceff98e8eb26be4924355fd02f7f6"
+    },
+    "media/book-covers/happy-pig-day.jpg": {
+      "bytes": 56068,
+      "sha256": "2268a920db3d73657a4d6fcd31f79f6cccc18814909f51cc2d530beb822da866"
+    },
+    "media/book-covers/listen-to-my-trumpet.jpg": {
+      "bytes": 372637,
+      "sha256": "7fd28c8a7e2c8fd02f013bb38a0c16fe90071d7a93b74cf2f54297c04929f03e"
+    },
+    "media/book-covers/lets-go-for-a-drive.jpg": {
+      "bytes": 50736,
+      "sha256": "29d7d661a458c012bdccef705dabf1fa3305aa92f639575100aa42fecf924987"
+    },
+    "media/book-covers/a-big-guy-took-my-ball.jpg": {
+      "bytes": 403084,
+      "sha256": "531fde575603030dd7ee6e88c4a737abf2ee5a2660883d283d184143f831cddc"
+    },
+    "media/book-covers/im-a-frog.jpg": {
+      "bytes": 38320,
+      "sha256": "99b1d84f63cab2de980e94d61e0b00c2ab712b35a069c41e80cba4f247062133"
+    },
+    "media/book-covers/my-new-friend-is-so-fun.jpg": {
+      "bytes": 47496,
+      "sha256": "102c8864add82256db1d59264d8b783094c4bffc45d5991f1b7fd945e9d361d6"
+    },
+    "media/book-covers/waiting-is-not-easy.jpg": {
+      "bytes": 42096,
+      "sha256": "e4acbc5b01c1b5c92f2227fb2c289c2bb108adb3b9760c49a93e01c1dcbc1c48"
+    },
+    "media/book-covers/i-will-take-a-nap.jpg": {
+      "bytes": 40781,
+      "sha256": "e3105215f999f0e139bc64a4e0e039451260d73c5048ac28b72e7b334f8b250e"
+    },
+    "media/book-covers/i-really-like-slop.jpg": {
+      "bytes": 83714,
+      "sha256": "fd7090094623c387d647d211ccd57974e7ab3ba286e1a529ed3bea167f6300e8"
+    },
+    "media/book-covers/the-thank-you-book.jpg": {
+      "bytes": 1780777,
+      "sha256": "9b97f852fcd24d118f9cf879d35a428d3715940b96e02f89347e4dc2414c7c52"
+    },
+    "media/book-covers/browne-a-walk-in-the-park.webp": {
+      "bytes": 28704,
+      "sha256": "db67df2e43c3d95989446a68a5cc37d2646a3288fd45bcda408b1d8ba032fa1c"
+    },
+    "media/book-covers/browne-changes.webp": {
+      "bytes": 111872,
+      "sha256": "9f33d588bea9eb237e73270513a570a3b38f10bf7335cad01aaa357577f43368"
+    },
+    "media/book-covers/browne-willys-pictures.webp": {
+      "bytes": 14454,
+      "sha256": "a9bc4bd20a0c0525eefcec5ac46fa40e72e7b1b92b614798ef6e292e164777b9"
+    },
+    "media/book-covers/browne-my-mum.webp": {
+      "bytes": 1053600,
+      "sha256": "629723e24176e6b938424fb3eb7342119ef45a1071b9877d6bbc4e9a3e56549e"
+    },
+    "media/book-covers/browne-my-brother.webp": {
+      "bytes": 574378,
+      "sha256": "6cfbf5d5dcf7c5ebd8457d3f88609565e03add2aae3bf5e9c8e310a83d13e675"
+    },
+    "media/book-covers/browne-zoo.webp": {
+      "bytes": 20212,
+      "sha256": "45b160b71c160edf77fbe4f674fb9589331381d245484d6f56bc889efca90914"
+    },
+    "media/book-covers/browne-little-beauty.webp": {
+      "bytes": 52464,
+      "sha256": "d52c44e4f694a0d3d6ce8c1bd6e303a9647596dd0c6e26981096a9be0ce88fac"
+    },
+    "media/book-covers/browne-my-dad.webp": {
+      "bytes": 628482,
+      "sha256": "99e459aa1fae21132cfa189fd9f67926c008a79466d9228c65d82233a8481594"
+    },
+    "media/book-covers/put-me-in-the-zoo.jpg": {
+      "bytes": 48243,
+      "sha256": "c153c30037d9883d204fe192bb004bbfd680c97c76ab2d627bdf04ff4b28159a"
+    },
+    "media/book-covers/a-fly-went-by.jpg": {
+      "bytes": 55380,
+      "sha256": "5fa3ac45ed2739475bdd9e157a1489395c6589b5c25653325e48f1931ecfc2db"
+    },
+    "media/book-covers/big-purple-book.jpg": {
+      "bytes": 53539,
+      "sha256": "e65b642e2b7af5ad99b146ade7ef79433ba3d0d9993bfd20b9b448f64eb7a26e"
+    },
+    "media/book-covers/very-hungry-caterpillar.jpg": {
+      "bytes": 43985,
+      "sha256": "e3bd37cf418406ee6d8bfa37f8deefc54233c83cf8367240c5d4d2305c5ea520"
+    },
+    "media/book-covers/spot-goes-to-school.jpg": {
+      "bytes": 169508,
+      "sha256": "55db10b9712bcd25b9d62960eaa96c35197eff6b51cd3866bffb3f297e40838b"
+    },
+    "media/book-covers/spot-goes-to-the-farm.jpg": {
+      "bytes": 154090,
+      "sha256": "bd44f43b386885a90f85d69deed726c6af5fab5a775aaec6487b8030f563efd6"
+    },
+    "media/book-covers/spot-stays-overnight.jpg": {
+      "bytes": 149429,
+      "sha256": "6881a00245afa80f7566f40b2401f7abc4e73bf9e9f63d6c270463bc93e5fd52"
+    },
+    "media/book-covers/spot-goes-on-holiday.jpg": {
+      "bytes": 172138,
+      "sha256": "cc089826528deb41296ad8362d31a883dd6910953701a014b38ae521422dd397"
+    },
+    "media/book-covers/maisy-goes-to-bed.jpg": {
+      "bytes": 135220,
+      "sha256": "621f137207e7bbeca05e5236f43a54c220bfb16aa9ad2e0b27b9f9ab52b90c35"
+    },
+    "media/book-covers/love-you-forever.jpg": {
+      "bytes": 12432,
+      "sha256": "675a12dd350b01819ea3648a2ab41442311a16e05ef01ae34d653a812dc16a81"
+    },
+    "media/book-covers/my-car.jpg": {
+      "bytes": 25476,
+      "sha256": "071fa70602cef69d165991a00a5ce9ede59484ccd2e326f46ed133fb8298e73d"
+    }
+  },
+  "uncertainMentions": 4,
+  "otherReferences": 26,
+  "errors": [],
+  "complete": true
+}

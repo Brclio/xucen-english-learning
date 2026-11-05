@@ -1,0 +1,30 @@
+{
+  "courseResourceId": "v_67568bf8e4b023c058b2f644",
+  "reason": "Source supplies distinct adjacent video packets with identical DTS. Both are retained; split the original decode interval equally; adjust PTS only if also duplicated.",
+  "packetAdjustments": [
+    {
+      "packet": 15056,
+      "ticks": 1800,
+      "ptsTicks": 1800,
+      "originalPts": 54223200,
+      "originalDts": 54198000
+    }
+  ],
+  "timebase": "1/90000",
+  "videoFrames": 25737,
+  "nonmonotonicDecodedFramesAfter": 0,
+  "streamPayloadsUnchanged": true,
+  "streamDigests": {
+    "0": {
+      "packets": 25737,
+      "orderedPayloadSha256": "56dc7a02434fd2838b01379591e1c5b2ae462fb774be6824dff67387bbfe80fb"
+    },
+    "1": {
+      "packets": 44338,
+      "orderedPayloadSha256": "647327ae69c1c385d86e2fe37671428bc184f52dbc4255496c775c770d64ee89"
+    }
+  },
+  "reencoded": false,
+  "durationUnchanged": true,
+  "validation": "Full video/audio decode with passthrough and output timebase 1/90000: zero errors"
+}

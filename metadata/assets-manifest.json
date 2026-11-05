@@ -1,0 +1,1353 @@
+{
+  "sourceUrl": "https://appuzenkpej8854.h5.xet.pomoho.com/p/course/column/p_673aa9b1e4b023c058a64b53",
+  "lessons": {
+    "v_673ab182e4b023c058a6547d": {
+      "id": "v_673ab182e4b023c058a6547d",
+      "title": "00_先导",
+      "audio": {
+        "path": "media/audio/00_先导.mp3",
+        "bytes": 16666584,
+        "sha256": "66100c36380ee34150e34dd632b349077319620f06152822ad777bcb17ddd007",
+        "reused": false,
+        "media": {
+          "duration": 1041.600726,
+          "format": "mp3",
+          "bitrate": 128007,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m3mfgf090yuw/main.mp3",
+        "expectedDuration": 1042,
+        "durationDelta": -0.399
+      }
+    },
+    "v_67475a5de4b023c058ac7309": {
+      "id": "v_67475a5de4b023c058ac7309",
+      "title": "01_母语",
+      "audio": {
+        "path": "media/audio/01_母语.mp3",
+        "bytes": 9203087,
+        "sha256": "41233a5903c2c0b73f944fa276ef4e94085aa6dddfd516796a9d89f323e3b59d",
+        "reused": false,
+        "media": {
+          "duration": 575.135057,
+          "format": "mp3",
+          "bitrate": 128012,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46gyfmd096r/main.mp3",
+        "expectedDuration": 575,
+        "durationDelta": 0.135
+      }
+    },
+    "v_67475b5ae4b0694c95087f14": {
+      "id": "v_67475b5ae4b0694c95087f14",
+      "title": "02_无痛和有痛",
+      "audio": {
+        "path": "media/audio/02_无痛和有痛.mp3",
+        "bytes": 11627668,
+        "sha256": "cc392b13309766b5b28fc43fe341c3514ba9b9460bbed041f99f394065126074",
+        "reused": false,
+        "media": {
+          "duration": 726.668481,
+          "format": "mp3",
+          "bitrate": 128010,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m40a8hsr0id9/main.mp3",
+        "expectedDuration": 727,
+        "durationDelta": -0.332
+      }
+    },
+    "v_674d2cb1e4b023c058aecfdd": {
+      "id": "v_674d2cb1e4b023c058aecfdd",
+      "title": "03_兴趣",
+      "audio": {
+        "path": "media/audio/03_兴趣.mp3",
+        "bytes": 16685392,
+        "sha256": "99ace4c0d6ee96b9a750cee09632745dbecca0de1aef7d256575ef7130162834",
+        "reused": false,
+        "media": {
+          "duration": 1042.761723,
+          "format": "mp3",
+          "bitrate": 128009,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46h3z1401w9/main.mp3",
+        "expectedDuration": 1043,
+        "durationDelta": -0.238
+      }
+    },
+    "v_674d2e2ee4b0694c3c7251f3": {
+      "id": "v_674d2e2ee4b0694c3c7251f3",
+      "title": "04_对父母的挑战",
+      "audio": {
+        "path": "media/audio/04_对父母的挑战.mp3",
+        "bytes": 10948066,
+        "sha256": "1cf196415305019b08f0bc4caebd43b1c50133391adc8d801023c21cfc5f734a",
+        "reused": false,
+        "media": {
+          "duration": 684.199184,
+          "format": "mp3",
+          "bitrate": 128010,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46hjiqi0zwj/main.mp3",
+        "expectedDuration": 684,
+        "durationDelta": 0.199
+      }
+    },
+    "v_674d33cee4b0694c950b2c81": {
+      "id": "v_674d33cee4b0694c950b2c81",
+      "title": "05_听说读写的顺序",
+      "audio": {
+        "path": "media/audio/05_听说读写的顺序.mp3",
+        "bytes": 9438033,
+        "sha256": "4502829f222d6e569cb0162f84e2a749425ccf05c0f9d8e926f68e7ce0e06fee",
+        "reused": false,
+        "media": {
+          "duration": 674.075283,
+          "format": "mp3",
+          "bitrate": 112011,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "112000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/9b7cb27df1adc184d22ff1ce47a5807e/a15643d86254b73daca5e2228e813a3a.mp3",
+        "expectedDuration": 674,
+        "durationDelta": 0.075
+      }
+    },
+    "v_674d3511e4b0694c3c72563d": {
+      "id": "v_674d3511e4b0694c3c72563d",
+      "title": "06_听",
+      "audio": {
+        "path": "media/audio/06_听.mp3",
+        "bytes": 12050643,
+        "sha256": "fd0ad4170b00b9b468263f471af459ae4e64ed8950ab765de81c81a048e3658e",
+        "reused": false,
+        "media": {
+          "duration": 753.092789,
+          "format": "mp3",
+          "bitrate": 128012,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m46imqmr0ku5/main.mp3",
+        "expectedDuration": 753,
+        "durationDelta": 0.093
+      }
+    },
+    "v_674dd73ae4b0694c3c72dfdd": {
+      "id": "v_674dd73ae4b0694c3c72dfdd",
+      "title": "07_说（唱）",
+      "audio": {
+        "path": "media/audio/07_说（唱）.mp3",
+        "bytes": 15198293,
+        "sha256": "c84e56332903d980f9da25dc7fd7dac981364435a907c6f9695bfe622c5535fa",
+        "reused": false,
+        "media": {
+          "duration": 949.835465,
+          "format": "mp3",
+          "bitrate": 128007,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4779wrr0g9v/main.mp3",
+        "expectedDuration": 950,
+        "durationDelta": -0.165
+      }
+    },
+    "v_674f0836e4b0694c950c710b": {
+      "id": "v_674f0836e4b0694c950c710b",
+      "title": "08_读",
+      "audio": {
+        "path": "media/audio/08_读.mp3",
+        "bytes": 21270822,
+        "sha256": "61bf007c436d925cce98fd1e8abcd2caa08c741199992da61a490bd55ebd5002",
+        "reused": false,
+        "media": {
+          "duration": 1329.365624,
+          "format": "mp3",
+          "bitrate": 128005,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/a56d9cbd1397757898625618345/v.f1010.mp3",
+        "expectedDuration": 1329,
+        "durationDelta": 0.366
+      }
+    },
+    "v_674fcfcde4b0694c3c73c697": {
+      "id": "v_674fcfcde4b0694c3c73c697",
+      "title": "09_写（画）",
+      "audio": {
+        "path": "media/audio/09_写（画）.mp3",
+        "bytes": 11238966,
+        "sha256": "7f49ca2a650f08afaa0c466e7acf0d452349636bc8d9c1c7e7894582132232aa",
+        "reused": false,
+        "media": {
+          "duration": 702.380408,
+          "format": "mp3",
+          "bitrate": 128010,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/dc1fe7163a13a8d46e3e26c6c4d8cf22/4f2d5d1e05f88a5158aa76f42fe872a7.mp3",
+        "expectedDuration": 702,
+        "durationDelta": 0.38
+      }
+    },
+    "v_675122b5e4b0694c3c747a50": {
+      "id": "v_675122b5e4b0694c3c747a50",
+      "title": "10_环境的营造",
+      "audio": {
+        "path": "media/audio/10_环境的营造.mp3",
+        "bytes": 13275263,
+        "sha256": "a1234b3c1d67f281525f519df5f322656c7b80ce0eb679ad50cfea173e8bab78",
+        "reused": false,
+        "media": {
+          "duration": 829.64898,
+          "format": "mp3",
+          "bitrate": 128008,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4aqzv340cjb/main.mp3",
+        "expectedDuration": 830,
+        "durationDelta": -0.351
+      }
+    },
+    "v_675281f3e4b0694c3c753213": {
+      "id": "v_675281f3e4b0694c3c753213",
+      "title": "11_许闻的书房",
+      "audio": {
+        "path": "media/audio/11_许闻的书房.mp3",
+        "bytes": 13765529,
+        "sha256": "d7741b944e9ef0bbf2ca27ba14f000d65d73aed776e08672a051eecd5453e567",
+        "reused": false,
+        "media": {
+          "duration": 860.2761,
+          "format": "mp3",
+          "bitrate": 128010,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/4a5f007e1397757898641661593/v.f1010.mp3",
+        "expectedDuration": 860,
+        "durationDelta": 0.276
+      }
+    },
+    "v_67568bf8e4b023c058b2f644": {
+      "id": "v_67568bf8e4b023c058b2f644",
+      "title": "12_许瞧的闺房",
+      "audio": {
+        "path": "media/audio/12_许瞧的闺房.mp3",
+        "bytes": 14413575,
+        "sha256": "345c95404c34569b3ea372447f3b5569e3b0b1f7ed70f9c54e17ebd30f14f4e7",
+        "reused": false,
+        "media": {
+          "duration": 1029.479909,
+          "format": "mp3",
+          "bitrate": 112006,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "112000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/6f3d1ee9e85dc63a8f98db30d899286c/fa3855e795c5a98dc243d9f2e24aaeb4.mp3",
+        "expectedDuration": 1029,
+        "durationDelta": 0.48
+      }
+    },
+    "v_6757658ce4b0694c3c7757f0": {
+      "id": "v_6757658ce4b0694c3c7757f0",
+      "title": "13_绘本的使用",
+      "audio": {
+        "path": "media/audio/13_绘本的使用.mp3",
+        "bytes": 13091779,
+        "sha256": "9e9bbaf8c4bd92916b7365fd223258ddd58e6d1c15c5cf1ee54edb88419e449f",
+        "reused": false,
+        "media": {
+          "duration": 818.178322,
+          "format": "mp3",
+          "bitrate": 128009,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hk7atn02yd/main.mp3",
+        "expectedDuration": 818,
+        "durationDelta": 0.178
+      }
+    },
+    "v_6757b5a9e4b0694c9510abb8": {
+      "id": "v_6757b5a9e4b0694c9510abb8",
+      "title": "14_大童的英语追赶",
+      "audio": {
+        "path": "media/audio/14_大童的英语追赶.mp3",
+        "bytes": 15124315,
+        "sha256": "529d5c57181f8632fe33a812611c804b80b2f4a177a20306a01a271ab339ebb1",
+        "reused": false,
+        "media": {
+          "duration": 945.214694,
+          "format": "mp3",
+          "bitrate": 128007,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4hv30n30943/main.mp3",
+        "expectedDuration": 945,
+        "durationDelta": 0.215
+      }
+    },
+    "v_6758f107e4b0694c3c782feb": {
+      "id": "v_6758f107e4b0694c3c782feb",
+      "title": "15_成年人（父母）的最后一搏",
+      "audio": {
+        "path": "media/audio/15_成年人（父母）的最后一搏.mp3",
+        "bytes": 7128337,
+        "sha256": "2827fa881c359ee72a81ea80aa471af45bddcf677ba1a513a02fdb2a6b54cff4",
+        "reused": false,
+        "media": {
+          "duration": 445.45161,
+          "format": "mp3",
+          "bitrate": 128019,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4j704pm037j/main.mp3",
+        "expectedDuration": 445,
+        "durationDelta": 0.452
+      }
+    },
+    "v_675db494e4b023c058b6ca9e": {
+      "id": "v_675db494e4b023c058b6ca9e",
+      "title": "16_My_Friend_Is_Sad",
+      "audio": {
+        "path": "media/audio/16_My_Friend_Is_Sad.mp3",
+        "bytes": 2486535,
+        "sha256": "7f7d4479b54901a625bd591793fd4ccb7080b46d5b831e010a3cb9115d4ff81c",
+        "reused": false,
+        "media": {
+          "duration": 177.539773,
+          "format": "mp3",
+          "bitrate": 112044,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "112000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/ce1727f2f65d1aea9c5e0a776072dd0d/0ff2e14e914938d8ea172fd71fc381fd.mp3",
+        "expectedDuration": 177,
+        "durationDelta": 0.54
+      }
+    },
+    "v_675fb7fce4b0694c9514aede": {
+      "id": "v_675fb7fce4b0694c9514aede",
+      "title": "17_Today_I_Will_Fly",
+      "audio": {
+        "path": "media/audio/17_Today_I_Will_Fly.mp3",
+        "bytes": 2280847,
+        "sha256": "40d875b874d6b86f8dcbd3a9ac6c71e165de8fca0dc1acef1fd65cb3952997d1",
+        "reused": false,
+        "media": {
+          "duration": 142.477642,
+          "format": "mp3",
+          "bitrate": 128067,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4qkr0qf0vuo/main.mp3",
+        "expectedDuration": 142,
+        "durationDelta": 0.478
+      }
+    },
+    "v_67625167e4b0694c3c7cc19e": {
+      "id": "v_67625167e4b0694c3c7cc19e",
+      "title": "18_There_Is_A_Bird_On_Your_Head",
+      "audio": {
+        "path": "media/audio/18_There_Is_A_Bird_On_Your_Head.mp3",
+        "bytes": 2246992,
+        "sha256": "1efddb602c49081c8d669c49dec110d21a3d9e5bfcff8407343afe441973474e",
+        "reused": false,
+        "media": {
+          "duration": 140.364626,
+          "format": "mp3",
+          "bitrate": 128065,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m4tdytlo0qjl/main.mp3",
+        "expectedDuration": 140,
+        "durationDelta": 0.365
+      }
+    },
+    "v_676852c1e4b0694c3c7f29f8": {
+      "id": "v_676852c1e4b0694c3c7f29f8",
+      "title": "19_I_Am_Invited_to_a_Party",
+      "audio": {
+        "path": "media/audio/19_I_Am_Invited_to_a_Party.mp3",
+        "bytes": 1738650,
+        "sha256": "c6d8af10d92399ff06c533b8d436ce678669d0759351cdd75b785c36592942a2",
+        "reused": false,
+        "media": {
+          "duration": 124.133878,
+          "format": "mp3",
+          "bitrate": 112049,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "112000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/df931173a9d21692938a86f0841cacf8/95932b94e990ce2d21e921eb36bc1fff.mp3",
+        "expectedDuration": 124,
+        "durationDelta": 0.134
+      }
+    },
+    "v_6768cc61e4b023c058bb970e": {
+      "id": "v_6768cc61e4b023c058bb970e",
+      "title": "20_I_Love_MY_New_Toy",
+      "audio": {
+        "path": "media/audio/20_I_Love_MY_New_Toy.mp3",
+        "bytes": 2173849,
+        "sha256": "5f1f10859cf13d35c20c04d9d60d54192c60f30a83a1faa9689332cfcc373bca",
+        "reused": false,
+        "media": {
+          "duration": 135.790295,
+          "format": "mp3",
+          "bitrate": 128070,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m50f6pca03xf/main.mp3",
+        "expectedDuration": 136,
+        "durationDelta": -0.21
+      }
+    },
+    "v_6769b463e4b023c058bc3911": {
+      "id": "v_6769b463e4b023c058bc3911",
+      "title": "21_I_Will_Surprise_My_Friend",
+      "audio": {
+        "path": "media/audio/21_I_Will_Surprise_My_Friend.mp3",
+        "bytes": 2350646,
+        "sha256": "6d012e1f78b0e88649ff8fc13808d4c00b9cea4b293e44b75ff944cff83846fd",
+        "reused": false,
+        "media": {
+          "duration": 146.842993,
+          "format": "mp3",
+          "bitrate": 128063,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m51eohhf0c9j/main.mp3",
+        "expectedDuration": 147,
+        "durationDelta": -0.157
+      }
+    },
+    "v_676b8bfbe4b0694c951ade5c": {
+      "id": "v_676b8bfbe4b0694c951ade5c",
+      "title": "22_Are_You_Ready_to_Plasy_Outside",
+      "audio": {
+        "path": "media/audio/22_Are_You_Ready_to_Plasy_Outside.mp3",
+        "bytes": 2122858,
+        "sha256": "224e246b189432a51e5ab6fac3039b5404abc0f3d22751ad8ff27b4811470f97",
+        "reused": false,
+        "media": {
+          "duration": 132.609161,
+          "format": "mp3",
+          "bitrate": 128067,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m53e6k590gza/main.mp3",
+        "expectedDuration": 133,
+        "durationDelta": -0.391
+      }
+    },
+    "v_6774b989e4b0694c951f3120": {
+      "id": "v_6774b989e4b0694c951f3120",
+      "title": "23_Watch_Me_Throw_the_Ball",
+      "audio": {
+        "path": "media/audio/23_Watch_Me_Throw_the_Ball.mp3",
+        "bytes": 4900615,
+        "sha256": "f88895c3acef62b38c335482409a58684aa1489facd032a329dec95ee76e0c31",
+        "reused": false,
+        "media": {
+          "duration": 306.224762,
+          "format": "mp3",
+          "bitrate": 128026,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5dccluz0pe0/main.mp3",
+        "expectedDuration": 306,
+        "durationDelta": 0.225
+      }
+    },
+    "v_6776a946e4b0694c3c855096": {
+      "id": "v_6776a946e4b0694c3c855096",
+      "title": "24_Elephant_Cannot_Dance",
+      "audio": {
+        "path": "media/audio/24_Elephant_Cannot_Dance.mp3",
+        "bytes": 3448730,
+        "sha256": "77f4944308df4b04d7241e0a4b9a9715912d94d94a7114bb6ad7d822d73bea5f",
+        "reused": false,
+        "media": {
+          "duration": 246.270839,
+          "format": "mp3",
+          "bitrate": 112030,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "112000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/b270636b428b4a11bc8bdef39bc7d382/838b75e3a86adc428b179e10b063cbed.mp3",
+        "expectedDuration": 246,
+        "durationDelta": 0.271
+      }
+    },
+    "v_67773751e4b023c058c21266": {
+      "id": "v_67773751e4b023c058c21266",
+      "title": "25_Pigs_Make_Me_Sneeze",
+      "audio": {
+        "path": "media/audio/25_Pigs_Make_Me_Sneeze.mp3",
+        "bytes": 2408324,
+        "sha256": "588a8fb1b63c196c1a4954b460a88cc4f24eaeb7d78448902f21db2295ce7118",
+        "reused": false,
+        "media": {
+          "duration": 150.465306,
+          "format": "mp3",
+          "bitrate": 128046,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5g1qlbf0lxq/main.mp3",
+        "expectedDuration": 150,
+        "durationDelta": 0.465
+      }
+    },
+    "v_6779a952e4b0694c3c8670e0": {
+      "id": "v_6779a952e4b0694c3c8670e0",
+      "title": "26_I_Am_Going",
+      "audio": {
+        "path": "media/audio/26_I_Am_Going.mp3",
+        "bytes": 1980334,
+        "sha256": "18130ca805fcce1620c43b4c650da67c1b213c6434a7e79adb55a35fe8fb0a4e",
+        "reused": false,
+        "media": {
+          "duration": 123.715918,
+          "format": "mp3",
+          "bitrate": 128056,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5ip59bc09yi/main.mp3",
+        "expectedDuration": 124,
+        "durationDelta": -0.284
+      }
+    },
+    "v_6780971de4b092c1697eff29": {
+      "id": "v_6780971de4b092c1697eff29",
+      "title": "27_Can_I_Play_Too",
+      "audio": {
+        "path": "media/audio/27_Can_I_Play_Too.mp3",
+        "bytes": 2185552,
+        "sha256": "30b026a04d3b7fbd8b32dbcec7a210cf1d51567a975ed34c628e0345497c7fce",
+        "reused": false,
+        "media": {
+          "duration": 136.533333,
+          "format": "mp3",
+          "bitrate": 128059,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m5q7938p0efb/main.mp3",
+        "expectedDuration": 137,
+        "durationDelta": -0.467
+      }
+    },
+    "v_678b215ae4b0694c5a83e8e0": {
+      "id": "v_678b215ae4b0694c5a83e8e0",
+      "title": "28_We_Are_in_a_Book",
+      "audio": {
+        "path": "media/audio/28_We_Are_in_a_Book.mp3",
+        "bytes": 2720122,
+        "sha256": "b2403b12bbc60d55a21ba5140110d8cef8bf192649bbc0161904522ff4e5c458",
+        "reused": false,
+        "media": {
+          "duration": 169.946848,
+          "format": "mp3",
+          "bitrate": 128045,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/efa809281397757902920890311/v.f1010.mp3",
+        "expectedDuration": 170,
+        "durationDelta": -0.053
+      }
+    },
+    "v_678c02d9e4b0694ca04cd796": {
+      "id": "v_678c02d9e4b0694ca04cd796",
+      "title": "29_I_Broke_My_Trunk",
+      "audio": {
+        "path": "media/audio/29_I_Broke_My_Trunk.mp3",
+        "bytes": 2310104,
+        "sha256": "563668548aab8d99b4d1eff17062205e2a26b85a425d15a2cc9c371f489f2c79",
+        "reused": false,
+        "media": {
+          "duration": 144.312018,
+          "format": "mp3",
+          "bitrate": 128061,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://encrypt-k-vod.xet.tech/3d7893d3vodtransusw1252524126/1c4f96b71397757901578774263/v.f1010.mp3",
+        "expectedDuration": 144,
+        "durationDelta": 0.312
+      }
+    },
+    "v_678f13cbe4b0694ca04ee5af": {
+      "id": "v_678f13cbe4b0694ca04ee5af",
+      "title": "30_Should_I_Share_My_Ice_Cream",
+      "audio": {
+        "path": "media/audio/30_Should_I_Share_My_Ice_Cream.mp3",
+        "bytes": 2542907,
+        "sha256": "0b5e711457f7ad9a654efe983939e57d69fee2be943e6d092fd472a8884f1275",
+        "reused": false,
+        "media": {
+          "duration": 158.87093,
+          "format": "mp3",
+          "bitrate": 128048,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65wt9n90hga/main.mp3",
+        "expectedDuration": 159,
+        "durationDelta": -0.129
+      }
+    },
+    "v_678f193fe4b0694c5a85ee8c": {
+      "id": "v_678f193fe4b0694c5a85ee8c",
+      "title": "31_Happy_Pig_Day",
+      "audio": {
+        "path": "media/audio/31_Happy_Pig_Day.mp3",
+        "bytes": 2412086,
+        "sha256": "ea636798522b2dca02d5843e664bd5aee6242b14997c8b2944cd1e4f104afcd1",
+        "reused": false,
+        "media": {
+          "duration": 150.697506,
+          "format": "mp3",
+          "bitrate": 128049,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m65xnv360yrp/main.mp3",
+        "expectedDuration": 151,
+        "durationDelta": -0.302
+      }
+    },
+    "v_679af486e4b0694c5a89a0d1": {
+      "id": "v_679af486e4b0694c5a89a0d1",
+      "title": "32_Listen_to_My_Trumpet",
+      "audio": {
+        "path": "media/audio/32_Listen_to_My_Trumpet.mp3",
+        "bytes": 2553356,
+        "sha256": "2865012727aef38db09541470685c96669aba9d7fcb0f079045df046b8706429",
+        "reused": false,
+        "media": {
+          "duration": 159.521088,
+          "format": "mp3",
+          "bitrate": 128051,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6is84ng0su4/main.mp3",
+        "expectedDuration": 160,
+        "durationDelta": -0.479
+      }
+    },
+    "v_679afd8ce4b0694ca053b9be": {
+      "id": "v_679afd8ce4b0694ca053b9be",
+      "title": "33_Let's_Go_for_a_Drive",
+      "audio": {
+        "path": "media/audio/33_Let's_Go_for_a_Drive.mp3",
+        "bytes": 2833964,
+        "sha256": "a69f2d67d79275bd1a9c00727a81ee80f3478049454ed264f59d3be2feb0c6f0",
+        "reused": false,
+        "media": {
+          "duration": 202.361905,
+          "format": "mp3",
+          "bitrate": 112035,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "112000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://c-vod-hw-k.xiaoeknow.com/asset/24881f0b9eadfd35d0c144419236a61a/70b2208ccec70f7cfb0cf9af6256fa97.mp3",
+        "expectedDuration": 202,
+        "durationDelta": 0.362
+      }
+    },
+    "v_679fa192e4b0694c5a8a40bd": {
+      "id": "v_679fa192e4b0694c5a8a40bd",
+      "title": "34_A_Big_Guy_Took_My_Ball",
+      "audio": {
+        "path": "media/audio/34_A_Big_Guy_Took_My_Ball.mp3",
+        "bytes": 3006842,
+        "sha256": "9dea12c53ab8609ceaada956a678d6fc98b14f50e38b817e3157d10793a39cc7",
+        "reused": false,
+        "media": {
+          "duration": 187.849433,
+          "format": "mp3",
+          "bitrate": 128053,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nujm4e0ok8/main.mp3",
+        "expectedDuration": 188,
+        "durationDelta": -0.151
+      }
+    },
+    "v_679fa82be4b0694ca0549633": {
+      "id": "v_679fa82be4b0694ca0549633",
+      "title": "35_I'm_a_Frog",
+      "audio": {
+        "path": "media/audio/35_I'm_a_Frog.mp3",
+        "bytes": 2649487,
+        "sha256": "3cd12f92390d43ab2b9e1f664097cb58c4bc43c5f987159587841391d8cefbd3",
+        "reused": false,
+        "media": {
+          "duration": 165.535057,
+          "format": "mp3",
+          "bitrate": 128044,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6nvls520tnj/main.mp3",
+        "expectedDuration": 166,
+        "durationDelta": -0.465
+      }
+    },
+    "v_679fc5dbe4b0694ca05497f9": {
+      "id": "v_679fc5dbe4b0694ca05497f9",
+      "title": "36_My_New_Friend_Is_So_Fun",
+      "audio": {
+        "path": "media/audio/36_My_New_Friend_Is_So_Fun.mp3",
+        "bytes": 2581359,
+        "sha256": "45b4396dca84e8a5286874b847ff7cca36b62ddb9431e7cc87ada26ce81fda72",
+        "reused": false,
+        "media": {
+          "duration": 161.262585,
+          "format": "mp3",
+          "bitrate": 128057,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://encrypt-k-vod.xet.tech/dcf3d541vodtransuse1252524126/2265c17b1397757904140400027/v.f1010.mp3",
+        "expectedDuration": 161,
+        "durationDelta": 0.263
+      }
+    },
+    "v_67a12eb2e4b0694ca054f496": {
+      "id": "v_67a12eb2e4b0694ca054f496",
+      "title": "37_Waiting_Is_Not_Easy",
+      "audio": {
+        "path": "media/audio/37_Waiting_Is_Not_Easy.mp3",
+        "bytes": 2494424,
+        "sha256": "5f6fe29bbc36da99233e00a3f08e0831dd658c055eb507a868899e2c398b3b1f",
+        "reused": false,
+        "media": {
+          "duration": 155.829116,
+          "format": "mp3",
+          "bitrate": 128059,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pjbf7m0c2h/main.mp3",
+        "expectedDuration": 156,
+        "durationDelta": -0.171
+      }
+    },
+    "v_67a13a19e4b0694ca054f50c": {
+      "id": "v_67a13a19e4b0694ca054f50c",
+      "title": "38_I_Will_Take_a_Nap",
+      "audio": {
+        "path": "media/audio/38_I_Will_Take_a_Nap.mp3",
+        "bytes": 4364373,
+        "sha256": "045257a477d239e0855bf74cd64cb7263b01d4626f210790f49cf0feaa277206",
+        "reused": false,
+        "media": {
+          "duration": 272.695147,
+          "format": "mp3",
+          "bitrate": 128036,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pkxtxi0488/main.mp3",
+        "expectedDuration": 273,
+        "durationDelta": -0.305
+      }
+    },
+    "v_67a148a1e4b0694c5a8a875b": {
+      "id": "v_67a148a1e4b0694c5a8a875b",
+      "title": "39_I_Really_Like_Slop",
+      "audio": {
+        "path": "media/audio/39_I_Really_Like_Slop.mp3",
+        "bytes": 2293386,
+        "sha256": "8c81064677ddd7c7bc8ab7083d11e6b96802d9bda34e72b73a175d76b93e8451",
+        "reused": false,
+        "media": {
+          "duration": 143.26712,
+          "format": "mp3",
+          "bitrate": 128062,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6pn8x5408gj/main.mp3",
+        "expectedDuration": 143,
+        "durationDelta": 0.267
+      }
+    },
+    "v_67a17a4fe4b0694ca05500a6": {
+      "id": "v_67a17a4fe4b0694ca05500a6",
+      "title": "40_The_Thank_You_Book",
+      "audio": {
+        "path": "media/audio/40_The_Thank_You_Book.mp3",
+        "bytes": 3209970,
+        "sha256": "937e08345371422ccb585eb8e068a7f3be8b660b0bc1ebb821fc632041655b46",
+        "reused": false,
+        "media": {
+          "duration": 200.550748,
+          "format": "mp3",
+          "bitrate": 128046,
+          "streams": [
+            {
+              "codec_type": "audio",
+              "codec_name": "mp3",
+              "bit_rate": "128000",
+              "sample_rate": "44100",
+              "channels": 2
+            }
+          ],
+          "width": 0,
+          "height": 0
+        },
+        "status": "downloaded",
+        "sourceUrl": "https://v-vod-k.xiaoeknow.com/cf91efe589a64c529f999483f26cf034/appUzEnkPEJ8854/video/b_u_5b2254f549a67_YY3lG1qG/m6psiwck0518/main.mp3",
+        "expectedDuration": 201,
+        "durationDelta": -0.449
+      }
+    }
+  },
+  "images": {
+    "https://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/bbuqgem4oeie4b.png": {
+      "path": "media/images/06ea8c56fda452a4.png",
+      "bytes": 5169048,
+      "sha256": "607d4f6d781a095a0461fd1842f020d47d8f1a301addd88789c86dae417d6aae",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "https://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/bbuqgem4oeie4b.png"
+    },
+    "http://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/bbuqgem4oeie4b.png": {
+      "path": "media/images/06ea8c56fda452a4.png",
+      "bytes": 5169048,
+      "sha256": "607d4f6d781a095a0461fd1842f020d47d8f1a301addd88789c86dae417d6aae",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "http://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/bbuqgem4oeie4b.png"
+    },
+    "https://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/4c3b4fd3c99ba66e.jpg",
+      "bytes": 2228709,
+      "sha256": "578a97bda1b7e224334a43eb0cb44834aa0c2272853266de5b6b882c0352fad4",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "https://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/zcdaz3m3mdxknd.jpg"
+    },
+    "http://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/4c3b4fd3c99ba66e.jpg",
+      "bytes": 2228709,
+      "sha256": "578a97bda1b7e224334a43eb0cb44834aa0c2272853266de5b6b882c0352fad4",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "http://wechatapppro-1252524126.cdn.xiaoeknow.com/appUzEnkPEJ8854/image/b_u_5b2254f549a67_YY3lG1qG/zcdaz3m3mdxknd.jpg"
+    },
+    "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/414320574zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/7e9fc0ba6900c947.jpg",
+      "bytes": 31624,
+      "sha256": "25dc60832f09946551c2e1c98e94738e28e3fde3d003dcc4f1d1c172f817a11c",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/414320574zcdaz3m3mdxknd.jpg"
+    },
+    "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/414320574zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/7e9fc0ba6900c947.jpg",
+      "bytes": 31624,
+      "sha256": "25dc60832f09946551c2e1c98e94738e28e3fde3d003dcc4f1d1c172f817a11c",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/414320574zcdaz3m3mdxknd.jpg"
+    },
+    "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/414320724bbuqgem4oeie4b.png": {
+      "path": "media/images/e33e799654951b25.png",
+      "bytes": 220951,
+      "sha256": "6bfd25f91faf5684215219b937753ef0e7749264b3addfa66f6fddcde8fb24c3",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/414320724bbuqgem4oeie4b.png"
+    },
+    "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/640480404zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/cbb24c06b072ad6b.jpg",
+      "bytes": 61423,
+      "sha256": "c8482e307ea472ab36107b466e6c1a8b40a31bbb878dc0c3b9cc99474447f3f4",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/640480404zcdaz3m3mdxknd.jpg"
+    },
+    "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422140bbuqgem4oeie4b.png": {
+      "path": "media/images/2291d7f1449e5933.png",
+      "bytes": 495848,
+      "sha256": "8b483e70f179337c41146e486e673e6d6374177b9aae1f72305c625aa92ffca5",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422140bbuqgem4oeie4b.png"
+    },
+    "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422140bbuqgem4oeie4b.png": {
+      "path": "media/images/2291d7f1449e5933.png",
+      "bytes": 495848,
+      "sha256": "8b483e70f179337c41146e486e673e6d6374177b9aae1f72305c625aa92ffca5",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422140bbuqgem4oeie4b.png"
+    },
+    "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422629zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/f1d71a76b7c32543.jpg",
+      "bytes": 63501,
+      "sha256": "0f65e3d8f21ef9aaeba37a5c8553be8b50589d4966e4a6847b9632a99cec30da",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "https://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422629zcdaz3m3mdxknd.jpg"
+    },
+    "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422629zcdaz3m3mdxknd.jpg": {
+      "path": "media/images/f1d71a76b7c32543.jpg",
+      "bytes": 63501,
+      "sha256": "0f65e3d8f21ef9aaeba37a5c8553be8b50589d4966e4a6847b9632a99cec30da",
+      "reused": false,
+      "media": null,
+      "status": "downloaded",
+      "sourceUrl": "http://wechatapppro-1252524126.file.myqcloud.com/appUzEnkPEJ8854/image/compress/750422629zcdaz3m3mdxknd.jpg"
+    }
+  },
+  "updatedAt": "2026-11-05T18:46:41.335064+08:00",
+  "summary": {
+    "audioCount": 41,
+    "imageCount": 7,
+    "audioBytes": 277422664,
+    "imageBytes": 8271104,
+    "errors": []
+  }
+}

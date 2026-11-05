@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>课程绘本书架 · 我的学习室</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="books.css">
+</head>
+<body class="books-page">
+  <a class="skip-link" href="#books-main">跳到绘本书架</a>
+  <header class="topbar">
+    <a class="brand book-brand" href="index.html" aria-label="返回课程学习室"><span class="brand-symbol" aria-hidden="true">Aa<span>↗</span></span><span>我的学习室<small>把知识，留在身边。</small></span></a>
+    <nav class="book-top-nav" aria-label="学习室页面"><a href="index.html">课程学习</a><a href="books.html" aria-current="page">绘本书架</a></nav>
+  </header>
+  <main id="books-main" class="books-main" tabindex="-1">
+    <div class="breadcrumb"><a href="index.html">课程学习室</a><span>/</span><span>绘本书架</span></div>
+    <section class="books-intro" aria-labelledby="books-heading">
+      <div><p id="book-course-title" class="book-course-title"></p><h1 id="books-heading">课程里的绘本，<br><em>在这里重逢。</em></h1><p class="books-lead">按封面找一本书，回到课堂里的那次阅读。</p></div>
+      <div class="books-intro-aside"><div class="book-tally"><strong id="book-total">0</strong><span id="book-total-label">本已整理绘本</span></div><p id="book-scope" class="book-scope">书目整理中。这里会展示已确认的课程书目与本地封面。</p></div>
+    </section>
+    <section class="books-library" aria-label="绘本目录">
+      <div class="book-tools">
+        <label class="search-box book-search"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg><input type="search" id="book-search" aria-label="搜索书名、作者或系列" placeholder="搜索书名、作者或系列…"></label>
+        <label class="book-filter"><span class="sr-only">按系列筛选</span><select id="book-series"><option value="all">全部系列</option></select></label>
+        <label class="book-filter"><span class="sr-only">按提及方式筛选</span><select id="book-evidence"><option value="all">全部提及方式</option><option value="lesson-title">课名明确提及</option><option value="spoken">课堂讲述提及</option><option value="visual">画面展示</option><option value="reading-match">朗读内容匹配</option></select></label>
+        <p id="book-results" class="book-results" aria-live="polite"></p>
+      </div>
+      <div id="book-grid" class="book-grid"></div>
+      <div id="book-empty" class="books-empty" hidden><h2>没有找到匹配的绘本</h2><p>试试更短的书名，或清除筛选条件。</p><button id="book-reset" class="button">清除筛选</button></div>
+    </section>
+    <section id="book-references" class="book-references" aria-label="课程中的其他书目线索" hidden></section>
+    <footer class="books-footer"><span>封面保存在本地，断网也可以翻看。</span><span id="books-updated"></span><a href="index.html">返回课程学习 →</a></footer>
+  </main>
+  <script src="course-data.js"></script>
+  <script src="books-data.js"></script>
+  <script src="books.js"></script>
+</body>
+</html>

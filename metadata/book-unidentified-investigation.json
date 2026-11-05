@@ -1,0 +1,100 @@
+{
+  "scope": "Additional independent frame review; source videos unchanged",
+  "items": [
+    {
+      "lesson": "01_母语",
+      "timeSeconds": 524,
+      "author": "Roderick Hunt",
+      "series": "Oxford Reading Tree / Floppy’s Phonics",
+      "confidence": "high-confidence candidate only; same-edition image/text match not obtained",
+      "observed": "Local frame contains tin/mat and dog/rug text with the Biff/Chip/Floppy family. Current official teaching notes use pan/jam, so edition-specific wording differs.",
+      "editionISBN": null,
+      "references": [
+        "https://cdn.oxfordowl.co.uk/2016/05/05/09/16/19/469/ort_fp_fic_bigmess_tns.pdf"
+      ],
+      "localEvidence": [
+        ".private/book-visual-review/01-524.jpg",
+        ".private/book-visual-review/01-518-532.jpg"
+      ],
+      "titleCandidate": "A Big Mess",
+      "status": "candidate_not_confirmed",
+      "difference": "Course frame reads “The tin fell on the mat.”; official 2014 OUP teaching notes discuss spilled jam and pan/ran. The lesson book appears to show a paint tin. This difference is not resolved and may indicate another edition or another text.",
+      "referenceAssessment": [
+        {
+          "url": "https://cdn.oxfordowl.co.uk/2016/05/05/09/16/19/469/ort_fp_fic_bigmess_tns.pdf",
+          "supports": "Official title, author, level, characters and mess plot; shows pan/jam wording, not the exact course tin wording."
+        },
+        {
+          "url": "https://www.scribd.com/document/693758103/Oxford-Floppy-s-Phonics-Readers-Summary-Stage-1",
+          "supports": "Secondary reader-summary search result associates the dog/rug sequence with A Big Mess, but gives pan rather than tin; used as candidate lead, not definitive same-edition proof."
+        }
+      ],
+      "nextCheck": "Need matching tin/mat edition page or title/copyright page before promoting to confirmed."
+    },
+    {
+      "lesson": "13_绘本的使用",
+      "rangeSeconds": [
+        500,
+        549
+      ],
+      "title": "Spot Goes on Holiday",
+      "author": "Eric Hill",
+      "confidence": "high title match; exact video edition not verified",
+      "observed": "Local page shows overboard splash flap; surrounding ASR sequence concerns boat, overboard, towel, new friend. Official Scholastic description explicitly includes boat trip and overboard.",
+      "editionISBN": null,
+      "references": [
+        "https://shop.scholastic.co.uk/products/Spot-Goes-on-Holiday-Eric-Hill-9780140506990",
+        "https://www.penguin.co.uk/books/37693/spot-goes-on-holiday-by-eric-hill/9780141343778"
+      ],
+      "localEvidence": [
+        ".private/book-visual-review/13-527.jpg",
+        ".private/book-visual-review/13-498-552.jpg"
+      ],
+      "note": "Do not substitute the different 2019 surfing board book Spot Goes to the Beach, ISBN 9780241351826.",
+      "status": "high_confidence_title_match_edition_unknown",
+      "referenceAssessment": [
+        {
+          "url": "https://shop.scholastic.co.uk/products/Spot-Goes-on-Holiday-Eric-Hill-9780140506990",
+          "supports": "Scholastic official product listing for the older UK title explicitly describes boat trip and splashing overboard, matching the pictured flap scene."
+        },
+        {
+          "url": "https://www.penguin.co.uk/books/37693/spot-goes-on-holiday-by-eric-hill/9780141343778",
+          "supports": "Publisher title/author and beach/family/new-friend plot; UK paperback ISBN 9780141343778, 2013 edition."
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/333018/spot-goes-to-the-beach-by-eric-hill/",
+          "supports": "US publisher currently lists a 2019 12-page board book, ISBN 9780241351826, focused on surfing. This is not evidence for the older boat/overboard book."
+        }
+      ],
+      "editionNote": "Video shows the older boat/overboard/towel/new-friend story. UK title is Spot Goes on Holiday; the precise ISBN of the copy in the video is not visible. Do not infer ISBN or a particular US edition from the translated/regional title alone."
+    },
+    {
+      "lesson": "07_说（唱）",
+      "rangeSeconds": [
+        144,
+        165
+      ],
+      "titleCandidate": "A Fly Went By",
+      "confidence": "No visual confirmation; text matching candidate only",
+      "observed": "Six sampled frames only show child reciting in a car; no book or title page.",
+      "localEvidence": [
+        ".private/visual-review07/144-165.jpg"
+      ]
+    },
+    {
+      "lesson": "07_说（唱）",
+      "rangeSeconds": [
+        237,
+        307
+      ],
+      "title": null,
+      "confidence": "Book shown, title and edition unknown",
+      "observed": "Alphabet picture book interior with individual letter/object spreads, coloured panels and borders. C cat, E elephant, F fish, G girl, H house, I iron, J jug. I is an electric iron with white body, blue handle, black cord, not ice cream.",
+      "localEvidence": [
+        ".private/visual-review07/237-307.jpg",
+        ".private/visual-review07/287.jpg"
+      ]
+    }
+  ],
+  "conclusion": "A Big Mess remains a candidate because observed wording differs from the available official material. Spot Goes on Holiday is a high-confidence story/title match, with exact physical edition unresolved. The 07 alphabet book remains unidentified."
+}

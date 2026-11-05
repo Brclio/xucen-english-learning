@@ -1,0 +1,4 @@
+# Ordinary Git only. Oversized originals are preserved locally and restored from parts.
+media/videos/*.mp4 -diff -merge -text
+media/audio/*.mp3 -diff -merge -text
+media/video-parts/** -diff -merge -text

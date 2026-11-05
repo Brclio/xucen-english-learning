@@ -1,0 +1,53 @@
+{
+  "identicalAdjacentPackets": [],
+  "packetsAroundDuplicate": [
+    {
+      "pts": 32508000,
+      "dts": 32486400,
+      "size": "1495",
+      "data_hash": "SHA256:d0735eb00c85f3454ee0d7317a7e1d0b3702470b8bf2c77348606f76fbbb8d98",
+      "side_data_list": [
+        {
+          "side_data_type": "MPEGTS Stream ID",
+          "id": 224
+        }
+      ]
+    },
+    {
+      "pts": 32515200,
+      "dts": 32490000,
+      "size": "46599",
+      "data_hash": "SHA256:31dd101fe920d8bfe2994378f925df382599d0dba6c4ef1e46da9a5a3de607b4",
+      "side_data_list": [
+        {
+          "side_data_type": "MPEGTS Stream ID",
+          "id": 224
+        }
+      ]
+    },
+    {
+      "pts": 32515200,
+      "dts": 32490000,
+      "size": "61482",
+      "data_hash": "SHA256:d00b7ee1804d73937a261a130dbdb28db0b039652e6fc90ee7e675e546e5659c",
+      "side_data_list": [
+        {
+          "side_data_type": "MPEGTS Stream ID",
+          "id": 224
+        }
+      ]
+    },
+    {
+      "pts": 32536800,
+      "dts": 32493600,
+      "size": "22556",
+      "data_hash": "SHA256:d4f73214398384e1d7fc36c7e526f5f470de7c5d8453b8c805c2ad22325cf114",
+      "side_data_list": [
+        {
+          "side_data_type": "MPEGTS Stream ID",
+          "id": 224
+        }
+      ]
+    }
+  ]
+}
